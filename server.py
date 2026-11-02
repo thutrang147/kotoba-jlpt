@@ -319,12 +319,13 @@ def ready_to_master(c,card):
     ps={r['skill']:dict(r) for r in c.execute('SELECT * FROM progress WHERE card_id=?',(card['id'],))}
     return all(s in ps and ps[s]['phase']=='ready' for s in card_skills(card))
 
-def submit_answer(data):
+def submit_answer(data, *, _event_checked=False):
     cid=str(data.get('card_id',''));sk=str(data.get('skill',''));eid=str(data.get('event_id',''))
     if not eid or len(eid)>100 or len(cid)>130:raise ValueError('ID không hợp lệ')
     with LOCK,connect() as c:
-        old=c.execute('SELECT body FROM events WHERE id=?',(eid,)).fetchone()
-        if old:return json.loads(old['body'])
+        if not _event_checked:
+            old=c.execute('SELECT body FROM events WHERE id=?',(eid,)).fetchone()
+            if old:return json.loads(old['body'])
         row=c.execute('SELECT body FROM cards WHERE id=?',(cid,)).fetchone()
         if not row:raise ValueError('Không tìm thấy từ')
         card=json.loads(row['body'])
@@ -608,31 +609,32 @@ class Handler(BaseHTTPRequestHandler):
                 if not token:return self.send({'error':'Sai mật khẩu hoặc tạm khóa 15 phút sau nhiều lần thử.'},401)
                 self.response_cookie=online.cookie(token)
                 return self.send({'ok':True})
-            if not online.authenticated(sys.modules[__name__],self.headers):return self.send({'error':'Cần đăng nhập'},401)
-            if self.path=='/api/logout':
-                with connect() as c:c.execute('DELETE FROM auth_sessions WHERE token=?',(online.token_from(self.headers),))
-                self.response_cookie=online.cookie('',True)
-                return self.send({'ok':True})
-            if self.path=='/api/adopt-session':res=online.adopt_legacy(sys.modules[__name__],data)
-            elif self.path=='/api/session':res=online.transition(sys.modules[__name__],data)
-            elif self.path=='/api/answer':res=online.answer(sys.modules[__name__],data)
-            elif self.path=='/api/master':res=set_mastered(data)
-            elif self.path=='/api/restore':res=restore(data)
-            elif self.path=='/api/import':
-                rows=data.get('cards',[])
-                if 'csv' in data:
-                    rows=list(csv.DictReader(io.StringIO(data['csv'].lstrip('\ufeff'))))
-                    for card in rows:
-                        for key in ('reading_aliases','meaning_aliases','structure_aliases','source_refs'):
-                            if key in card:card[key]=json.loads(card[key]) if card[key] else []
-                        if 'verified' in card:
-                            if card['verified'].lower() not in ('true','false','1','0',''):raise ValueError('verified cần true hoặc false')
-                            card['verified']=card['verified'].lower() in ('true','1')
-                res=import_cards(rows)
-            elif self.path=='/api/enrich':res=enrich_dictionary()
-            elif self.path=='/api/import_soumatome':res=import_community_soumatome()
-            elif self.path=='/api/import_all_sources':res=import_all_sources()
-            else:return self.send({'error':'Không tìm thấy'},404)
+            with LOCK,connect():
+                if not online.authenticated(sys.modules[__name__],self.headers):return self.send({'error':'Cần đăng nhập'},401)
+                if self.path=='/api/logout':
+                    with connect() as c:c.execute('DELETE FROM auth_sessions WHERE token=?',(online.token_from(self.headers),))
+                    self.response_cookie=online.cookie('',True)
+                    res={'ok':True}
+                elif self.path=='/api/adopt-session':res=online.adopt_legacy(sys.modules[__name__],data)
+                elif self.path=='/api/session':res=online.transition(sys.modules[__name__],data)
+                elif self.path=='/api/answer':res=online.answer(sys.modules[__name__],data)
+                elif self.path=='/api/master':res=set_mastered(data)
+                elif self.path=='/api/restore':res=restore(data)
+                elif self.path=='/api/import':
+                    rows=data.get('cards',[])
+                    if 'csv' in data:
+                        rows=list(csv.DictReader(io.StringIO(data['csv'].lstrip('\ufeff'))))
+                        for card in rows:
+                            for key in ('reading_aliases','meaning_aliases','structure_aliases','source_refs'):
+                                if key in card:card[key]=json.loads(card[key]) if card[key] else []
+                            if 'verified' in card:
+                                if card['verified'].lower() not in ('true','false','1','0',''):raise ValueError('verified cần true hoặc false')
+                                card['verified']=card['verified'].lower() in ('true','1')
+                    res=import_cards(rows)
+                elif self.path=='/api/enrich':res=enrich_dictionary()
+                elif self.path=='/api/import_soumatome':res=import_community_soumatome()
+                elif self.path=='/api/import_all_sources':res=import_all_sources()
+                else:return self.send({'error':'Không tìm thấy'},404)
             return self.send(res)
         except online.Conflict as e:self.send({'error':str(e)},409)
         except (ValueError,KeyError,TypeError,sqlite3.Error,URLError,TimeoutError,ConnectionError,OSError,zipfile.BadZipFile) as e:self.send({'error':str(e)},400)

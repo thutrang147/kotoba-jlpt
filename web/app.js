@@ -57,7 +57,13 @@ function home(){let s=stats(), resume=!!study.snapshot&&!study.snapshot.finished
   bind('#start',()=>resume?resumeSession():start());bind('#progressDetail',()=>{tab='progress';render()});}
 async function resumeSession(){applyStudy(await api('/api/session'));active=true;showQuestion();}
 async function start(){if(busy)return;busy=true;try{applyStudy(await api('/api/session',{action:'start',revision:study.revision}));active=true;showQuestion();}finally{busy=false;}}
-async function next(){if(!active||busy)return;busy=true;try{applyStudy(await api('/api/session',{action:'next',revision:study.revision}));showQuestion();}finally{busy=false;}}
+async function next(){
+  if(!active||busy)return;
+  busy=true;const button=$('#next'),label=button?.textContent;
+  if(button){button.disabled=true;button.textContent='Đang chuyển câu…';}
+  try{applyStudy(await api('/api/session',{action:'next',revision:study.revision}));showQuestion();}
+  finally{busy=false;if(button?.isConnected){button.disabled=false;button.textContent=label;}}
+}
 function showQuestion(){if(!current)return finish();say('');const q=current;
   const cardIndex=Number(q.card_index)||Math.min(10,completedCards+1);
   $('#content').innerHTML=`<div class="study"><div class="row between"><button id="pause" class="quiet small">← Tạm dừng</button><span class="smallprint">Thẻ ${cardIndex}/10 · ${q.kind==='grammar'?'Ngữ pháp':'Từ vựng'}</span></div><div class="progress-bar"><div style="width:${Math.min(100,Math.round(100*completedCards/10))}%"></div></div><div class="panel q-card"><div class="q-top"><span class="chip">${q.group_total>1?`${q.skill==='reading'?'Cách đọc':'Nghĩa'} ${q.group_step}/${q.group_total}`:esc(skillNames[q.skill])}</span><span class="smallprint">${q.mode==='choice'?'Trắc nghiệm':'Tự viết'} ${q.mode==='write'?'✎':''}</span></div><div class="q-word ${q.kind==='grammar'?'grammar':''}" lang="ja">${esc(q.prompt)}</div><p class="lead" style="margin:-18px auto 28px">${esc(q.question)}</p>
@@ -71,11 +77,13 @@ async function submit(value,giveUp=false){
   if(!current||busy||current.feedback)return;
   if(!giveUp&&!String(value).trim())throw Error('Hãy nhập hoặc chọn đáp án.');
   busy=true;document.querySelectorAll('#answerArea button').forEach(b=>b.disabled=true);
+  const status=$('#giveup'),label=status?.textContent;
+  if(status)status.textContent='Đang lưu câu trả lời…';
   try{
     const x=await api('/api/answer',{revision:study.revision,card_id:current.card_id,skill:current.skill,event_id:current.event_id,answer:value,give_up:giveUp});
     applyStudy(x);showQuestion();
   }catch(e){say('Chưa xác nhận lưu: '+e.message);document.querySelectorAll('#answerArea button').forEach(b=>b.disabled=false);}
-  finally{busy=false;}
+  finally{busy=false;if(status?.isConnected)status.textContent=label;}
 }
 async function markMastered(){if(!current||busy)return;await api('/api/master',{card_id:current.card_id,mastered:true});await next();}
 async function loadStateSilently(){state=await api('/api/state');applyStudy(state.study);}

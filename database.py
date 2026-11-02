@@ -6,9 +6,37 @@ single-user application's reads/mutations across workers, including empty rows.
 import os
 import sqlite3
 import threading
-from contextlib import contextmanager
+import atexit
+from contextlib import contextmanager, closing
 
 _local = threading.local()
+_pool = None
+_pool_url = None
+_pool_lock = threading.Lock()
+
+def close_pool():
+    global _pool, _pool_url
+    with _pool_lock:
+        if _pool is not None:
+            _pool.close()
+        _pool = _pool_url = None
+
+atexit.register(close_pool)
+
+def postgres_pool(url):
+    global _pool, _pool_url
+    with _pool_lock:
+        if _pool is None or _pool_url != url:
+            if _pool is not None:
+                _pool.close()
+            from psycopg_pool import ConnectionPool
+            from psycopg.rows import dict_row
+            _pool = ConnectionPool(url, min_size=0, max_size=4, open=True,
+                                   timeout=15, max_idle=60, max_lifetime=300,
+                                   kwargs={'row_factory':dict_row,'connect_timeout':10},
+                                   check=ConnectionPool.check_connection)
+            _pool_url = url
+        return _pool
 
 class Postgres:
     def __init__(self, raw): self.raw = raw
@@ -24,28 +52,24 @@ def connection(path):
         yield _local.connection
         return
     url = os.environ.get('DATABASE_URL')
-    if url:
-        import psycopg
-        from psycopg.rows import dict_row
-        raw = psycopg.connect(url, row_factory=dict_row, connect_timeout=15)
-        c = Postgres(raw)
-        raw.execute('SET TIME ZONE \'UTC\'')
-        raw.execute('SELECT pg_advisory_xact_lock(734902138)')
-    else:
-        raw = sqlite3.connect(path, timeout=30)
-        raw.row_factory = sqlite3.Row
-        raw.execute('BEGIN IMMEDIATE')
-        c = raw
-    _local.connection = c
-    try:
-        yield c
-        raw.commit()
-    except BaseException:
-        raw.rollback()
-        raise
-    finally:
-        _local.connection = None
-        raw.close()
+    manager = postgres_pool(url).connection() if url else closing(sqlite3.connect(path, timeout=30))
+    with manager as raw:
+        try:
+            if url:
+                c = Postgres(raw)
+                raw.execute("SELECT pg_advisory_xact_lock(734902138), set_config('TimeZone','UTC',true)")
+            else:
+                raw.row_factory = sqlite3.Row
+                raw.execute('BEGIN IMMEDIATE')
+                c = raw
+            _local.connection = c
+            yield c
+            raw.commit()
+        except BaseException:
+            raw.rollback()
+            raise
+        finally:
+            _local.connection = None
 
 def columns(c, table):
     if os.environ.get('DATABASE_URL'):

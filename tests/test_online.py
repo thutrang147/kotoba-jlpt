@@ -42,6 +42,18 @@ class OnlineTests(unittest.TestCase):
             with psycopg.connect(self.url,autocommit=True) as c:c.execute('DROP SCHEMA '+self.schema+' CASCADE')
         server.DB=self.old_db;self.tmp.cleanup();self.env.stop()
     def start(self):return online.transition(server,{'action':'start','revision':server.study_state()['revision']})
+    def test_nested_transaction_rolls_back_and_next_request_can_commit(self):
+        with self.assertRaises(ValueError):
+            with server.connect() as outer:
+                with server.connect() as inner:
+                    self.assertIs(inner,outer)
+                    inner.execute('INSERT INTO settings VALUES (?,?)',('rollback-test','discard'))
+                raise ValueError('abort request')
+        with server.connect() as c:
+            self.assertIsNone(c.execute('SELECT value FROM settings WHERE key=?',('rollback-test',)).fetchone())
+            c.execute('INSERT INTO settings VALUES (?,?)',('rollback-test','keep'))
+        with server.connect() as c:
+            self.assertEqual(c.execute('SELECT value FROM settings WHERE key=?',('rollback-test',)).fetchone()['value'],'keep')
     def answer(self,s,wrong=False):
         q=s['snapshot']['current']
         with server.connect() as c:card=json.loads(c.execute('SELECT body FROM cards WHERE id=?',(q['card_id'],)).fetchone()['body'])

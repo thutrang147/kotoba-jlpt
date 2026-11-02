@@ -110,7 +110,8 @@ def answer(app, data):
         s = saved['snapshot']; q = s.get('current') if s else None
         if not q or q.get('feedback') or any(data.get(k)!=q.get(k) for k in ('event_id','card_id','skill')):
             raise Conflict('Câu hỏi đã thay đổi. Hãy tải lại lượt học.')
-        r = app.submit_answer(data)
+        # The event was checked above under this same transaction's advisory lock.
+        r = app.submit_answer(data, _event_checked=True)
         s['done'] += 1; s['correct'] += int(r['correct'])
         results = s['groupResults']
         while len(results) < q['group_step']: results.append(None)
