@@ -1,0 +1,25 @@
+{
+  "total_pdf_pages": 469,
+  "total_cards": 3930,
+  "vocab_cards": 3785,
+  "grammar_cards": 145,
+  "manually_verified_cards": 191,
+  "pages_with_at_least_one_manually_verified_card": 18,
+  "pages_without_manual_card_verification": 451,
+  "pages_ocr_empty": [
+    {
+      "book": "Ngữ pháp",
+      "pdf_page": 14
+    },
+    {
+      "book": "Kanji",
+      "pdf_page": 69
+    },
+    {
+      "book": "Kanji",
+      "pdf_page": 91
+    }
+  ],
+  "ocr_unresolved_occurrences": 10056,
+  "warning": "Do not read OCR-match counts as fraction of verified vocabulary completeness."
+}

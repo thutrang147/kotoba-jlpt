@@ -1,0 +1,1864 @@
+[
+  {
+    "id": "daa6a2b0003f4e88",
+    "term": "キッチン",
+    "reading": "キッチン",
+    "meaning": "nhà bếp",
+    "meaning_aliases": [
+      "bếp"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "8f612ce070a13321",
+    "term": "台所",
+    "reading": "だいどころ",
+    "meaning": "nhà bếp",
+    "meaning_aliases": [
+      "bếp"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "ad73221b6bdd41aa",
+    "term": "電子レンジ",
+    "reading": "でんしレンジ",
+    "meaning": "lò vi sóng",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "3d1497a24f190b35",
+    "term": "ガスレンジ",
+    "reading": "ガスレンジ",
+    "meaning": "bếp ga",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "8f5cb44c71f806da",
+    "term": "ガスコンロ",
+    "reading": "ガスコンロ",
+    "meaning": "bếp ga",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "931577403e703d70",
+    "term": "茶わん",
+    "reading": "ちゃわん",
+    "meaning": "bát; chén",
+    "meaning_aliases": [
+      "bát",
+      "chén"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "b617c6c2eb2b89dc",
+    "term": "ワイングラス",
+    "reading": "ワイングラス",
+    "meaning": "ly uống rượu vang",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "338228095ec6a799",
+    "term": "冷蔵庫",
+    "reading": "れいぞうこ",
+    "meaning": "tủ lạnh",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "4f9113f183ebb435",
+    "term": "コーヒーカップ",
+    "reading": "コーヒーカップ",
+    "meaning": "tách cà phê",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "14543391f3c65ff7",
+    "term": "湯飲み",
+    "reading": "ゆのみ",
+    "meaning": "chén uống trà",
+    "meaning_aliases": [
+      "tách trà"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "1842c805dd7d564e",
+    "term": "ガラス",
+    "reading": "ガラス",
+    "meaning": "thủy tinh",
+    "meaning_aliases": [
+      "kính"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "2e08222fd4428b8d",
+    "term": "コップ",
+    "reading": "コップ",
+    "meaning": "cốc uống nước",
+    "meaning_aliases": [
+      "cốc"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "ee991be9370ad43c",
+    "term": "レバー",
+    "reading": "レバー",
+    "meaning": "cần gạt",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "c22c664e3cb834a0",
+    "term": "流し",
+    "reading": "ながし",
+    "meaning": "bồn rửa",
+    "meaning_aliases": [
+      "bồn rửa bát"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "0437ebc0853c8355",
+    "term": "リビング",
+    "reading": "リビング",
+    "meaning": "phòng khách",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "de2dac01b3c850ca",
+    "term": "居間",
+    "reading": "いま",
+    "meaning": "phòng khách",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "1beef451eac9c9d6",
+    "term": "窓ガラス",
+    "reading": "まどガラス",
+    "meaning": "kính cửa sổ",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "961b4a3c06404fd3",
+    "term": "天井",
+    "reading": "てんじょう",
+    "meaning": "trần nhà",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "5a2f7a448dce6c3c",
+    "term": "床",
+    "reading": "ゆか",
+    "meaning": "sàn nhà",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "233741007b95967f",
+    "term": "雨戸",
+    "reading": "あまど",
+    "meaning": "cửa chớp chống mưa",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "8f472fba185a09b0",
+    "term": "網戸",
+    "reading": "あみど",
+    "meaning": "cửa lưới",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "4d5fce6d49e33e41",
+    "term": "コンセント",
+    "reading": "コンセント",
+    "meaning": "ổ cắm điện",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "81478a90ce051a8c",
+    "term": "コード",
+    "reading": "コード",
+    "meaning": "dây điện",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "d664f5f16063614a",
+    "term": "エアコン",
+    "reading": "エアコン",
+    "meaning": "máy điều hòa",
+    "meaning_aliases": [
+      "điều hòa"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "a131ba07a4b2c01f",
+    "term": "ヒーター",
+    "reading": "ヒーター",
+    "meaning": "máy sưởi",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "1af7bd3c70d6397c",
+    "term": "じゅうたん",
+    "reading": "じゅうたん",
+    "meaning": "thảm trải sàn",
+    "meaning_aliases": [
+      "thảm"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "5877a32ce818929f",
+    "term": "カーペット",
+    "reading": "カーペット",
+    "meaning": "thảm trải sàn",
+    "meaning_aliases": [
+      "thảm"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "bba13aada3446af4",
+    "term": "水道",
+    "reading": "すいどう",
+    "meaning": "nước máy; hệ thống cấp nước",
+    "meaning_aliases": [
+      "nước máy"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "c091af84c236fffe",
+    "term": "蛇口",
+    "reading": "じゃぐち",
+    "meaning": "vòi nước",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "b2942d6d3e9b3309",
+    "term": "ひねる",
+    "reading": "ひねる",
+    "meaning": "vặn; xoay",
+    "meaning_aliases": [
+      "vặn",
+      "xoay"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "abf955b94b8e9ff7",
+    "term": "凍る",
+    "reading": "こおる",
+    "meaning": "đóng băng",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "09eba77966444cec",
+    "term": "氷",
+    "reading": "こおり",
+    "meaning": "nước đá",
+    "meaning_aliases": [
+      "đá"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "3f09bd0a7cf460df",
+    "term": "冷凍する",
+    "reading": "れいとうする",
+    "meaning": "đông lạnh",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "1459ed0b3dd73261",
+    "term": "保存する",
+    "reading": "ほぞんする",
+    "meaning": "bảo quản; lưu giữ",
+    "meaning_aliases": [
+      "bảo quản",
+      "lưu giữ"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "7bf51c8434d59d20",
+    "term": "残り物",
+    "reading": "のこりもの",
+    "meaning": "đồ còn thừa",
+    "meaning_aliases": [
+      "thức ăn thừa"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "a931efee37b9d5b0",
+    "term": "温める",
+    "reading": "あたためる",
+    "meaning": "làm nóng; hâm nóng",
+    "meaning_aliases": [
+      "hâm nóng",
+      "làm nóng"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "1aa328040a1f41f3",
+    "term": "冷やす",
+    "reading": "ひやす",
+    "meaning": "làm lạnh",
+    "meaning_aliases": [
+      "ướp lạnh"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "a5047f25e4e39ab1",
+    "term": "冷える",
+    "reading": "ひえる",
+    "meaning": "trở nên lạnh",
+    "meaning_aliases": [
+      "lạnh đi"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 13",
+    "verified": true
+  },
+  {
+    "id": "19fd92b1e89615e4",
+    "term": "リモコン",
+    "reading": "リモコン",
+    "meaning": "điều khiển từ xa",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 14",
+    "verified": true
+  },
+  {
+    "id": "056de02aab40a613",
+    "term": "電源",
+    "reading": "でんげん",
+    "meaning": "nguồn điện",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 14",
+    "verified": true
+  },
+  {
+    "id": "57fd7ba32723168e",
+    "term": "電源を入れる",
+    "reading": "でんげんをいれる",
+    "meaning": "bật nguồn điện",
+    "meaning_aliases": [
+      "bật nguồn"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 14",
+    "verified": true
+  },
+  {
+    "id": "f2318da72b5507a8",
+    "term": "スイッチを切る",
+    "reading": "スイッチをきる",
+    "meaning": "tắt công tắc",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 14",
+    "verified": true
+  },
+  {
+    "id": "2a975e646e326c8d",
+    "term": "敷く",
+    "reading": "しく",
+    "meaning": "trải; lót",
+    "meaning_aliases": [
+      "trải",
+      "lót"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 14",
+    "verified": true
+  },
+  {
+    "id": "0ac568093e4361af",
+    "term": "暖める",
+    "reading": "あたためる",
+    "meaning": "làm ấm",
+    "meaning_aliases": [
+      "sưởi ấm"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 14",
+    "verified": true
+  },
+  {
+    "id": "7c06c1397fa9c4c1",
+    "term": "暖房",
+    "reading": "だんぼう",
+    "meaning": "hệ thống sưởi",
+    "meaning_aliases": [
+      "sưởi"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 14",
+    "verified": true
+  },
+  {
+    "id": "e3242abc0c065404",
+    "term": "冷房",
+    "reading": "れいぼう",
+    "meaning": "hệ thống làm mát",
+    "meaning_aliases": [
+      "điều hòa lạnh"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 14",
+    "verified": true
+  },
+  {
+    "id": "514655ffea137779",
+    "term": "効く",
+    "reading": "きく",
+    "meaning": "có tác dụng; hoạt động hiệu quả",
+    "meaning_aliases": [
+      "có tác dụng"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 14",
+    "verified": true
+  },
+  {
+    "id": "f2ee908dee4c3ee0",
+    "term": "日当たりがいい",
+    "reading": "ひあたりがいい",
+    "meaning": "đón nắng tốt",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 14",
+    "verified": true
+  },
+  {
+    "id": "6427b700ee09d3da",
+    "term": "日当たりが悪い",
+    "reading": "ひあたりがわるい",
+    "meaning": "ít ánh nắng chiếu vào",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nhà bếp & phòng khách",
+    "source": "Soumatome N3 Từ vựng · PDF 14",
+    "verified": true
+  },
+  {
+    "id": "fc52baa13bc2249e",
+    "term": "虫",
+    "reading": "むし",
+    "meaning": "côn trùng",
+    "meaning_aliases": [
+      "sâu bọ"
+    ],
+    "kind": "vocab",
+    "tier": "extra",
+    "topic": "Từ bổ sung · Bài tập nhà cửa",
+    "source": "Soumatome N3 Từ vựng · PDF 14",
+    "verified": true
+  },
+  {
+    "id": "4d78c8f9b41cd602",
+    "term": "閉める",
+    "reading": "しめる",
+    "meaning": "đóng (cửa)",
+    "meaning_aliases": [
+      "đóng"
+    ],
+    "kind": "vocab",
+    "tier": "extra",
+    "topic": "Từ bổ sung · Bài tập nhà cửa",
+    "source": "Soumatome N3 Từ vựng · PDF 14",
+    "verified": true
+  },
+  {
+    "id": "2df5b992f2a44399",
+    "term": "部屋",
+    "reading": "へや",
+    "meaning": "căn phòng",
+    "meaning_aliases": [
+      "phòng"
+    ],
+    "kind": "vocab",
+    "tier": "extra",
+    "topic": "Từ bổ sung · Bài tập nhà cửa",
+    "source": "Soumatome N3 Từ vựng · PDF 14",
+    "verified": true
+  },
+  {
+    "id": "2d0a728265456084",
+    "term": "火",
+    "reading": "ひ",
+    "meaning": "lửa",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "extra",
+    "topic": "Từ bổ sung · Bài tập nhà cửa",
+    "source": "Soumatome N3 Từ vựng · PDF 14",
+    "verified": true
+  },
+  {
+    "id": "61b493e62023214f",
+    "term": "磨く",
+    "reading": "みがく",
+    "meaning": "đánh bóng; chà sạch",
+    "meaning_aliases": [
+      "đánh bóng"
+    ],
+    "kind": "vocab",
+    "tier": "extra",
+    "topic": "Từ bổ sung · Bài tập nhà cửa",
+    "source": "Soumatome N3 Từ vựng · PDF 14",
+    "verified": true
+  },
+  {
+    "id": "7bba2836a342cf41",
+    "term": "お湯",
+    "reading": "おゆ",
+    "meaning": "nước nóng",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "extra",
+    "topic": "Từ bổ sung · Bài tập nhà cửa",
+    "source": "Soumatome N3 Từ vựng · PDF 14",
+    "verified": true
+  },
+  {
+    "id": "9a4c34a6a9e2e627",
+    "term": "材料",
+    "reading": "ざいりょう",
+    "meaning": "nguyên liệu; vật liệu",
+    "meaning_aliases": [
+      "nguyên liệu",
+      "vật liệu"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 15",
+    "verified": true
+  },
+  {
+    "id": "27c0a8a9373f6b30",
+    "term": "牛肉",
+    "reading": "ぎゅうにく",
+    "meaning": "thịt bò",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 15",
+    "verified": true
+  },
+  {
+    "id": "15bbe98ca04a73c8",
+    "term": "ジャガイモ",
+    "reading": "ジャガイモ",
+    "meaning": "khoai tây",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 15",
+    "verified": true
+  },
+  {
+    "id": "afc5f847cfe85a3f",
+    "term": "玉ネギ",
+    "reading": "たまねぎ",
+    "meaning": "hành tây",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 15",
+    "verified": true
+  },
+  {
+    "id": "6ed270a898c2e76f",
+    "term": "調味料",
+    "reading": "ちょうみりょう",
+    "meaning": "gia vị",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 15",
+    "verified": true
+  },
+  {
+    "id": "048ec6d0c745bcac",
+    "term": "砂糖",
+    "reading": "さとう",
+    "meaning": "đường ăn",
+    "meaning_aliases": [
+      "đường"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 15",
+    "verified": true
+  },
+  {
+    "id": "01dbf3e5b7f2e107",
+    "term": "しょうゆ",
+    "reading": "しょうゆ",
+    "meaning": "nước tương",
+    "meaning_aliases": [
+      "xì dầu"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 15",
+    "verified": true
+  },
+  {
+    "id": "16e0f22b8e130a32",
+    "term": "サラダ油",
+    "reading": "サラダゆ",
+    "meaning": "dầu ăn (dầu salad)",
+    "meaning_aliases": [
+      "dầu ăn"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 15",
+    "verified": true
+  },
+  {
+    "id": "efd7f3e0bfac93a9",
+    "term": "大さじ",
+    "reading": "おおさじ",
+    "meaning": "thìa canh",
+    "meaning_aliases": [
+      "muỗng canh"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 15",
+    "verified": true
+  },
+  {
+    "id": "c7c8e1984893ae23",
+    "term": "小さじ",
+    "reading": "こさじ",
+    "meaning": "thìa cà phê",
+    "meaning_aliases": [
+      "muỗng cà phê"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 15",
+    "verified": true
+  },
+  {
+    "id": "d2f0c682147ef31f",
+    "term": "包丁",
+    "reading": "ほうちょう",
+    "meaning": "dao làm bếp",
+    "meaning_aliases": [
+      "dao bếp"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 15",
+    "verified": true
+  },
+  {
+    "id": "696158b7316d7d1c",
+    "term": "まな板",
+    "reading": "まないた",
+    "meaning": "thớt",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 15",
+    "verified": true
+  },
+  {
+    "id": "fd502c1b6452208d",
+    "term": "はかり",
+    "reading": "はかり",
+    "meaning": "cái cân",
+    "meaning_aliases": [
+      "cân"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 15",
+    "verified": true
+  },
+  {
+    "id": "df01235fe6dc05d1",
+    "term": "夕食",
+    "reading": "ゆうしょく",
+    "meaning": "bữa tối",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 15",
+    "verified": true
+  },
+  {
+    "id": "3d485450b49597ad",
+    "term": "おかず",
+    "reading": "おかず",
+    "meaning": "thức ăn ăn kèm cơm",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 15",
+    "verified": true
+  },
+  {
+    "id": "ab83c4487fb8e69a",
+    "term": "栄養",
+    "reading": "えいよう",
+    "meaning": "dinh dưỡng",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 15",
+    "verified": true
+  },
+  {
+    "id": "2e05a95b3a70ec1d",
+    "term": "食品",
+    "reading": "しょくひん",
+    "meaning": "thực phẩm",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 15",
+    "verified": true
+  },
+  {
+    "id": "1d781aae47051dae",
+    "term": "量る",
+    "reading": "はかる",
+    "meaning": "cân; đo lượng",
+    "meaning_aliases": [
+      "cân",
+      "đo lượng"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 15",
+    "verified": true
+  },
+  {
+    "id": "6e8c2de0d90b7fca",
+    "term": "塩",
+    "reading": "しお",
+    "meaning": "muối",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 15",
+    "verified": true
+  },
+  {
+    "id": "bd02a00fb9b12dee",
+    "term": "少々",
+    "reading": "しょうしょう",
+    "meaning": "một chút; một ít",
+    "meaning_aliases": [
+      "một chút",
+      "một ít"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 15",
+    "verified": true
+  },
+  {
+    "id": "d280fe21256af907",
+    "term": "酒",
+    "reading": "さけ",
+    "meaning": "rượu",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 15",
+    "verified": true
+  },
+  {
+    "id": "b80525175008cec0",
+    "term": "酢",
+    "reading": "す",
+    "meaning": "giấm",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 15",
+    "verified": true
+  },
+  {
+    "id": "c0fb882a5118db75",
+    "term": "天ぷら油",
+    "reading": "てんぷらあぶら",
+    "meaning": "dầu chiên tempura",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 15",
+    "verified": true
+  },
+  {
+    "id": "d9d5f46f8894b257",
+    "term": "皮をむく",
+    "reading": "かわをむく",
+    "meaning": "gọt vỏ; bóc vỏ",
+    "meaning_aliases": [
+      "gọt vỏ",
+      "bóc vỏ"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 16",
+    "verified": true
+  },
+  {
+    "id": "52749dde581c6931",
+    "term": "刻む",
+    "reading": "きざむ",
+    "meaning": "băm; thái nhỏ",
+    "meaning_aliases": [
+      "băm",
+      "thái nhỏ"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 16",
+    "verified": true
+  },
+  {
+    "id": "4d8d28601ccd0fbf",
+    "term": "大きめに切る",
+    "reading": "おおきめにきる",
+    "meaning": "cắt miếng hơi lớn",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 16",
+    "verified": true
+  },
+  {
+    "id": "0c144c87b2b63d5e",
+    "term": "幅",
+    "reading": "はば",
+    "meaning": "chiều rộng; bề ngang",
+    "meaning_aliases": [
+      "chiều rộng",
+      "bề ngang"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 16",
+    "verified": true
+  },
+  {
+    "id": "54c5e00bd8ff603e",
+    "term": "ぬるい",
+    "reading": "ぬるい",
+    "meaning": "âm ấm; không đủ nóng",
+    "meaning_aliases": [
+      "âm ấm"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 16",
+    "verified": true
+  },
+  {
+    "id": "773cf55170563ae3",
+    "term": "ラップ",
+    "reading": "ラップ",
+    "meaning": "màng bọc thực phẩm",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 16",
+    "verified": true
+  },
+  {
+    "id": "cb491d31614152b5",
+    "term": "かぶせる",
+    "reading": "かぶせる",
+    "meaning": "phủ lên; đậy lên",
+    "meaning_aliases": [
+      "phủ lên",
+      "đậy lên"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 16",
+    "verified": true
+  },
+  {
+    "id": "5dcabacafff3f1dd",
+    "term": "くるむ",
+    "reading": "くるむ",
+    "meaning": "bọc; gói lại",
+    "meaning_aliases": [
+      "bọc",
+      "gói lại"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 16",
+    "verified": true
+  },
+  {
+    "id": "2d5df287a4d13f38",
+    "term": "アルミホイル",
+    "reading": "アルミホイル",
+    "meaning": "giấy nhôm",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 1",
+    "source": "Soumatome N3 Từ vựng · PDF 16",
+    "verified": true
+  },
+  {
+    "id": "603fa082529a4fa4",
+    "term": "なべ",
+    "reading": "なべ",
+    "meaning": "nồi",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 17",
+    "verified": true
+  },
+  {
+    "id": "bf9a0bb6e31a072c",
+    "term": "ふた",
+    "reading": "ふた",
+    "meaning": "nắp; vung",
+    "meaning_aliases": [
+      "nắp",
+      "vung"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 17",
+    "verified": true
+  },
+  {
+    "id": "6a1c67c7feadf285",
+    "term": "おたま",
+    "reading": "おたま",
+    "meaning": "muôi múc canh",
+    "meaning_aliases": [
+      "vá múc canh"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 17",
+    "verified": true
+  },
+  {
+    "id": "951e0b0a07902fe9",
+    "term": "フライパン",
+    "reading": "フライパン",
+    "meaning": "chảo",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 17",
+    "verified": true
+  },
+  {
+    "id": "c4321f5459a82478",
+    "term": "フライ返し",
+    "reading": "フライがえし",
+    "meaning": "xẻng lật thức ăn",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 17",
+    "verified": true
+  },
+  {
+    "id": "ae59b3ae95fcf664",
+    "term": "炊飯器",
+    "reading": "すいはんき",
+    "meaning": "nồi cơm điện",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 17",
+    "verified": true
+  },
+  {
+    "id": "a80c8041d8963de5",
+    "term": "しゃもじ",
+    "reading": "しゃもじ",
+    "meaning": "muôi xới cơm",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 17",
+    "verified": true
+  },
+  {
+    "id": "b50c3f3d5e6627a2",
+    "term": "沸かす",
+    "reading": "わかす",
+    "meaning": "đun sôi",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 17",
+    "verified": true
+  },
+  {
+    "id": "938063d6816b45f2",
+    "term": "沸く",
+    "reading": "わく",
+    "meaning": "sôi",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 17",
+    "verified": true
+  },
+  {
+    "id": "733b1ef01ccb7374",
+    "term": "冷ます",
+    "reading": "さます",
+    "meaning": "làm nguội; để nguội",
+    "meaning_aliases": [
+      "làm nguội",
+      "để nguội"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 17",
+    "verified": true
+  },
+  {
+    "id": "594c59403890f270",
+    "term": "冷める",
+    "reading": "さめる",
+    "meaning": "nguội đi",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 17",
+    "verified": true
+  },
+  {
+    "id": "30bfbdbca8807aa2",
+    "term": "炊く",
+    "reading": "たく",
+    "meaning": "nấu (cơm)",
+    "meaning_aliases": [
+      "nấu cơm"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 17",
+    "verified": true
+  },
+  {
+    "id": "dd262130cea5923a",
+    "term": "熱する",
+    "reading": "ねっする",
+    "meaning": "đun nóng; làm nóng lên",
+    "meaning_aliases": [
+      "đun nóng"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 17",
+    "verified": true
+  },
+  {
+    "id": "ed02d75f174a31d9",
+    "term": "揚げる",
+    "reading": "あげる",
+    "meaning": "chiên ngập dầu",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 17",
+    "verified": true
+  },
+  {
+    "id": "15a1afd37ad8647b",
+    "term": "煮る",
+    "reading": "にる",
+    "meaning": "ninh; kho; nấu trong nước",
+    "meaning_aliases": [
+      "ninh",
+      "kho"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 17",
+    "verified": true
+  },
+  {
+    "id": "95f79c36738a929d",
+    "term": "ゆでる",
+    "reading": "ゆでる",
+    "meaning": "luộc",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 17",
+    "verified": true
+  },
+  {
+    "id": "3040fcfac404788f",
+    "term": "いためる",
+    "reading": "いためる",
+    "meaning": "xào",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 17",
+    "verified": true
+  },
+  {
+    "id": "8e8cf58d1405d8b2",
+    "term": "蒸す",
+    "reading": "むす",
+    "meaning": "hấp",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 17",
+    "verified": true
+  },
+  {
+    "id": "58f2dc610540f6ed",
+    "term": "水を切る",
+    "reading": "みずをきる",
+    "meaning": "để ráo nước",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 17",
+    "verified": true
+  },
+  {
+    "id": "fff382770c37dedc",
+    "term": "混ぜる",
+    "reading": "まぜる",
+    "meaning": "trộn; khuấy",
+    "meaning_aliases": [
+      "trộn",
+      "khuấy"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 17",
+    "verified": true
+  },
+  {
+    "id": "8fe0eedbc56c1202",
+    "term": "こげる",
+    "reading": "こげる",
+    "meaning": "bị cháy; bị khét",
+    "meaning_aliases": [
+      "bị cháy",
+      "bị khét"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 17",
+    "verified": true
+  },
+  {
+    "id": "5974164319130a53",
+    "term": "ひっくり返す",
+    "reading": "ひっくりかえす",
+    "meaning": "lật ngược lại",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 17",
+    "verified": true
+  },
+  {
+    "id": "d495991050a7d0db",
+    "term": "裏返す",
+    "reading": "うらがえす",
+    "meaning": "lật mặt sau ra; lộn trái",
+    "meaning_aliases": [
+      "lộn trái"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 17",
+    "verified": true
+  },
+  {
+    "id": "35edf6554d408f86",
+    "term": "味をつける",
+    "reading": "あじをつける",
+    "meaning": "nêm gia vị",
+    "meaning_aliases": [
+      "nêm nếm"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 17",
+    "verified": true
+  },
+  {
+    "id": "3a298af837ecc144",
+    "term": "加える",
+    "reading": "くわえる",
+    "meaning": "thêm vào",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 17",
+    "verified": true
+  },
+  {
+    "id": "118685d720c70bad",
+    "term": "振る",
+    "reading": "ふる",
+    "meaning": "rắc; lắc (trong ngữ cảnh gia vị)",
+    "meaning_aliases": [
+      "rắc",
+      "lắc"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 17",
+    "verified": true
+  },
+  {
+    "id": "829bbc0179b39b53",
+    "term": "味見をする",
+    "reading": "あじみをする",
+    "meaning": "nếm thử",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 18",
+    "verified": true
+  },
+  {
+    "id": "b360c87ea1bc9d8f",
+    "term": "味が濃い",
+    "reading": "あじがこい",
+    "meaning": "vị đậm",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 18",
+    "verified": true
+  },
+  {
+    "id": "e873a4429a0c74b5",
+    "term": "味が薄い",
+    "reading": "あじがうすい",
+    "meaning": "vị nhạt",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 18",
+    "verified": true
+  },
+  {
+    "id": "99cf1354d348942b",
+    "term": "からい",
+    "reading": "からい",
+    "meaning": "cay; mặn tùy ngữ cảnh",
+    "meaning_aliases": [
+      "cay",
+      "mặn"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 18",
+    "verified": true
+  },
+  {
+    "id": "0f2052bac10c2ae3",
+    "term": "塩からい",
+    "reading": "しおからい",
+    "meaning": "mặn",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 18",
+    "verified": true
+  },
+  {
+    "id": "9b45a992b24cfbae",
+    "term": "すっぱい",
+    "reading": "すっぱい",
+    "meaning": "chua",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 18",
+    "verified": true
+  },
+  {
+    "id": "c9f0d75295f3338f",
+    "term": "できあがる",
+    "reading": "できあがる",
+    "meaning": "hoàn thành; làm xong",
+    "meaning_aliases": [
+      "hoàn thành",
+      "làm xong"
+    ],
+    "kind": "vocab",
+    "tier": "core",
+    "topic": "Tuần 1 · Nấu ăn 2",
+    "source": "Soumatome N3 Từ vựng · PDF 18",
+    "verified": true
+  },
+  {
+    "id": "fe3a71de260c380c",
+    "term": "魚",
+    "reading": "さかな",
+    "meaning": "cá",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "extra",
+    "topic": "Từ bổ sung · Bài tập nấu ăn",
+    "source": "Soumatome N3 Từ vựng · PDF 18",
+    "verified": true
+  },
+  {
+    "id": "5d9ad790fabed599",
+    "term": "卵",
+    "reading": "たまご",
+    "meaning": "trứng",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "extra",
+    "topic": "Từ bổ sung · Bài tập nấu ăn",
+    "source": "Soumatome N3 Từ vựng · PDF 18",
+    "verified": true
+  },
+  {
+    "id": "a95e3c7701a130c7",
+    "term": "焼く",
+    "reading": "やく",
+    "meaning": "nướng; rán",
+    "meaning_aliases": [
+      "nướng",
+      "rán"
+    ],
+    "kind": "vocab",
+    "tier": "extra",
+    "topic": "Từ bổ sung · Bài tập nấu ăn",
+    "source": "Soumatome N3 Từ vựng · PDF 18",
+    "verified": true
+  },
+  {
+    "id": "112a0a2dedec0e2a",
+    "term": "最後",
+    "reading": "さいご",
+    "meaning": "cuối cùng",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "extra",
+    "topic": "Từ bổ sung · Bài tập nấu ăn",
+    "source": "Soumatome N3 Từ vựng · PDF 18",
+    "verified": true
+  },
+  {
+    "id": "578f7eaa0bd7b8ab",
+    "term": "野菜",
+    "reading": "やさい",
+    "meaning": "rau",
+    "meaning_aliases": [],
+    "kind": "vocab",
+    "tier": "extra",
+    "topic": "Từ bổ sung · Bài tập nấu ăn",
+    "source": "Soumatome N3 Từ vựng · PDF 18",
+    "verified": true
+  },
+  {
+    "id": "5e1e9ff6f2d5f4f6",
+    "term": "注意する",
+    "reading": "ちゅういする",
+    "meaning": "chú ý; cẩn thận",
+    "meaning_aliases": [
+      "chú ý",
+      "cẩn thận"
+    ],
+    "kind": "vocab",
+    "tier": "extra",
+    "topic": "Từ bổ sung · Bài tập nấu ăn",
+    "source": "Soumatome N3 Từ vựng · PDF 18",
+    "verified": true
+  },
+  {
+    "id": "g37b0e0921e450f4",
+    "term": "V（ら）れる［bị động］",
+    "reading": "V（ら）れる［bị động］",
+    "meaning": "được / bị thực hiện một hành động",
+    "meaning_aliases": [
+      "bị động"
+    ],
+    "kind": "grammar",
+    "tier": "core",
+    "topic": "Ngữ pháp · Tuần 1",
+    "source": "Soumatome N3 Ngữ pháp · PDF 14",
+    "verified": true,
+    "note": "Diễn tả đối tượng chịu tác động; có thể không nêu người thực hiện.",
+    "example": "説明が書かれている。",
+    "example_reading": "せつめいがかかれている。",
+    "example_meaning": "Phần giải thích được viết sẵn.",
+    "example_origin": "Ví dụ minh họa biên soạn"
+  },
+  {
+    "id": "gc33158727ab59e5",
+    "term": "Nに＋V（ら）れる［bị động gián tiếp］",
+    "reading": "Nに＋V（ら）れる［bị động gián tiếp］",
+    "meaning": "bị ảnh hưởng, phiền toái bởi hành động của người khác",
+    "meaning_aliases": [
+      "bị ảnh hưởng"
+    ],
+    "kind": "grammar",
+    "tier": "core",
+    "topic": "Ngữ pháp · Tuần 1",
+    "source": "Soumatome N3 Ngữ pháp · PDF 14",
+    "verified": true,
+    "note": "Không phải mọi câu bị động đều có sắc thái tiêu cực. Thẻ này tập trung vào bị động gây phiền toái.",
+    "example": "雨に降られた。",
+    "example_reading": "あめにふられた。",
+    "example_meaning": "Tôi bị mắc mưa.",
+    "example_origin": "Ví dụ minh họa biên soạn"
+  },
+  {
+    "id": "g9b3df1d7294c9d4",
+    "term": "V sai khiến dạng て＋ください",
+    "reading": "V sai khiến dạng て＋ください",
+    "meaning": "xin hãy cho phép tôi làm…",
+    "meaning_aliases": [
+      "xin phép"
+    ],
+    "kind": "grammar",
+    "tier": "core",
+    "topic": "Ngữ pháp · Tuần 1",
+    "source": "Soumatome N3 Ngữ pháp · PDF 15",
+    "verified": true,
+    "note": "Ví dụ: 帰らせてください. Đây là xin phép mình làm, không phải ra lệnh người kia làm.",
+    "example": "少し休ませてください。",
+    "example_reading": "すこしやすませてください。",
+    "example_meaning": "Xin cho tôi nghỉ một chút.",
+    "example_origin": "Ví dụ minh họa biên soạn"
+  },
+  {
+    "id": "gaeaa216f0370c4e",
+    "term": "Vない＋と／Vなくちゃ［cuối câu］",
+    "reading": "Vない＋と／Vなくちゃ［cuối câu］",
+    "meaning": "phải làm… (cách nói rút gọn)",
+    "meaning_aliases": [
+      "phải"
+    ],
+    "kind": "grammar",
+    "tier": "core",
+    "topic": "Ngữ pháp · Tuần 1",
+    "source": "Soumatome N3 Ngữ pháp · PDF 16",
+    "verified": true,
+    "note": "Vないといけない → Vないと; Vなくてはいけない → Vなくちゃ.",
+    "example": "もう寝ないと。",
+    "example_reading": "もうねないと。",
+    "example_meaning": "Phải đi ngủ thôi.",
+    "example_origin": "Ví dụ minh họa biên soạn"
+  },
+  {
+    "id": "gf659220a3dcec39",
+    "term": "Vてしまう → Vちゃう／Vでしまう → Vじゃう",
+    "reading": "Vてしまう → Vちゃう／Vでしまう → Vじゃう",
+    "meaning": "làm mất rồi / làm hết, làm xong (khẩu ngữ)",
+    "meaning_aliases": [
+      "lỡ làm mất rồi"
+    ],
+    "kind": "grammar",
+    "tier": "core",
+    "topic": "Ngữ pháp · Tuần 1",
+    "source": "Soumatome N3 Ngữ pháp · PDF 16",
+    "verified": true,
+    "note": "Vちゃう/Vじゃう có cả nghĩa hoàn tất và sắc thái tiếc nuối; tùy ngữ cảnh.",
+    "example": "全部食べちゃった。",
+    "example_reading": "ぜんぶたべちゃった。",
+    "example_meaning": "Tôi ăn hết mất rồi.",
+    "example_origin": "Ví dụ minh họa biên soạn"
+  },
+  {
+    "id": "g586e4c839dfb7b5",
+    "term": "Vておく → Vとく／Vでおく → Vどく",
+    "reading": "Vておく → Vとく／Vでおく → Vどく",
+    "meaning": "làm trước, làm sẵn / giữ nguyên trạng thái (khẩu ngữ)",
+    "meaning_aliases": [
+      "làm trước"
+    ],
+    "kind": "grammar",
+    "tier": "core",
+    "topic": "Ngữ pháp · Tuần 1",
+    "source": "Soumatome N3 Ngữ pháp · PDF 17",
+    "verified": true,
+    "note": "書いておく → 書いとく; 読んでおく → 読んどく.",
+    "example": "先に読んどく。",
+    "example_reading": "さきによんどく。",
+    "example_meaning": "Tôi sẽ đọc trước.",
+    "example_origin": "Ví dụ minh họa biên soạn"
+  },
+  {
+    "id": "g348de14a96767d8",
+    "term": "N／thể thường＋みたいだ",
+    "reading": "N／thể thường＋みたいだ",
+    "meaning": "giống như… / có vẻ… (khẩu ngữ)",
+    "meaning_aliases": [
+      "giống như"
+    ],
+    "kind": "grammar",
+    "tier": "core",
+    "topic": "Ngữ pháp · Tuần 1",
+    "source": "Soumatome N3 Ngữ pháp · PDF 18",
+    "verified": true,
+    "note": "N và tính từ な không thêm だ trước みたい; có dạng みたいなN, みたいにV.",
+    "example": "夢みたいだ。",
+    "example_reading": "ゆめみたいだ。",
+    "example_meaning": "Cứ như một giấc mơ.",
+    "example_origin": "Ví dụ minh họa biên soạn"
+  },
+  {
+    "id": "gc41ffa3801f64cd",
+    "term": "N＋らしい［đặc trưng］",
+    "reading": "N＋らしい［đặc trưng］",
+    "meaning": "đúng chất, mang đặc trưng của…",
+    "meaning_aliases": [
+      "đúng chất"
+    ],
+    "kind": "grammar",
+    "tier": "core",
+    "topic": "Ngữ pháp · Tuần 1",
+    "source": "Soumatome N3 Ngữ pháp · PDF 18",
+    "verified": true,
+    "note": "Phân biệt với らしい truyền đạt thông tin nghe được; ở đây là đặc trưng.",
+    "example": "今日は春らしい天気だ。",
+    "example_reading": "きょうははるらしいてんきだ。",
+    "example_meaning": "Hôm nay thời tiết đúng chất mùa xuân.",
+    "example_origin": "Ví dụ minh họa biên soạn"
+  },
+  {
+    "id": "gbe47f03842697f1",
+    "term": "N＋っぽい",
+    "reading": "N＋っぽい",
+    "meaning": "có vẻ / mang tính chất…; nhiều…",
+    "meaning_aliases": [
+      "có vẻ"
+    ],
+    "kind": "grammar",
+    "tier": "core",
+    "topic": "Ngữ pháp · Tuần 1",
+    "source": "Soumatome N3 Ngữ pháp · PDF 19",
+    "verified": true,
+    "note": "Ví dụ 大人っぽい: ra dáng người lớn; 油っぽい: nhiều dầu mỡ. Không ghép tùy ý với mọi từ.",
+    "example": "この料理は油っぽい。",
+    "example_reading": "このりょうりはあぶらっぽい。",
+    "example_meaning": "Món này nhiều dầu mỡ.",
+    "example_origin": "Ví dụ minh họa biên soạn"
+  },
+  {
+    "id": "gf94af3da58ab758",
+    "term": "Vる／Vない＋ようにする",
+    "reading": "Vる／Vない＋ようにする",
+    "meaning": "cố gắng, chú ý để làm / không làm…",
+    "meaning_aliases": [
+      "cố gắng"
+    ],
+    "kind": "grammar",
+    "tier": "core",
+    "topic": "Ngữ pháp · Tuần 1",
+    "source": "Soumatome N3 Ngữ pháp · PDF 20",
+    "verified": true,
+    "note": "Diễn tả nỗ lực hoặc thói quen có chủ ý; ようにしている nhấn mạnh duy trì.",
+    "example": "毎日歩くようにしている。",
+    "example_reading": "まいにちあるくようにしている。",
+    "example_meaning": "Tôi cố gắng duy trì đi bộ mỗi ngày.",
+    "example_origin": "Ví dụ minh họa biên soạn"
+  },
+  {
+    "id": "gf2ae85dff79d9fb",
+    "term": "V khả năng／Vない＋ように",
+    "reading": "V khả năng／Vない＋ように",
+    "meaning": "để có thể… / để không…",
+    "meaning_aliases": [
+      "để có thể"
+    ],
+    "kind": "grammar",
+    "tier": "core",
+    "topic": "Ngữ pháp · Tuần 1",
+    "source": "Soumatome N3 Ngữ pháp · PDF 20",
+    "verified": true,
+    "note": "Dùng cho mục đích hướng đến trạng thái hoặc khả năng; khác ために đi với hành động có chủ ý.",
+    "example": "忘れないようにメモする。",
+    "example_reading": "わすれないようにめもする。",
+    "example_meaning": "Tôi ghi chú để không quên.",
+    "example_origin": "Ví dụ minh họa biên soạn"
+  }
+]

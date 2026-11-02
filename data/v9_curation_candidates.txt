@@ -1,0 +1,1307 @@
+# term|reading|Vietnamese meaning; candidates to match to OCR before inclusion
+出かける|でかける|ra ngoài; đi ra ngoài
+済ませる|すませる|làm xong; giải quyết xong
+手紙|てがみ|thư; thư tay
+日曜日|にちようび|chủ nhật
+毎日|まいにち|mỗi ngày
+毎年|まいとし|mỗi năm
+毎晩|まいばん|mỗi tối
+高い|たかい|cao; đắt
+安い|やすい|rẻ
+大きい|おおきい|to; lớn
+少ない|すくない|ít
+古い|ふるい|cũ
+初めて|はじめて|lần đầu tiên
+上旬|じょうじゅん|thượng tuần; mười ngày đầu tháng
+中旬|ちゅうじゅん|trung tuần; mười ngày giữa tháng
+何度|なんど|bao nhiêu lần
+何回|なんかい|bao nhiêu lần
+一緒|いっしょ|cùng nhau
+用事|ようじ|việc riêng; việc cần làm
+去年|きょねん|năm ngoái
+一昨年|おととし|năm kia
+二人|ふたり|hai người
+お客さん|おきゃくさん|khách; khách hàng
+お父さん|おとうさん|bố; cha
+お兄ちゃん|おにいちゃん|anh trai
+お姉ちゃん|おねえちゃん|chị gái
+お兄さん|おにいさん|anh trai
+お姉さん|おねえさん|chị gái
+お土産|おみやげ|quà lưu niệm
+お年玉|おとしだま|tiền mừng tuổi
+何人|なんにん|bao nhiêu người
+何日|なんにち|ngày mấy; bao nhiêu ngày
+何階|なんがい|tầng mấy
+今度|こんど|lần tới; lần này
+今朝|けさ|sáng nay
+今夜|こんや|tối nay
+今日|きょう|hôm nay
+明日|あした|ngày mai
+昨日|きのう|hôm qua
+明後日|あさって|ngày kia
+切れる|きれる|bị đứt; hết; cắt được
+割る|わる|chia; làm vỡ
+割れる|われる|bị vỡ
+洗う|あらう|rửa; giặt
+浴びる|あびる|tắm; hứng lấy
+見える|みえる|nhìn thấy; trông có vẻ
+問う|とう|hỏi; chất vấn
+送る|おくる|gửi; tiễn
+飛び出す|とびだす|lao ra
+話しかける|はなしかける|bắt chuyện; mở lời
+取り出す|とりだす|lấy ra
+取れる|とれる|lấy được; bị rơi ra
+下ろす|おろす|hạ xuống; rút tiền
+越える|こえる|vượt qua
+越す|こす|vượt qua; chuyển nhà
+立てる|たてる|dựng lên; lập kế hoạch
+置く|おく|đặt; để
+足りる|たりる|đủ
+好む|このむ|ưa thích
+会う|あう|gặp
+合う|あう|hợp; vừa; khớp nhau
+住む|すむ|sống; cư trú
+聞く|きく|nghe; hỏi
+読む|よむ|đọc
+見る|みる|xem; nhìn
+書く|かく|viết
+話す|はなす|nói; trò chuyện
+作る|つくる|làm; tạo ra
+買う|かう|mua
+売る|うる|bán
+帰る|かえる|về nhà
+待つ|まつ|đợi
+思う|おもう|nghĩ
+知る|しる|biết
+泳ぐ|およぐ|bơi
+遊ぶ|あそぶ|chơi
+働く|はたらく|làm việc
+使う|つかう|sử dụng
+使える|つかえる|có thể dùng
+乗る|のる|lên xe; đi bằng phương tiện
+降りる|おりる|xuống xe
+乗り換える|のりかえる|chuyển tuyến; đổi xe
+通る|とおる|đi qua; thông qua
+通う|かよう|đi lại thường xuyên; theo học
+動く|うごく|chuyển động
+動かす|うごかす|di chuyển; làm chuyển động
+開ける|あける|mở
+開く|あく|mở ra
+閉める|しめる|đóng
+閉まる|しまる|đóng lại
+押す|おす|ấn; đẩy
+引く|ひく|kéo; tra cứu
+付く|つく|dính; được gắn vào
+付ける|つける|gắn; bật
+消す|けす|tắt; xóa
+消える|きえる|tắt; biến mất
+済む|すむ|xong; kết thúc
+渡す|わたす|đưa; trao
+受け取る|うけとる|nhận lấy
+受かる|うかる|thi đỗ; được nhận
+勝つ|かつ|thắng
+負ける|まける|thua
+信じる|しんじる|tin tưởng
+数える|かぞえる|đếm
+認める|みとめる|thừa nhận; công nhận
+示す|しめす|chỉ ra; thể hiện
+救う|すくう|cứu giúp
+残る|のこる|còn lại
+求める|もとめる|tìm kiếm; yêu cầu
+流す|ながす|cho chảy; xả
+流れる|ながれる|chảy; trôi
+投げる|なげる|ném
+戦う|たたかう|chiến đấu; thi đấu
+登る|のぼる|leo lên
+吹く|ふく|thổi
+飛ぶ|とぶ|bay
+燃やす|もやす|đốt cháy
+燃える|もえる|cháy
+焼ける|やける|được nướng; bị cháy
+温かい|あたたかい|ấm áp
+若い|わかい|trẻ
+遅い|おそい|chậm; muộn
+浅い|あさい|nông; cạn
+深い|ふかい|sâu
+低い|ひくい|thấp
+楽しい|たのしい|vui vẻ
+欲しい|ほしい|muốn có
+小説|しょうせつ|tiểu thuyết
+場所|ばしょ|nơi chốn
+文字|もじ|chữ viết; ký tự
+言葉|ことば|từ ngữ; lời nói
+学期|がっき|học kỳ
+学生時代|がくせいじだい|thời học sinh; sinh viên
+小学校|しょうがっこう|trường tiểu học
+中学校|ちゅうがっこう|trường trung học cơ sở
+高校|こうこう|trường trung học phổ thông
+経済学|けいざいがく|kinh tế học
+経済学部|けいざいがくぶ|khoa kinh tế học
+医学|いがく|y học
+医者|いしゃ|bác sĩ
+学校|がっこう|trường học
+先生|せんせい|giáo viên; thầy cô
+社会|しゃかい|xã hội
+会社員|かいしゃいん|nhân viên công ty
+会員|かいいん|hội viên; thành viên
+専門|せんもん|chuyên môn
+専門家|せんもんか|chuyên gia
+京都|きょうと|Kyoto
+大阪|おおさか|Osaka
+東京駅|とうきょうえき|ga Tokyo
+フランス語|フランスご|tiếng Pháp
+ベトナム語|ベトナムご|tiếng Việt
+新聞|しんぶん|báo; báo chí
+ニュース|ニュース|tin tức
+本屋|ほんや|hiệu sách
+店員|てんいん|nhân viên bán hàng
+品物|しなもの|món hàng; hàng hóa
+荷物|にもつ|hành lý; đồ đạc
+送料|そうりょう|phí vận chuyển
+手数料|てすうりょう|phí dịch vụ; lệ phí
+料金|りょうきん|phí; giá dịch vụ
+金額|きんがく|số tiền
+代金|だいきん|tiền hàng; tiền thanh toán
+現金|げんきん|tiền mặt
+お金|おかね|tiền
+貯金|ちょきん|tiền tiết kiệm
+財布|さいふ|ví tiền
+銀行|ぎんこう|ngân hàng
+口座|こうざ|tài khoản ngân hàng
+振り込む|ふりこむ|chuyển tiền vào tài khoản
+振込|ふりこみ|chuyển khoản
+窓口|まどぐち|quầy giao dịch; cửa sổ
+印鑑|いんかん|con dấu cá nhân
+はんこ|はんこ|con dấu
+通帳|つうちょう|sổ ngân hàng
+小包|こづつみ|bưu kiện
+速達|そくたつ|chuyển phát nhanh
+差出人|さしだしにん|người gửi
+差出人名|さしだしにんめい|tên người gửi
+あて名|あてな|tên người nhận ghi trên thư
+あて先|あてさき|địa chỉ người nhận
+切手|きって|tem thư
+両替|りょうがえ|đổi tiền
+両替する|りょうがえする|đổi tiền
+仕送り|しおくり|tiền chu cấp gửi đi
+仕送りする|しおくりする|gửi tiền chu cấp
+署名|しょめい|chữ ký; ký tên
+サイン|サイン|chữ ký
+領収書|りょうしゅうしょ|biên lai thanh toán
+請求書|せいきゅうしょ|hóa đơn yêu cầu thanh toán
+定期券|ていきけん|vé tháng; vé định kỳ
+回数券|かいすうけん|vé nhiều lượt
+特急券|とっきゅうけん|vé tàu tốc hành đặc biệt
+乗車券|じょうしゃけん|vé lên xe; vé tàu
+終電|しゅうでん|chuyến tàu cuối ngày
+始発|しはつ|chuyến tàu đầu tiên
+下車|げしゃ|xuống xe
+通過|つうか|đi qua; chạy qua không dừng
+通勤|つうきん|đi làm hằng ngày
+通学|つうがく|đi học hằng ngày
+駅員|えきいん|nhân viên nhà ga
+駅前|えきまえ|trước nhà ga
+優先席|ゆうせんせき|ghế ưu tiên
+車内|しゃない|bên trong xe
+車内アナウンス|しゃないアナウンス|thông báo trên tàu; xe
+乗客|じょうきゃく|hành khách
+運転席|うんてんせき|ghế lái xe
+運転免許証|うんてんめんきょしょう|giấy phép lái xe
+横断歩道|おうだんほどう|vạch qua đường
+横断する|おうだんする|băng qua
+信号|しんごう|đèn tín hiệu
+道路|どうろ|đường; đường bộ
+交差点|こうさてん|ngã tư; nơi giao nhau
+急行|きゅうこう|tàu nhanh
+特急|とっきゅう|tàu tốc hành đặc biệt
+各駅停車|かくえきていしゃ|tàu dừng ở mọi ga
+乗り遅れる|のりおくれる|lỡ tàu; lỡ xe
+乗り越す|のりこす|đi quá ga; quá điểm xuống
+乗り換え|のりかえ|việc đổi tuyến
+道に迷う|みちにまよう|lạc đường
+道を渡る|みちをわたる|băng qua đường
+日帰り|ひがえり|đi về trong ngày
+遠回り|とおまわり|đi đường vòng
+徒歩|とほ|đi bộ
+自転車|じてんしゃ|xe đạp
+飛行機|ひこうき|máy bay
+乗り物|のりもの|phương tiện đi lại
+停留所|ていりゅうじょ|trạm dừng xe buýt
+発車|はっしゃ|xe xuất phát
+到着|とうちゃく|đến nơi
+出発|しゅっぱつ|xuất phát
+電源|でんげん|nguồn điện
+電源を入れる|でんげんをいれる|bật nguồn điện
+電源を切る|でんげんをきる|tắt nguồn điện
+ガスコンロ|ガスコンロ|bếp gas
+ガスレンジ|ガスレンジ|bếp gas
+流し|ながし|bồn rửa bát
+ガラスのコップ|ガラスのコップ|cốc thủy tinh
+ワイングラス|ワイングラス|ly rượu vang
+湯飲み|ゆのみ|cốc uống trà
+茶わん|ちゃわん|bát ăn cơm; chén trà
+電子レンジ|でんしレンジ|lò vi sóng
+冷蔵庫|れいぞうこ|tủ lạnh
+冷凍庫|れいとうこ|ngăn đá; tủ đông
+冷房|れいぼう|làm mát; điều hòa lạnh
+暖房|だんぼう|sưởi ấm
+クーラー|クーラー|máy điều hòa
+リモコン|リモコン|điều khiển từ xa
+じゅうたん|じゅうたん|thảm trải sàn
+網戸|あみど|cửa lưới chống muỗi
+カーテン|カーテン|rèm cửa
+ソファー|ソファー|ghế sofa
+家具|かぐ|đồ nội thất
+台所|だいどころ|nhà bếp
+キッチン|キッチン|nhà bếp
+家事|かじ|việc nhà
+掃除機|そうじき|máy hút bụi
+掃除機をかける|そうじきをかける|hút bụi
+ほうき|ほうき|chổi
+ほうきで掃く|ほうきではく|quét bằng chổi
+ぞうきん|ぞうきん|giẻ lau
+ぞうきんをしぼる|ぞうきんをしぼる|vắt giẻ lau
+雑巾|ぞうきん|giẻ lau
+ほこり|ほこり|bụi
+ほこりがたまる|ほこりがたまる|bụi tích tụ
+ほこりを取る|ほこりをとる|lau bụi
+片付ける|かたづける|dọn dẹp; sắp xếp gọn
+散らかす|ちらかす|bày bừa
+片付く|かたづく|được dọn gọn
+散らかる|ちらかる|trở nên bừa bộn
+こぼす|こぼす|làm đổ; làm tràn
+こぼれる|こぼれる|bị đổ; tràn ra
+くむ|くむ|múc nước; lấy nước
+濡らす|ぬらす|làm ướt
+ぬらす|ぬらす|làm ướt
+ぬれる|ぬれる|bị ướt
+湿る|しめる|ẩm; bị ẩm
+乾く|かわく|khô
+乾かす|かわかす|làm khô
+干す|ほす|phơi
+乾燥機|かんそうき|máy sấy
+洗濯|せんたく|giặt giũ
+洗濯物|せんたくもの|đồ giặt
+洗濯機|せんたくき|máy giặt
+クリーニング|クリーニング|giặt khô; giặt là
+コインランドリー|コインランドリー|tiệm giặt tự phục vụ
+アイロン|アイロン|bàn ủi
+しわ|しわ|nếp nhăn
+しわを伸ばす|しわをのばす|là phẳng nếp nhăn
+たたむ|たたむ|gấp
+つるす|つるす|treo lên
+縮む|ちぢむ|co lại; rút lại
+伸ばす|のばす|kéo dài; duỗi ra
+色が落ちる|いろがおちる|phai màu
+汚す|よごす|làm bẩn
+汚れる|よごれる|bị bẩn
+真っ白|まっしろ|trắng tinh
+真っ白に仕上がる|まっしろにしあがる|hoàn thành với màu trắng tinh
+エプロン|エプロン|tạp dề
+包丁|ほうちょう|dao bếp
+まな板|まないた|thớt
+鍋|なべ|nồi
+なべ|なべ|nồi
+フライパン|フライパン|chảo rán
+おたま|おたま|muôi; vá múc canh
+しゃもじ|しゃもじ|muôi xới cơm
+フライ返し|フライがえし|xẻng lật thức ăn
+食材|しょくざい|nguyên liệu nấu ăn
+材料|ざいりょう|nguyên liệu; vật liệu
+調味料|ちょうみりょう|gia vị
+栄養|えいよう|dinh dưỡng
+栄養のバランス|えいようのバランス|cân bằng dinh dưỡng
+カロリー|カロリー|calo; năng lượng
+バランス|バランス|sự cân bằng
+大さじ|おおさじ|thìa canh; muỗng lớn
+小さじ|こさじ|thìa cà phê; muỗng nhỏ
+少々|しょうしょう|một ít; chút ít
+塩|しお|muối
+砂糖|さとう|đường
+酢|す|giấm
+醤油|しょうゆ|nước tương
+油|あぶら|dầu; mỡ
+おかず|おかず|món ăn kèm cơm
+みそ汁|みそしる|canh miso
+玉ネギ|たまネギ|hành tây
+玉ねぎ|たまねぎ|hành tây
+じゃがいも|じゃがいも|khoai tây
+野菜|やさい|rau củ
+牛肉|ぎゅうにく|thịt bò
+魚|さかな|cá
+肉|にく|thịt
+むく|むく|gọt vỏ; bóc
+刻む|きざむ|băm; thái nhỏ
+混ぜる|まぜる|trộn
+加える|くわえる|thêm vào
+煮る|にる|ninh; nấu
+焼く|やく|nướng; rán
+ゆでる|ゆでる|luộc
+蒸す|むす|hấp
+揚げる|あげる|rán ngập dầu
+炒める|いためる|xào
+いためる|いためる|xào
+沸かす|わかす|đun sôi
+熱する|ねっする|làm nóng; đun nóng
+焦げる|こげる|bị cháy khét
+焦がす|こがす|làm cháy khét
+ふた|ふた|nắp đậy
+ふたをする|ふたをする|đậy nắp
+出来上がる|できあがる|hoàn thành; làm xong
+できあがる|できあがる|hoàn thành; nấu xong
+濃い|こい|đậm; đặc
+薄い|うすい|mỏng; nhạt
+塩辛い|しおからい|mặn
+すっぱい|すっぱい|chua
+苦い|にがい|đắng
+甘い|あまい|ngọt
+辛い|からい|cay
+おいしい|おいしい|ngon
+お腹がすく|おなかがすく|đói bụng
+お腹がすいた|おなかがすいた|đã đói bụng
+子育て|こそだて|nuôi dạy con
+育児|いくじ|việc chăm sóc con
+かわいらしい|かわいらしい|dễ thương; đáng yêu
+かわいそう|かわいそう|đáng thương
+生意気|なまいき|hỗn láo; xấc xược
+利口|りこう|thông minh; khôn ngoan
+行儀がいい|ぎょうぎがいい|có lễ phép; có nề nếp
+人なつっこい|ひとなつっこい|thân thiện; dễ gần
+吠える|ほえる|sủa; gầm
+ほえる|ほえる|sủa
+うなる|うなる|gầm gừ
+しっぽを振る|しっぽをふる|vẫy đuôi
+穴を掘る|あなをほる|đào hố
+穴を埋める|あなをうめる|lấp hố
+おんぶする|おんぶする|cõng trên lưng
+だっこする|だっこする|bế; ôm trong lòng
+甘やかす|あまやかす|nuông chiều
+かわいがる|かわいがる|yêu quý; cưng chiều
+いたずら|いたずら|trò nghịch ngợm
+わがまま|わがまま|ích kỷ; bướng bỉnh
+いたずらする|いたずらする|nghịch phá
+なでる|なでる|vuốt ve
+ぶつ|ぶつ|đánh; đập
+たたく|たたく|gõ; đánh
+かむ|かむ|cắn; nhai
+与える|あたえる|cho; cung cấp
+えさ|えさ|thức ăn cho động vật
+散歩する|さんぽする|đi dạo
+連絡|れんらく|liên lạc
+連絡する|れんらくする|liên lạc
+問い合わせる|といあわせる|liên hệ hỏi thông tin
+申し込む|もうしこむ|đăng ký; nộp đơn
+申し込み|もうしこみ|việc đăng ký; đơn đăng ký
+取り消す|とりけす|hủy bỏ
+取り消し|とりけし|việc hủy bỏ
+予約|よやく|đặt trước
+予約する|よやくする|đặt chỗ trước
+交際する|こうさいする|hẹn hò; giao du
+けんかする|けんかする|cãi nhau
+仲直りする|なかなおりする|làm hòa
+仲がいい|なかがいい|quan hệ tốt; thân nhau
+仲良し|なかよし|bạn thân; thân thiết
+さそう|さそう|rủ; mời
+誘う|さそう|rủ; mời
+ふる|ふる|từ chối tình cảm; chia tay
+好かれる|すかれる|được yêu thích
+嫌われる|きらわれる|bị ghét
+あいまい|あいまい|mơ hồ; không rõ ràng
+返事|へんじ|câu trả lời; hồi âm
+あいまいな返事|あいまいなへんじ|câu trả lời mập mờ
+好きになる|すきになる|bắt đầu thích
+気に入る|きにいる|ưng ý; thích
+お気に入り|おきにいり|đồ ưa thích; yêu thích
+似合う|にあう|hợp; hợp với trang phục
+似合っている|にあっている|rất hợp; trông hợp
+派手|はで|lòe loẹt; nổi bật
+地味|じみ|giản dị; không nổi bật
+無地|むじ|trơn; không có họa tiết
+好み|このみ|sở thích; gu
+好みの|このみの|hợp sở thích
+流行る|はやる|thịnh hành; trở nên phổ biến
+はやる|はやる|thịnh hành
+売り切れ|うりきれ|hết hàng
+売り切れる|うりきれる|bán hết; hết hàng
+特売|とくばい|bán đặc biệt; giảm giá
+割引|わりびき|giảm giá
+割引き|わりびき|giảm giá
+得をする|とくをする|có lợi; có lời
+損をする|そんをする|bị thiệt; chịu lỗ
+本物|ほんもの|đồ thật; hàng thật
+にせ物|にせもの|hàng giả
+偽物|にせもの|hàng giả
+サイズ|サイズ|kích cỡ
+きつい|きつい|chật; bó
+ゆるい|ゆるい|lỏng; rộng
+ちょうどいい|ちょうどいい|vừa vặn; vừa đúng
+おごる|おごる|bao người khác; mời trả tiền
+おごり|おごり|người khác bao; được đãi
+割り勘にする|わりかんにする|chia đều tiền để trả
+別々に払う|べつべつにはらう|trả tiền riêng
+現金で払う|げんきんではらう|trả bằng tiền mặt
+レシート|レシート|hóa đơn mua hàng
+レシートをもらう|レシートをもらう|nhận hóa đơn mua hàng
+勘定を済ませる|かんじょうをすませる|thanh toán hóa đơn
+勘定|かんじょう|thanh toán; hóa đơn
+お勘定|おかんじょう|hóa đơn; tiền thanh toán
+お勘定をお願いします|おかんじょうをおねがいします|cho tôi thanh toán tiền
+ぜいたく|ぜいたく|xa xỉ
+ぜいたくをする|ぜいたくをする|sống xa xỉ; tiêu xài hoang phí
+むだづかい|むだづかい|tiêu xài lãng phí
+無駄遣い|むだづかい|lãng phí tiền bạc
+生活費|せいかつひ|chi phí sinh hoạt
+費用|ひよう|chi phí
+費用がかかる|ひようがかかる|tốn chi phí
+手術|しゅじゅつ|phẫu thuật
+医師|いし|bác sĩ
+歯医者|はいしゃ|nha sĩ
+医者にかかる|いしゃにかかる|đi khám bác sĩ
+インフルエンザ|インフルエンザ|bệnh cúm
+アレルギー|アレルギー|dị ứng
+症状|しょうじょう|triệu chứng
+痛み|いたみ|cơn đau
+病気|びょうき|bệnh tật
+風邪|かぜ|cảm lạnh
+頭痛|ずつう|đau đầu
+腹痛|ふくつう|đau bụng
+熱|ねつ|sốt; nhiệt độ
+咳|せき|ho
+せき|せき|ho
+くしゃみ|くしゃみ|hắt hơi
+しゃっくり|しゃっくり|nấc cụt
+あくび|あくび|ngáp
+鼻水|はなみず|nước mũi
+鼻血|はなぢ|máu cam
+体重|たいじゅう|cân nặng
+体温|たいおん|thân nhiệt
+体調|たいちょう|thể trạng
+具合|ぐあい|tình trạng; thể trạng
+体の具合|からだのぐあい|tình trạng sức khỏe
+調子|ちょうし|tình trạng; trạng thái
+調子が悪い|ちょうしがわるい|không khỏe; tình trạng không tốt
+お大事に|おだいじに|chúc mau khỏe
+お疲れさま|おつかれさま|cảm ơn vì đã vất vả
+お疲れさまでした|おつかれさまでした|cảm ơn vì đã vất vả
+失礼します|しつれいします|xin phép; thất lễ
+お先に失礼します|おさきにしつれいします|xin phép về trước
+お待たせしました|おまたせしました|xin lỗi vì đã để chờ
+ご無沙汰しています|ごぶさたしています|lâu rồi không liên lạc
+お世話になりました|おせわになりました|cảm ơn vì đã giúp đỡ
+ご苦労さま|ごくろうさま|cảm ơn vì đã làm việc vất vả
+おかげさまで|おかげさまで|nhờ ơn anh chị; nhờ có sự giúp đỡ
+遠慮なく|えんりょなく|đừng ngại; cứ tự nhiên
+とんでもない|とんでもない|không có đâu; vô lý
+申し訳ありません|もうしわけありません|thật sự xin lỗi
+失礼|しつれい|thất lễ; bất lịch sự
+親類|しんるい|họ hàng
+親戚|しんせき|họ hàng; bà con
+末っ子|すえっこ|con út
+長男|ちょうなん|con trai cả
+長女|ちょうじょ|con gái cả
+次男|じなん|con trai thứ hai
+次女|じじょ|con gái thứ hai
+一人っ子|ひとりっこ|con một
+従業員|じゅうぎょういん|nhân viên; người lao động
+事務|じむ|công việc hành chính; văn phòng
+事務所|じむしょ|văn phòng
+アルバイト|アルバイト|việc làm thêm
+サラリーマン|サラリーマン|nhân viên làm công ăn lương
+履歴書|りれきしょ|sơ yếu lý lịch; CV
+面接|めんせつ|phỏng vấn
+求人|きゅうじん|tuyển dụng
+採用|さいよう|tuyển dụng; nhận vào làm
+就職|しゅうしょく|tìm được việc; đi làm
+就職活動|しゅうしょくかつどう|hoạt động tìm việc
+転職|てんしょく|chuyển việc
+給料|きゅうりょう|lương
+時給|じきゅう|lương theo giờ
+報酬|ほうしゅう|thù lao
+年収|ねんしゅう|thu nhập năm
+勤務|きんむ|làm việc; công tác
+残業|ざんぎょう|làm thêm giờ
+休日|きゅうじつ|ngày nghỉ
+休暇|きゅうか|kỳ nghỉ
+有給休暇|ゆうきゅうきゅうか|nghỉ phép có lương
+提出|ていしゅつ|nộp; trình nộp
+提出する|ていしゅつする|nộp
+締め切り|しめきり|hạn chót
+締め切る|しめきる|chốt; đóng hạn
+期限|きげん|thời hạn
+期限を守る|きげんをまもる|tuân thủ thời hạn
+申し入れる|もうしいれる|đề nghị; yêu cầu
+専門用語|せんもんようご|thuật ngữ chuyên ngành
+専攻|せんこう|chuyên ngành học
+専攻する|せんこうする|học chuyên ngành
+理工学部|りこうがくぶ|khoa khoa học và kỹ thuật
+文学部|ぶんがくぶ|khoa văn học
+授業料|じゅぎょうりょう|học phí
+学費|がくひ|chi phí học tập
+試験|しけん|kỳ thi
+合格|ごうかく|đỗ; đạt
+不合格|ふごうかく|trượt; không đạt
+カンニング|カンニング|quay cóp thi cử
+カンニングする|カンニングする|gian lận khi thi
+教科書|きょうかしょ|sách giáo khoa
+ノート|ノート|vở ghi; sổ tay
+ノートパソコン|ノートパソコン|máy tính xách tay
+キーボード|キーボード|bàn phím
+パソコン|パソコン|máy tính cá nhân
+インストールする|インストールする|cài đặt phần mềm
+インターネット|インターネット|internet
+オークション|オークション|đấu giá
+レポート|レポート|báo cáo; bài luận
+レポートを書く|レポートをかく|viết báo cáo
+仕上がる|しあがる|được hoàn thành
+仕上げる|しあげる|hoàn thành cho xong
+効率|こうりつ|hiệu suất; hiệu quả
+効果|こうか|hiệu quả; tác dụng
+成績|せいせき|kết quả học tập; thành tích
+結果|けっか|kết quả
+予定|よてい|dự định; kế hoạch
+予定を立てる|よていをたてる|lập kế hoạch
+計画|けいかく|kế hoạch
+計画を立てる|けいかくをたてる|lập kế hoạch
+変更|へんこう|thay đổi
+変更する|へんこうする|thay đổi
+中止|ちゅうし|tạm ngừng; hủy
+中止する|ちゅうしする|hủy; dừng thực hiện
+延期|えんき|hoãn lại
+延期する|えんきする|hoãn lại
+連休|れんきゅう|kỳ nghỉ nhiều ngày liên tiếp
+旅行|りょこう|du lịch; chuyến đi
+日程|にってい|lịch trình
+宿泊|しゅくはく|lưu trú; nghỉ qua đêm
+旅館|りょかん|nhà trọ kiểu Nhật
+ホテル|ホテル|khách sạn
+宿題|しゅくだい|bài tập về nhà
+予習|よしゅう|chuẩn bị bài trước
+復習|ふくしゅう|ôn tập lại
+復習する|ふくしゅうする|ôn tập
+講義|こうぎ|bài giảng
+講座|こうざ|khóa học; buổi giảng
+ゼミ|ゼミ|seminar; lớp chuyên đề
+レッスン|レッスン|buổi học; bài học
+練習|れんしゅう|luyện tập
+練習する|れんしゅうする|luyện tập
+質問|しつもん|câu hỏi
+回答|かいとう|câu trả lời
+解答|かいとう|đáp án; lời giải
+解説|かいせつ|giải thích; lời giải thích
+問題|もんだい|vấn đề; bài tập
+文法|ぶんぽう|ngữ pháp
+語彙|ごい|từ vựng
+漢字|かんじ|chữ Hán Nhật
+読み|よみ|cách đọc
+意味|いみ|ý nghĩa
+例文|れいぶん|câu ví dụ
+文章|ぶんしょう|đoạn văn; bài viết
+読解|どっかい|đọc hiểu
+表現|ひょうげん|cách diễn đạt
+音声|おんせい|âm thanh; giọng nói
+音|おと|âm thanh
+声|こえ|giọng nói; tiếng nói
+話し合う|はなしあう|thảo luận
+話し合い|はなしあい|buổi thảo luận
+やり取り|やりとり|trao đổi; qua lại
+やり取りする|やりとりする|trao đổi qua lại
+状況|じょうきょう|tình hình; hoàn cảnh
+状態|じょうたい|trạng thái
+場合|ばあい|trường hợp
+理由|りゆう|lý do
+原因|げんいん|nguyên nhân
+目的|もくてき|mục đích
+方法|ほうほう|phương pháp
+手段|しゅだん|phương tiện; biện pháp
+仕方|しかた|cách làm; phương pháp
+規則|きそく|quy tắc
+ルール|ルール|luật lệ; quy tắc
+約束|やくそく|lời hứa; cuộc hẹn
+約束を守る|やくそくをまもる|giữ lời hứa
+決定|けってい|quyết định
+決める|きめる|quyết định
+決まる|きまる|được quyết định
+結局|けっきょく|rốt cuộc; cuối cùng
+結論|けつろん|kết luận
+当然|とうぜん|đương nhiên
+意外|いがい|ngoài dự đoán; bất ngờ
+急に|きゅうに|đột nhiên
+突然|とつぜん|đột nhiên
+とつぜん|とつぜん|bất ngờ; đột ngột
+いきなり|いきなり|bất thình lình
+たまに|たまに|thỉnh thoảng
+たいてい|たいてい|thường; đa phần
+ときどき|ときどき|thỉnh thoảng
+ほとんど|ほとんど|hầu hết; gần như
+かなり|かなり|khá; tương đối nhiều
+ますます|ますます|ngày càng
+ついに|ついに|cuối cùng; rốt cuộc
+とうとう|とうとう|cuối cùng; rốt cuộc
+そろそろ|そろそろ|sắp đến lúc; dần dần
+やっと|やっと|cuối cùng cũng; mãi mới
+まず|まず|trước hết
+まずい|まずい|dở; tệ
+とにかく|とにかく|dù sao thì; trước tiên
+しっかり|しっかり|chắc chắn; vững vàng
+きちんと|きちんと|ngăn nắp; cẩn thận
+ちゃんと|ちゃんと|đàng hoàng; đúng cách
+はっきり|はっきり|rõ ràng
+すっきり|すっきり|sảng khoái; gọn gàng
+さっぱり|さっぱり|sảng khoái; hoàn toàn không
+ぐっすり|ぐっすり|ngủ say
+のんびり|のんびり|thong thả; thư thả
+ぼんやり|ぼんやり|lơ đãng; mơ màng
+うろうろ|うろうろ|đi loanh quanh
+いらいら|いらいら|bực bội; sốt ruột
+どきどき|どきどき|hồi hộp; tim đập thình thịch
+ぶらぶら|ぶらぶら|đi lang thang; lủng lẳng
+ぶつぶつ|ぶつぶつ|lẩm bẩm; càu nhàu
+ぴかぴか|ぴかぴか|sáng bóng; lấp lánh
+べらべら|べらべら|nói lưu loát; nói liên hồi
+わざと|わざと|cố ý
+わざわざ|わざわざ|cất công; đặc biệt làm
+じっと|じっと|ngồi yên; chăm chú
+そっと|そっと|nhẹ nhàng; khẽ khàng
+ふと|ふと|chợt; bất giác
+うっかり|うっかり|sơ ý; bất cẩn
+まさか|まさか|không ngờ rằng
+やっぱり|やっぱり|quả nhiên; đúng như nghĩ
+やはり|やはり|quả nhiên; vẫn là
+まったく|まったく|hoàn toàn; thật là
+全く|まったく|hoàn toàn
+一度|いちど|một lần
+いっぺんに|いっぺんに|cùng một lúc
+一気に|いっきに|một mạch; ngay một lúc
+一生懸命|いっしょうけんめい|hết sức; hết mình
+努力|どりょく|nỗ lực
+努力する|どりょくする|nỗ lực
+安心|あんしん|yên tâm
+安心する|あんしんする|yên tâm
+ほっとする|ほっとする|thở phào nhẹ nhõm
+緊張|きんちょう|căng thẳng
+緊張する|きんちょうする|căng thẳng
+あがる|あがる|luống cuống; hồi hộp
+評判|ひょうばん|danh tiếng; đánh giá
+評判がいい|ひょうばんがいい|được đánh giá tốt
+効果が上がる|こうかがあがる|hiệu quả tăng lên
+都合|つごう|hoàn cảnh thuận tiện; điều kiện
+都合がつく|つごうがつく|sắp xếp được thời gian
+都合が悪い|つごうがわるい|không tiện
+都合がいい|つごうがいい|thuận tiện
+傷|きず|vết thương; vết xước
+傷つく|きずつく|bị tổn thương
+日記|にっき|nhật ký
+日記をつける|にっきをつける|viết nhật ký
+印|しるし|dấu; ký hiệu
+印をつける|しるしをつける|đánh dấu
+火をつける|ひをつける|châm lửa
+おまけ|おまけ|đồ tặng kèm; phần thêm
+おまけがつく|おまけがつく|có hàng tặng kèm
+おまけをつける|おまけをつける|tặng thêm
+風呂|ふろ|bồn tắm; nhà tắm
+風呂に入る|ふろにはいる|tắm bồn
+効果が出る|こうかがでる|có hiệu quả
+花が咲く|はながさく|hoa nở
+木が枯れる|きがかれる|cây khô héo
+山が崩れる|やまがくずれる|núi sạt lở
+険しい|けわしい|hiểm trở; dốc đứng
+なだらか|なだらか|thoai thoải; dốc nhẹ
+つぶれる|つぶれる|bị dập nát; bị bẹp
+浮く|うく|nổi lên
+沈む|しずむ|chìm xuống
+腐る|くさる|thối rữa; hư hỏng
+かび|かび|nấm mốc
+かびが生える|かびがはえる|mọc nấm mốc
+におい|におい|mùi
+変なにおい|へんなにおい|mùi lạ
+変なにおいがする|へんなにおいがする|có mùi lạ
+気味が悪い|きみがわるい|rờn rợn; đáng sợ
+気持ちが悪い|きもちがわるい|khó chịu; buồn nôn
+親しい|したしい|thân thiết
+怪しい|あやしい|đáng ngờ
+恐ろしい|おそろしい|đáng sợ
+鋭い|するどい|sắc bén; sắc sảo
+鈍い|にぶい|cùn; chậm chạp
+錆びる|さびる|bị gỉ sét
+さびる|さびる|bị gỉ sét
+薄暗い|うすぐらい|hơi tối; nhập nhoạng
+のろい|のろい|chậm chạp
+うそ|うそ|lời nói dối
+うそつき|うそつき|kẻ nói dối
+わがままな|わがままな|ích kỷ; bướng bỉnh
+素直|すなお|ngoan ngoãn; thật thà
+純粋|じゅんすい|thuần khiết; trong sáng
+正直|しょうじき|thành thật
+不正直|ふしょうじき|không trung thực
+親切|しんせつ|tốt bụng
+不親切|ふしんせつ|không tử tế
+ユーモア|ユーモア|sự hài hước
+ユーモアのある|ユーモアのある|có tính hài hước
+性格|せいかく|tính cách
+態度|たいど|thái độ
+礼儀|れいぎ|lễ nghi; lễ phép
+礼儀正しい|れいぎただしい|lễ phép; lịch sự
+頭がいい|あたまがいい|thông minh
+頭が悪い|あたまがわるい|không thông minh
+声が大きい|こえがおおきい|giọng nói to
+恥ずかしい|はずかしい|xấu hổ; ngượng
+恥ずかしがる|はずかしがる|tỏ ra xấu hổ
+悔しい|くやしい|tiếc nuối; cay cú
+羨ましい|うらやましい|ghen tị; ngưỡng mộ
+うらやましい|うらやましい|ghen tị; ao ước
+驚く|おどろく|ngạc nhiên
+感動|かんどう|xúc động
+感動する|かんどうする|cảm động
+感謝|かんしゃ|biết ơn
+感謝する|かんしゃする|cảm ơn; biết ơn
+がっかり|がっかり|thất vọng
+失望|しつぼう|thất vọng
+希望|きぼう|hy vọng; mong muốn
+期待|きたい|mong đợi; kỳ vọng
+心配|しんぱい|lo lắng
+心配する|しんぱいする|lo lắng
+安心させる|あんしんさせる|làm yên lòng
+落ち着く|おちつく|bình tĩnh; ổn định
+落ち着かない|おちつかない|không yên; bồn chồn
+うれしい|うれしい|vui mừng
+悲しい|かなしい|buồn bã
+寂しい|さびしい|cô đơn; vắng vẻ
+楽しい|たのしい|vui vẻ
+つらい|つらい|đau khổ; vất vả
+苦しい|くるしい|đau đớn; khó chịu
+疲れる|つかれる|mệt
+疲れ|つかれ|sự mệt mỏi
+疲労|ひろう|mệt mỏi
+眠い|ねむい|buồn ngủ
+眠る|ねむる|ngủ
+眠れる|ねむれる|có thể ngủ
+眠れない|ねむれない|không ngủ được
+起きる|おきる|thức dậy; xảy ra
+起こす|おこす|đánh thức; gây ra
+起こる|おこる|xảy ra
+生まれる|うまれる|được sinh ra
+育てる|そだてる|nuôi dưỡng
+育つ|そだつ|lớn lên; trưởng thành
+死ぬ|しぬ|chết
+生きる|いきる|sống
+生活|せいかつ|cuộc sống; sinh hoạt
+人生|じんせい|đời người
+経験|けいけん|kinh nghiệm; trải nghiệm
+経験する|けいけんする|trải nghiệm
+習慣|しゅうかん|thói quen
+習慣になる|しゅうかんになる|trở thành thói quen
+習慣がある|しゅうかんがある|có thói quen
+時間通り|じかんどおり|đúng giờ
+時間通りに|じかんどおりに|đúng theo giờ
+予定通り|よていどおり|đúng như kế hoạch
+お待ちどおさま|おまちどおさま|xin lỗi vì đã để chờ
+ほぼ|ほぼ|gần như; hầu như
+直接|ちょくせつ|trực tiếp
+間接的|かんせつてき|gián tiếp
+最新|さいしん|mới nhất
+新しい|あたらしい|mới
+古くなる|ふるくなる|trở nên cũ
+古い|ふるい|cũ
+一応|いちおう|tạm thời; trước mắt
+意外と|いがいと|khá bất ngờ
+詳しい|くわしい|chi tiết; am hiểu
+詳しく|くわしく|một cách chi tiết
+確かめる|たしかめる|kiểm tra; xác nhận
+確認する|かくにんする|xác nhận
+確認|かくにん|sự xác nhận; kiểm tra
+大丈夫|だいじょうぶ|ổn; không sao
+危ない|あぶない|nguy hiểm
+危険|きけん|nguy hiểm
+安全|あんぜん|an toàn
+必要|ひつよう|cần thiết
+大切|たいせつ|quan trọng; quý giá
+重要|じゅうよう|quan trọng
+便利|べんり|tiện lợi
+不便|ふべん|bất tiện
+簡単|かんたん|đơn giản
+複雑|ふくざつ|phức tạp
+難しい|むずかしい|khó
+易しい|やさしい|dễ
+易い|やすい|dễ; dễ xảy ra
+難い|がたい|khó có thể
+苦手|にがて|không giỏi; sở đoản
+得意|とくい|giỏi; sở trường
+上手|じょうず|khéo; giỏi
+下手|へた|vụng; kém
+普通|ふつう|bình thường; thông thường
+一般的|いっぱんてき|mang tính phổ biến
+基本|きほん|cơ bản
+基礎|きそ|nền tảng
+応用|おうよう|ứng dụng
+禁止|きんし|cấm
+禁止する|きんしする|cấm
+禁煙|きんえん|cấm hút thuốc
+喫煙|きつえん|hút thuốc
+禁煙席|きんえんせき|ghế không hút thuốc
+喫煙席|きつえんせき|chỗ được hút thuốc
+無料|むりょう|miễn phí
+有料|ゆうりょう|có thu phí
+半額|はんがく|nửa giá
+数量|すうりょう|số lượng
+金額|きんがく|số tiền
+荷物|にもつ|hành lý
+宅配|たくはい|giao tận nhà
+宅配便|たくはいびん|dịch vụ chuyển phát tận nhà
+配送料|はいそうりょう|phí giao hàng
+代金引換|だいきんひきかえ|thanh toán khi nhận hàng
+入荷|にゅうか|hàng nhập về
+出荷|しゅっか|xuất hàng; gửi hàng
+明細|めいさい|bảng chi tiết
+保証|ほしょう|bảo hành; bảo đảm
+保証期間|ほしょうきかん|thời hạn bảo hành
+通信販売|つうしんはんばい|mua bán từ xa
+オペレーター|オペレーター|nhân viên tổng đài
+返品|へんぴん|trả hàng
+交換|こうかん|đổi; trao đổi
+交換する|こうかんする|đổi; trao đổi
+商品の交換|しょうひんのこうかん|đổi hàng hóa
+配送|はいそう|vận chuyển; giao hàng
+配達|はいたつ|giao hàng; phát thư
+配達する|はいたつする|giao hàng
+届く|とどく|được gửi đến
+届ける|とどける|giao đến; chuyển đến
+配る|くばる|phân phát
+配付|はいふ|phân phát tài liệu
+受け付ける|うけつける|tiếp nhận; nhận đăng ký
+受付|うけつけ|quầy tiếp nhận; tiếp tân
+受付係|うけつけがかり|nhân viên tiếp tân
+お知らせ|おしらせ|thông báo
+案内|あんない|hướng dẫn; thông báo
+案内する|あんないする|hướng dẫn
+説明|せつめい|giải thích
+説明する|せつめいする|giải thích
+利用|りよう|sử dụng; tận dụng
+利用する|りようする|sử dụng
+使用|しよう|sử dụng
+使用する|しようする|sử dụng
+サービス|サービス|dịch vụ
+サービス料金|サービスりょうきん|phí dịch vụ
+文書|ぶんしょ|văn bản; tài liệu
+書類|しょるい|giấy tờ; tài liệu
+申請|しんせい|đơn đề nghị; việc xin phép
+申請する|しんせいする|nộp đơn xin
+申込書|もうしこみしょ|mẫu đơn đăng ký
+申し込み用紙|もうしこみようし|mẫu giấy đăng ký
+申込期限|もうしこみきげん|hạn đăng ký
+期限|きげん|thời hạn
+期間|きかん|khoảng thời gian
+条件|じょうけん|điều kiện
+注意|ちゅうい|chú ý; lưu ý
+注意する|ちゅういする|chú ý; nhắc nhở
+注意事項|ちゅういじこう|các điều cần lưu ý
+注意書き|ちゅういがき|dòng ghi chú cảnh báo
+対象|たいしょう|đối tượng
+対象者|たいしょうしゃ|người thuộc đối tượng
+場合|ばあい|trường hợp
+場合によって|ばあいによって|tùy từng trường hợp
+以内|いない|trong phạm vi; trong vòng
+以上|いじょう|trở lên; hơn
+以下|いか|trở xuống; ít hơn
+未満|みまん|chưa đến; dưới mức
+より|より|hơn; từ
+比べる|くらべる|so sánh
+比較|ひかく|so sánh
+比べて|くらべて|so với
+変化|へんか|thay đổi; biến đổi
+変わる|かわる|thay đổi
+変える|かえる|thay đổi; làm thay đổi
+増える|ふえる|tăng lên
+増やす|ふやす|làm tăng
+減る|へる|giảm đi
+減らす|へらす|làm giảm
+上がる|あがる|tăng; đi lên
+下がる|さがる|giảm; đi xuống
+下げる|さげる|hạ xuống; làm giảm
+上げる|あげる|nâng lên; tăng lên
+落ちる|おちる|rơi; thi trượt
+落とす|おとす|làm rơi; đánh rơi
+崩れる|くずれる|sụp đổ; sạt lở
+倒れる|たおれる|ngã đổ; gục xuống
+倒す|たおす|làm đổ; đánh bại
+汚れる|よごれる|bị bẩn
+壊れる|こわれる|bị hỏng
+壊す|こわす|làm hỏng
+直る|なおる|được sửa xong; khỏi bệnh
+直す|なおす|sửa; chữa
+治る|なおる|khỏi bệnh
+治す|なおす|chữa bệnh
+取り替える|とりかえる|thay thế
+取り換える|とりかえる|thay thế
+取り出す|とりだす|lấy ra
+取り入れる|とりいれる|đưa vào; tiếp nhận
+取り上げる|とりあげる|nhấc lên; đưa ra bàn
+受け入れる|うけいれる|chấp nhận; tiếp nhận
+引き受ける|ひきうける|đảm nhận; đồng ý nhận
+引っ越す|ひっこす|chuyển nhà
+引っ越し|ひっこし|việc chuyển nhà
+引き出す|ひきだす|rút ra; rút tiền
+引き出し|ひきだし|ngăn kéo
+押し入れ|おしいれ|tủ âm tường
+片付け|かたづけ|việc dọn dẹp
+忘れ物|わすれもの|đồ bỏ quên
+忘れる|わすれる|quên
+思い出す|おもいだす|nhớ lại
+思い出|おもいで|kỷ niệm
+覚える|おぼえる|ghi nhớ; thuộc
+覚え方|おぼえかた|cách ghi nhớ
+忘れない|わすれない|không quên
+記憶|きおく|ký ức; trí nhớ
+思い出せる|おもいだせる|có thể nhớ ra
+間違える|まちがえる|nhầm; làm sai
+間違い|まちがい|sai lầm
+間違う|まちがう|sai; nhầm
+正しい|ただしい|đúng; chính xác
+正解|せいかい|đáp án đúng
+不正解|ふせいかい|đáp án sai
+間違った|まちがった|đã sai; sai
+答える|こたえる|trả lời
+答え|こたえ|đáp án; câu trả lời
+選ぶ|えらぶ|lựa chọn
+選択|せんたく|lựa chọn
+選択肢|せんたくし|phương án lựa chọn
+別冊|べっさつ|sách kèm riêng
+索引|さくいん|chỉ mục; mục lục tra cứu
+目次|もくじ|mục lục
+見出し|みだし|tiêu đề; đề mục
+表紙|ひょうし|bìa sách
+巻末|かんまつ|cuối sách
+頁|ページ|trang sách
+ページ|ページ|trang
+参照|さんしょう|tham khảo; đối chiếu
+参考|さんこう|tham khảo
+参考書|さんこうしょ|sách tham khảo
+例|れい|ví dụ
+問題文|もんだいぶん|đề bài; câu hỏi
+本文|ほんぶん|nội dung chính; bài đọc
+下線|かせん|gạch chân
+下線部|かせんぶ|phần gạch chân
+注意点|ちゅういてん|điểm cần chú ý
+まとめ|まとめ|tổng kết
+総まとめ|そうまとめ|tổng hợp; tổng ôn
+# Supplemental recognizable terms from OCR of Kanji/reading passages (filter must match actual pages)
+少し|すこし|một chút
+来る|くる|đến
+飲む|のむ|uống
+初級|しょきゅう|sơ cấp
+行う|おこなう|tiến hành; thực hiện
+関する|かんする|liên quan đến
+過ぎる|すぎる|vượt quá; trôi qua
+日本人|にほんじん|người Nhật
+見せる|みせる|cho xem
+曜日|ようび|thứ trong tuần
+土曜日|どようび|thứ bảy
+金曜日|きんようび|thứ sáu
+木曜日|もくようび|thứ năm
+有名|ゆうめい|nổi tiếng
+特長|とくちょう|đặc điểm nổi bật
+本当|ほんとう|thật; sự thật
+子どもたち|こどもたち|những đứa trẻ
+大きさ|おおきさ|độ lớn; kích thước
+短い|みじかい|ngắn
+特に|とくに|đặc biệt là
+申す|もうす|nói; tự xưng một cách khiêm nhường
+参る|まいる|đi; đến dạng khiêm nhường
+伺う|うかがう|thăm; hỏi dạng khiêm nhường
+召し上がる|めしあがる|ăn; uống dạng kính ngữ
+ご存じ|ごぞんじ|biết dạng kính ngữ
+ご覧|ごらん|xem dạng kính ngữ
+申し上げる|もうしあげる|thưa; trình bày khiêm nhường
+勤める|つとめる|làm việc tại
+辞める|やめる|nghỉ việc; bỏ
+借りる|かりる|mượn; thuê
+貸す|かす|cho mượn; cho thuê
+選べる|えらべる|có thể lựa chọn
+限る|かぎる|giới hạn; chỉ riêng
+時代|じだい|thời đại
+中央|ちゅうおう|trung tâm
+移動|いどう|di chuyển
+その後|そのご|sau đó
+女の子|おんなのこ|bé gái
+男の子|おとこのこ|bé trai
+女子|じょし|con gái; nữ sinh
+男子|だんし|con trai; nam sinh
+帰り|かえり|đường về; lúc trở về
+他人|たにん|người khác
+互い|たがい|lẫn nhau
+正月|しょうがつ|Tết dương lịch; đầu năm
+年々|ねんねん|năm này qua năm khác
+幸い|さいわい|may mắn; may thay
+感ずる|かんずる|cảm thấy
+感じる|かんじる|cảm nhận
+最適|さいてき|thích hợp nhất
+機能|きのう|chức năng
+構成|こうせい|cấu thành; cấu trúc
+段階|だんかい|giai đoạn
+省略|しょうりゃく|lược bỏ
+終わり|おわり|sự kết thúc
+終わる|おわる|kết thúc
+試合|しあい|trận đấu
+移す|うつす|chuyển; dời
+造る|つくる|chế tạo; xây dựng
+防ぐ|ふせぐ|phòng ngừa; ngăn chặn
+違える|ちがえる|làm sai; nhầm lẫn
+改める|あらためる|sửa đổi; làm lại
+押さえる|おさえる|giữ chặt; kiềm chế
+指す|さす|chỉ; hướng về
+差す|さす|giương ô; chiếu vào
+当たる|あたる|trúng; va chạm
+向く|むく|quay về phía; hướng tới
+向ける|むける|hướng về
+離す|はなす|tách ra; buông ra
+離れる|はなれる|rời xa; tách khỏi
+留める|とめる|giữ lại; ghim lại
+停める|とめる|cho xe dừng; đỗ
+止む|やむ|ngừng; tạnh
+止める|とめる|dừng; ngăn lại
+戻す|もどす|trả lại; đưa về trạng thái cũ
+戻る|もどる|quay lại
+持ち帰る|もちかえる|mang về
+預かる|あずかる|giữ hộ; nhận giữ
+預ける|あずける|gửi nhờ; ký gửi
+守る|まもる|bảo vệ; tuân thủ
+望む|のぞむ|mong muốn; hy vọng
+求める|もとめる|tìm kiếm; yêu cầu
+限度|げんど|giới hạn; hạn mức
+中期|ちゅうき|giai đoạn giữa
+長期|ちょうき|dài hạn
+短期|たんき|ngắn hạn
+前向き|まえむき|tích cực; hướng tới phía trước
+差し上げる|さしあげる|biếu; tặng dạng khiêm nhường
+ご利用|ごりよう|việc sử dụng dạng kính trọng
+ご都合|ごつごう|sự thuận tiện của quý vị
+お子様|おこさま|quý trẻ; con của khách
+お一人様|おひとりさま|một khách; mỗi người
+利用金額|りようきんがく|số tiền sử dụng
+ご利用金額|ごりようきんがく|số tiền giao dịch của quý khách
+インターネット予約|インターネットよやく|đặt trước qua mạng
+ポリ袋|ポリぶくろ|túi ni lông
+一円|いちえん|một yên
+一軒家|いっけんや|nhà riêng một căn
+万が一|まんがいち|lỡ như; nếu chẳng may
+上昇|じょうしょう|sự tăng lên
+上陸|じょうりく|đổ bộ
+上部|じょうぶ|phần trên
+下町|したまち|khu phố bình dân
+下関|しものせき|Shimonoseki
+不思議|ふしぎ|kỳ lạ; không thể hiểu nổi
+不良|ふりょう|xấu; không đạt chất lượng
+両方|りょうほう|cả hai
+両肩|りょうかた|cả hai vai
+中央線|ちゅうおうせん|tuyến Chūō
+中野駅|なかのえき|ga Nakano
+事業|じぎょう|sự nghiệp; hoạt động kinh doanh
+付近|ふきん|vùng lân cận
+代わり|かわり|thay thế; thay cho
+企業|きぎょう|doanh nghiệp
+休館|きゅうかん|đóng cửa cơ sở; ngày nghỉ bảo tàng
+会館|かいかん|hội quán; tòa nhà hội họp
+伴う|ともなう|đi kèm; kéo theo
+体内|たいない|bên trong cơ thể
+何事|なにごと|việc gì; chuyện gì
+作れる|つくれる|có thể làm được
+使い捨て|つかいすて|dùng một lần rồi bỏ
+使役|しえき|thể sai khiến
+使用感|しようかん|cảm giác khi sử dụng
+保つ|たもつ|giữ gìn; duy trì
+傷つける|きずつける|làm tổn thương
+具体的|ぐたいてき|cụ thể
+内部|ないぶ|bên trong; nội bộ
+冷凍室|れいとうしつ|ngăn đông lạnh
+出し方|だしかた|cách đưa ra; cách nộp
+出っ張る|でっぱる|nhô ra
+切り取り線|きりとりせん|đường cắt rời
+別便|べつびん|chuyến gửi riêng
+前もって|まえもって|trước; từ trước
+割引券|わりびきけん|phiếu giảm giá
+割高|わりだか|tương đối đắt
+助かる|たすかる|được cứu; đỡ vất vả
+労働|ろうどう|lao động
+労働力|ろうどうりょく|lực lượng lao động
+動揺|どうよう|dao động; bối rối
+勝手|かって|tự ý; tùy tiện
+半年|はんとし|nửa năm
+半数|はんすう|một nửa số lượng
+占める|しめる|chiếm; chiếm giữ
+厚生労働省|こうせいろうどうしょう|Bộ Y tế Lao động và Phúc lợi Nhật Bản
+原っぱ|はらっぱ|bãi đất trống; đồng cỏ
+収まる|おさまる|lắng xuống; nằm gọn
+受け身|うけみ|thể bị động
+受賞|じゅしょう|nhận giải thưởng
+口座番号|こうざばんごう|số tài khoản
+古紙|こし|giấy cũ; giấy tái chế
+古都|こと|cố đô
+同封|どうふう|gửi kèm trong phong bì
+同期生|どうきせい|người cùng khóa
+同級生|どうきゅうせい|bạn cùng lớp
+呼び名|よびな|tên gọi
+咳止め|せきどめ|thuốc trị ho
+国外|こくがい|nước ngoài
+地点|ちてん|địa điểm
+夜中|よなか|nửa đêm
+大喜び|おおよろこび|rất vui mừng
+大好き|だいすき|rất thích
+奥行き|おくゆき|chiều sâu
+好物|こうぶつ|món ưa thích
+好評|こうひょう|được đánh giá tốt
+妊娠|にんしん|mang thai
+妊婦|にんぷ|phụ nữ mang thai
+存在|そんざい|sự tồn tại
+実家|じっか|nhà bố mẹ đẻ
+実感|じっかん|cảm nhận thực tế
+家電製品|かでんせいひん|đồ điện gia dụng
+容器|ようき|vật chứa; hộp đựng
+容量|ようりょう|dung lượng; sức chứa
+専用|せんよう|dùng riêng; chuyên dụng
+帰りがけ|かえりがけ|trên đường về
+平凡|へいぼん|bình thường; tầm thường
+平成|へいせい|niên hiệu Heisei
+年月|としつき|năm tháng
+幼稚園|ようちえん|trường mẫu giáo
+広い|ひろい|rộng
+当日|とうじつ|ngày hôm đó; đúng ngày
+引っかかる|ひっかかる|mắc vào; bị vướng
+引っ越し料金|ひっこしりょうきん|chi phí chuyển nhà
+前回|ぜんかい|lần trước
+一見|いっけん|thoạt nhìn
+新規|しんき|mới; lần đầu
+同じく|おなじく|tương tự; cũng như
+価値|かち|giá trị
+好評|こうひょう|được đánh giá tốt
+品質|ひんしつ|chất lượng
+事実|じじつ|sự thật
+事前|じぜん|trước đó; trước khi xảy ra
+# Focused remaining OCR hits from the book word index and the Kanji/reading exercises
+問い|とい|câu hỏi; việc hỏi
+お願い|おねがい|lời đề nghị; nhờ vả
+中村|なかむら|họ Nakamura
+細田|ほそだ|họ Hosoda
+時代|じだい|thời đại
+点く|つく|bật sáng; cháy sáng
+眠り|ねむり|giấc ngủ
+移動|いどう|di chuyển
+その後|そのあと|sau đó
+人名|じんめい|tên người
+借りる|かりる|mượn; thuê
+女の子|おんなのこ|bé gái
+帰り|かえり|lúc về; đường về
+得る|える|giành được; thu được
+放題|ほうだい|thỏa thích; không giới hạn
+試合|しあい|trận đấu
+割り|わり|tỷ lệ; phần chia
+引き|ひき|giảm giá; kéo
+振り払う|ふりはらう|hất ra; gạt đi
+年々|ねんねん|qua từng năm
+幸い|さいわい|may mắn
+教室|きょうしつ|phòng học; lớp học
+狭い|せまい|hẹp; chật
+長そで|ながそで|áo tay dài; ống tay dài
+音楽|おんがく|âm nhạc
+食べすぎる|たべすぎる|ăn quá nhiều
+なまけ者|なまけもの|người lười biếng
+公立|こうりつ|trường công; thuộc công lập
+横切る|よこぎる|băng ngang qua
+横浜|よこはま|Yokohama
+済ます|すます|làm xong; giải quyết xong
+演奏|えんそう|biểu diễn nhạc; diễn tấu
+点す|ともす|thắp sáng
+煙い|けむい|nhiều khói; cay mắt vì khói
+立ち止まる|たちどまる|dừng chân
+見上げる|みあげる|ngước nhìn lên
+見下ろす|みおろす|nhìn xuống từ trên cao
+貧しい|まずしい|nghèo; thiếu thốn
+貼る|はる|dán lên
+青い|あおい|xanh; xanh lam
+赤い|あかい|đỏ
+眠れる|ねむれる|ngủ được
+土日|どにち|thứ bảy và chủ nhật
+制限時間|せいげんじかん|thời gian giới hạn
+初級|しょきゅう|trình độ sơ cấp
+説明文|せつめいぶん|văn bản giải thích
+書き入れる|かきいれる|viết thêm vào; điền vào
+入れ替える|いれかえる|đổi chỗ; thay thế
+改める|あらためる|thay đổi; sửa lại
+防ぐ|ふせぐ|ngăn ngừa; đề phòng
+欠ける|かける|bị thiếu; bị mẻ
+組む|くむ|ghép; hợp tác; kết hợp
+言い直す|いいなおす|nói lại; sửa lời nói
+書き直す|かきなおす|viết lại
+読み直す|よみなおす|đọc lại
+立ち上がる|たちあがる|đứng dậy
+動じる|どうじる|nao núng; dao động
+半ば|なかば|một nửa; giữa chừng
+地味|じみ|giản dị
+向き|むき|hướng; dành cho
+向かい|むかい|phía đối diện
+向かい側|むかいがわ|phía đối diện
+回る|まわる|quay; đi vòng quanh
+伺う|うかがう|hỏi; thăm dạng khiêm nhường
+個性|こせい|cá tính
+助詞|じょし|trợ từ
+助動詞|じょどうし|trợ động từ
+使役|しえき|thể sai khiến
+受け身|うけみ|thể bị động
+可能形|かのうけい|thể khả năng
+仮定形|かていけい|thể điều kiện giả định
+意志|いし|ý chí; ý định
+意図|いと|ý đồ; dụng ý
+単に|たんに|đơn thuần; chỉ là
+現れる|あらわれる|xuất hiện
+表れる|あらわれる|biểu hiện; lộ ra
+現す|あらわす|bộc lộ; thể hiện
+表す|あらわす|biểu thị; thể hiện
+新規|しんき|mới
+作文|さくぶん|bài tập làm văn
+段階|だんかい|giai đoạn
+業者|ぎょうしゃ|người kinh doanh; nhà cung cấp
+学費|がくひ|chi phí học
+高橋|たかはし|họ Takahashi
+前回|ぜんかい|lần trước
+本人|ほんにん|bản thân người đó; chính chủ
+業務|ぎょうむ|nghiệp vụ; công việc
+間違い|まちがい|lỗi; sự sai lầm
+指示語|しじご|từ chỉ thị
+文末|ぶんまつ|cuối câu
+日常生活|にちじょうせいかつ|sinh hoạt hằng ngày
+一見|いっけん|thoạt nhìn
+体重|たいじゅう|cân nặng
+距離|きょり|khoảng cách
+前の年|まえのとし|năm trước
+出会う|であう|gặp gỡ tình cờ
+出迎える|でむかえる|ra đón; đón tiếp
+行き|いき|lượt đi; đường đi
+帰り|かえり|lượt về
+新年|しんねん|năm mới
+年末年始|ねんまつねんし|dịp cuối năm đầu năm
+深夜|しんや|đêm khuya
+昼間|ひるま|ban ngày
+曇り|くもり|trời nhiều mây
+晴れ|はれ|trời nắng; trời quang
+指輪|ゆびわ|nhẫn đeo tay
+指輪をはめる|ゆびわをはめる|đeo nhẫn
+握る|にぎる|nắm; cầm chặt
+気をつける|きをつける|cẩn thận; chú ý
+引き受ける|ひきうける|đảm nhận
+交換|こうかん|trao đổi; thay thế
+収入|しゅうにゅう|thu nhập
+支出|ししゅつ|chi tiêu; khoản chi
+支払い|しはらい|việc thanh toán
+取り扱う|とりあつかう|xử lý; kinh doanh mặt hàng
+貯める|ためる|tích trữ; để dành
+ためる|ためる|tích trữ; để dành
+参考|さんこう|tham khảo
+参加|さんか|tham gia
+参加する|さんかする|tham gia
+参加者|さんかしゃ|người tham gia
+担当|たんとう|phụ trách
+担当者|たんとうしゃ|người phụ trách
+受け付け|うけつけ|quầy tiếp nhận
+教材|きょうざい|tài liệu giảng dạy
+建物|たてもの|tòa nhà
+家庭|かてい|gia đình; hộ gia đình
+職場|しょくば|nơi làm việc
+職業|しょくぎょう|nghề nghiệp

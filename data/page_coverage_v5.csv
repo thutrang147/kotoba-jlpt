@@ -1,0 +1,470 @@
+﻿book,pdf_page,ocr_characters,ocr_candidates,ocr_candidates_with_exact_term_in_deck,ocr_candidates_without_exact_term,manually_verified_cards_on_page,status,notes
+Ngữ pháp,1,32,1,1,0,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,2,76,6,4,2,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,3,3022,82,45,37,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,4,664,32,16,16,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,5,930,50,20,30,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,6,845,54,25,29,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,7,1232,69,38,31,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,8,1901,49,25,24,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,9,2766,96,57,39,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,10,2073,50,29,21,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,11,3096,63,22,41,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,12,1550,43,12,31,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,13,391,27,17,10,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,14,0,0,0,0,6,image_checked_some,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,15,1746,50,37,13,1,image_checked_some,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,16,560,14,7,7,2,image_checked_some,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,17,1367,49,35,14,1,image_checked_some,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,18,1102,25,13,12,2,image_checked_some,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,19,1340,47,30,17,1,image_checked_some,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,20,918,36,20,16,2,image_checked_some,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,21,1200,59,36,23,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,22,1140,32,23,9,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,23,1296,57,41,16,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,24,936,34,20,14,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,25,1471,50,37,13,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,26,876,56,39,17,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,27,794,52,38,14,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,28,946,63,44,19,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,29,453,38,21,17,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,30,1668,35,20,15,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,31,1331,57,36,21,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,32,1552,37,26,11,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,33,1678,55,36,19,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,34,1983,63,37,26,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,35,968,51,34,17,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,36,1490,39,23,16,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,37,1650,49,34,15,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,38,1389,40,22,18,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,39,1158,46,34,12,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,40,1845,35,20,15,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,41,1290,53,34,19,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,42,778,54,37,17,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,43,804,59,42,17,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,44,442,31,22,9,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,45,359,42,24,18,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,46,1633,47,26,21,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,47,1196,54,38,16,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,48,1749,39,22,17,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,49,1049,41,32,9,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,50,1630,42,31,11,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,51,1292,50,32,18,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,52,1441,37,21,16,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,53,1186,53,33,20,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,54,1564,45,29,16,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,55,1107,46,28,18,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,56,1090,38,17,21,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,57,1457,54,35,19,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,58,971,72,39,33,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,59,837,55,36,19,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,60,822,68,47,21,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,61,419,47,25,22,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,62,1100,42,23,19,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,63,1328,58,34,24,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,64,1226,40,28,12,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,65,1690,60,35,25,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,66,1741,43,19,24,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,67,1081,44,30,14,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,68,1705,48,25,23,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,69,1459,50,32,18,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,70,1740,40,24,16,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,71,1384,48,35,13,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,72,1975,56,40,16,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,73,2002,76,47,29,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,74,938,62,39,23,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,75,873,69,45,24,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,76,926,77,51,26,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,77,354,40,24,16,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,78,1396,39,31,8,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,79,1637,67,45,22,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,80,1696,51,25,26,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,81,1400,69,38,31,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,82,1224,40,28,12,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,83,1592,61,37,24,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,84,1768,39,21,18,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,85,1368,63,37,26,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,86,1215,37,19,18,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,87,2038,61,30,31,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,88,1634,40,28,12,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,89,1001,81,48,33,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,90,861,75,48,27,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,91,960,82,52,30,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,92,429,42,20,22,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,93,1741,49,33,16,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,94,1692,58,43,15,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,95,1344,39,23,16,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,96,1447,54,37,17,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,97,1292,44,27,17,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,98,1272,54,39,15,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,99,1760,47,23,24,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,100,1425,52,41,11,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,101,1152,44,19,25,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,102,1349,59,43,16,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,103,1971,39,26,13,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,104,1458,51,36,15,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,105,1030,66,47,19,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,106,945,71,48,23,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,107,711,62,39,23,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,108,1322,42,19,23,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,109,1972,63,20,43,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,110,731,31,9,22,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,111,504,48,15,33,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,112,889,50,30,20,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,113,1162,91,53,38,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,114,1114,83,48,35,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Ngữ pháp,115,1031,72,40,32,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,1,179,7,1,6,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,2,72,5,0,5,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,3,2464,52,27,25,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,4,828,41,19,22,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,5,1010,74,23,51,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,6,72,10,7,3,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,7,802,52,26,26,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,8,976,9,4,5,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,9,2887,103,42,61,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,10,2470,40,25,15,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,11,73,3,1,2,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,12,1178,23,14,9,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,13,761,60,35,25,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,14,927,17,12,5,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,15,661,55,24,31,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,16,488,7,5,2,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,17,646,57,37,20,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,18,1623,25,17,8,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,19,707,69,47,22,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,20,799,12,7,5,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,21,717,65,46,19,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,22,2441,26,19,7,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,23,794,73,51,22,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,24,747,70,30,40,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,25,834,42,29,13,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,26,2014,15,7,8,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,27,100,3,1,2,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,28,836,17,8,9,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,29,866,66,38,28,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,30,1037,13,8,5,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,31,683,57,30,27,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,32,603,7,5,2,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,33,742,63,31,32,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,34,587,8,1,7,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,35,731,64,36,28,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,36,1077,13,5,8,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,37,696,60,30,30,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,38,771,23,12,11,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,39,989,74,40,34,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,40,921,82,44,38,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,41,811,47,34,13,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,42,853,17,7,10,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,43,41,1,0,1,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,44,56,2,0,2,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,45,2084,28,17,11,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,46,713,67,40,27,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,47,1065,15,11,4,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,48,856,67,40,27,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,49,906,17,6,11,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,50,999,61,33,28,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,51,2342,36,19,17,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,52,875,67,33,34,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,53,1125,18,10,8,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,54,714,69,42,27,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,55,975,32,14,18,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,56,875,78,43,35,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,57,827,74,36,38,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,58,734,45,26,19,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,59,1589,40,16,24,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,60,43,0,0,0,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,61,1939,23,7,16,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,62,913,70,40,30,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,63,1734,36,20,16,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,64,840,64,37,27,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,65,915,20,12,8,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,66,874,75,38,37,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,67,1054,22,7,15,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,68,825,84,54,30,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,69,0,0,0,0,14,image_checked_some,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,70,765,73,49,24,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,71,1686,57,32,25,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,72,767,65,39,26,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,73,573,65,34,31,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,74,494,46,36,10,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,75,2266,39,14,25,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,76,74,3,0,3,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,77,1878,39,18,21,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,78,795,67,37,30,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,79,959,39,22,17,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,80,740,72,37,35,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,81,1442,31,13,18,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,82,814,77,47,30,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,83,2244,19,7,12,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,84,740,66,47,19,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,85,1757,39,23,16,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,86,832,59,35,24,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,87,2393,45,23,22,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,88,809,57,29,28,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,89,646,63,27,36,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,90,842,44,32,12,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,91,0,0,0,0,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,92,1199,42,26,16,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,93,984,54,35,19,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,94,940,12,9,3,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,95,1143,81,51,30,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,96,1112,32,15,17,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,97,846,74,38,36,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,98,2108,31,13,18,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,99,910,66,40,26,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,100,1700,54,29,25,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,101,939,66,42,24,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,102,793,17,8,9,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,103,982,75,43,32,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,104,805,86,38,48,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,105,671,53,42,11,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,106,1344,38,20,18,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,107,1515,126,70,56,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,108,1642,143,109,34,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,109,1727,151,83,68,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,110,1615,137,114,23,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,111,1648,126,83,43,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,112,1602,131,103,28,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,113,1278,114,78,36,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,114,2020,151,97,54,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,115,803,67,34,33,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,116,666,51,17,34,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,117,60,0,0,0,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,118,635,32,19,13,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Kanji,119,389,20,17,3,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,1,299,4,1,3,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,2,54,2,1,1,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,3,2473,74,42,32,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,4,1101,43,19,24,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,5,665,35,10,25,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,6,1008,65,22,43,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,7,1185,70,27,43,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,8,3168,74,41,33,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,9,3638,101,51,50,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,10,1728,44,25,19,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,11,168,4,3,1,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,12,1974,69,43,26,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,13,1002,44,24,20,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,14,2314,73,49,24,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,15,1282,64,32,32,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,16,1913,75,52,23,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,17,847,65,32,33,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,18,1985,79,45,34,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,19,1666,84,58,26,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,20,1271,71,48,23,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,21,1188,72,40,32,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,22,2326,81,36,45,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,23,726,40,19,21,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,24,1087,68,53,15,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,25,801,63,38,25,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,26,818,86,49,37,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,27,198,4,1,3,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,28,1015,49,24,25,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,29,1457,72,41,31,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,30,1270,93,45,48,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,31,1498,60,32,28,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,32,1477,69,38,31,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,33,1245,63,39,24,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,34,1284,76,43,33,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,35,1412,63,37,26,4,image_checked_some,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,36,1187,66,33,33,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,37,1490,61,35,26,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,38,1305,68,46,22,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,39,783,59,35,24,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,40,1338,114,64,50,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,41,720,59,44,15,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,42,214,2,2,0,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,43,1417,73,36,37,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,44,1389,73,41,32,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,45,1438,62,38,24,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,46,1618,79,41,38,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,47,1073,84,40,44,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,48,1845,58,26,32,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,49,1186,75,46,29,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,50,1621,82,42,40,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,51,1402,69,38,31,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,52,1780,77,26,51,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,53,1512,66,36,30,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,54,1598,64,37,27,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,55,719,66,43,23,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,56,448,31,18,13,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,57,961,84,50,34,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,58,96,2,2,0,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,59,1495,92,45,47,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,60,822,46,25,21,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,61,1772,56,31,25,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,62,1879,48,24,24,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,63,1831,74,51,23,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,64,963,42,27,15,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,65,1290,69,40,29,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,66,489,35,18,17,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,67,1496,66,41,25,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,68,1260,66,24,42,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,69,990,54,36,18,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,70,467,32,17,15,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,71,773,33,24,9,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,72,661,36,20,16,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,73,1039,81,34,47,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,74,83,4,3,1,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,75,1278,71,31,40,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,76,685,31,17,14,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,77,1481,79,38,41,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,78,1282,70,35,35,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,79,1369,63,36,27,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,80,1037,79,36,43,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,81,1392,66,37,29,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,82,1291,89,55,34,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,83,1158,70,34,36,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,84,1458,62,38,24,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,85,1118,58,39,19,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,86,1025,64,40,24,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,87,963,86,41,45,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,88,789,63,32,31,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,89,510,52,41,11,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,90,173,4,3,1,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,91,1272,82,48,34,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,92,1739,91,53,38,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,93,1059,60,42,18,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,94,1390,93,58,35,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,95,1247,54,41,13,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,96,1409,89,49,40,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,97,1241,64,38,26,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,98,1175,55,35,20,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,99,1246,54,31,23,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,100,1124,79,48,31,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,101,2099,78,50,28,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,102,2395,92,49,43,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,103,1211,104,56,48,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,104,680,42,26,16,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,105,598,70,42,28,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,106,39,0,0,0,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,107,571,53,18,35,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,108,47,0,0,0,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,109,2005,46,23,23,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,110,1614,56,33,23,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,111,2077,65,36,29,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,112,1559,52,29,23,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,113,836,20,15,5,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Đọc hiểu,114,1712,50,24,26,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,1,170,2,0,2,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,2,114,6,1,5,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,3,105,13,9,4,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,4,2587,62,30,32,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,5,810,42,28,14,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,6,943,46,28,18,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,7,1050,57,21,36,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,8,1057,80,50,30,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,9,3303,50,31,19,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,10,2992,90,51,39,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,11,1626,59,32,27,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,12,408,4,1,3,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,13,2146,57,37,20,38,image_checked_some,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,14,1542,64,46,18,17,image_checked_some,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,15,1501,39,20,19,23,image_checked_some,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,16,857,49,39,10,9,image_checked_some,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,17,1239,52,39,13,26,image_checked_some,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,18,828,51,37,14,13,image_checked_some,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,19,1513,47,38,9,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,20,1018,48,37,11,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,21,1971,42,28,14,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,22,918,51,30,21,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,23,1905,52,28,24,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,24,1275,55,39,16,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,25,829,77,54,23,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,26,714,77,47,30,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,27,707,78,63,15,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,28,100,2,1,1,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,29,1678,48,25,23,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,30,1127,62,43,19,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,31,1333,48,24,24,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,32,1424,67,40,27,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,33,2039,63,40,23,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,34,1331,53,40,13,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,35,1101,41,28,13,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,36,911,51,39,12,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,37,1133,45,29,16,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,38,1754,61,45,16,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,39,2323,55,33,22,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,40,1567,65,48,17,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,41,819,70,55,15,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,42,801,93,71,22,7,image_checked_some,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,43,553,55,48,7,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,44,118,2,2,0,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,45,3017,53,33,20,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,46,1109,55,42,13,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,47,1526,44,26,18,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,48,1323,53,30,23,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,49,1232,50,28,22,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,50,1772,60,45,15,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,51,3163,61,37,24,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,52,1108,52,37,15,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,53,2393,48,24,24,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,54,1157,54,33,21,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,55,1779,39,23,16,15,image_checked_some,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,56,1374,57,36,21,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,57,820,76,55,21,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,58,814,82,59,23,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,59,777,91,70,21,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,60,115,1,1,0,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,61,2130,71,34,37,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,62,918,67,39,28,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,63,2874,77,39,38,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,64,1635,57,38,19,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,65,2158,63,40,23,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,66,1491,58,46,12,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,67,2263,55,31,24,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,68,1589,53,34,19,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,69,1204,37,24,13,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,70,1602,74,62,12,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,71,2043,65,36,29,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,72,1203,59,41,18,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,73,693,66,48,18,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,74,796,86,66,20,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,75,632,75,59,16,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,76,144,2,2,0,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,77,2547,41,24,17,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,78,1781,51,32,19,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,79,1712,47,24,23,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,80,1457,44,28,16,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,81,1463,49,29,20,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,82,1058,66,49,17,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,83,971,44,27,17,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,84,928,56,40,16,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,85,1652,51,32,19,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,86,989,57,40,17,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,87,1116,50,33,17,10,image_checked_some,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,88,1542,62,36,26,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,89,888,84,59,25,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,90,861,83,54,29,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,91,749,76,55,21,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,92,116,2,2,0,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,93,1127,59,43,16,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,94,1623,68,40,28,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,95,3692,59,34,25,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,96,1390,63,42,21,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,97,1956,73,37,36,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,98,1715,72,39,33,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,99,2054,51,30,21,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,100,800,51,28,23,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,101,1375,56,42,14,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,102,922,53,38,15,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,103,1495,49,33,16,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,104,785,48,38,10,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,105,883,88,64,24,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,106,819,77,57,20,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,107,697,67,56,11,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,108,2535,111,63,48,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,109,1202,74,43,31,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,110,72,7,3,4,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,111,1957,66,49,17,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,112,59,5,2,3,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,113,895,23,11,12,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,114,690,33,14,19,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,115,302,12,6,6,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,116,46,1,0,1,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,117,581,49,17,32,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,118,152,8,2,6,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,119,1177,122,78,44,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,120,1055,101,65,36,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách
+Từ vựng,121,1073,113,73,40,0,not_fully_reviewed,OCR có thể sai hoặc bỏ sót; các số không phải % hoàn thành sách

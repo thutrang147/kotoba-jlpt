@@ -1,0 +1,17 @@
+progress.sqlite3
+progress.sqlite3-*
+backups/
+__pycache__/
+.DS_Store
+.env
+.env.*
+!.env.example
+.venv/
+*.sqlite*
+*.db
+*.dump
+*.backup
+source_books/
+artifacts/
+*.py[cod]
+.pytest_cache/

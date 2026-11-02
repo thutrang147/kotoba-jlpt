@@ -1,0 +1,25 @@
+services:
+  - type: web
+    name: kotoba-jlpt-n3
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python server.py
+    healthCheckPath: /healthz
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.12
+      - key: APP_ENV
+        value: production
+      - key: HOST
+        value: 0.0.0.0
+      - key: JLPT_NO_BROWSER
+        value: '1'
+      - key: COOKIE_SECURE
+        value: '1'
+      - key: APP_TIMEZONE
+        value: Asia/Ho_Chi_Minh
+      - key: DATABASE_URL
+        sync: false
+      - key: APP_PASSWORD_HASH
+        sync: false

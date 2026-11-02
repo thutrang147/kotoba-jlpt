@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f7f7f4" />
+    <title>Kotoba JLPT N3</title>
+    <link rel="manifest" href="/manifest.webmanifest">
+    <link rel="apple-touch-icon" href="/icon-192.png">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="Kotoba JLPT N3">
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="side">
+        <div class="identity">
+          <div class="symbol">こ</div>
+          <div>
+            <b>kotoba<span class="soft">.</span></b
+            ><small>JLPT N3 · PERSONAL SPACE</small>
+          </div>
+        </div>
+        <button id="logout" class="quiet small" hidden>Đăng xuất</button>
+        <nav aria-label="Điều hướng">
+          <button class="tab active" data-tab="home">
+            <span>◈</span> Học hôm nay</button
+          ><button class="tab" data-tab="library"><span>▦</span> Kho thẻ</button
+          ><button class="tab" data-tab="data">
+            <span>⇩</span> Dữ liệu & sao lưu
+          </button>
+        </nav>
+      </aside>
+      <main>
+        <header>
+          <span class="overline">LITTLE BY LITTLE, EVERY DAY</span
+          ><span class="header-tag">日本語能力試験 · N3</span>
+        </header>
+        <div id="notice" role="status" class="notice" hidden></div>
+        <section id="content" aria-live="polite"></section>
+      </main>
+    </div>
+    <script src="/app.js"></script>
+  </body>
+</html>

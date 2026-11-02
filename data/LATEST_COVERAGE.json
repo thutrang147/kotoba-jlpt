@@ -1,0 +1,30 @@
+{
+  "source_pages": 469,
+  "full_page_reviews": 0,
+  "pages_with_empty_ocr": 3,
+  "ocr_candidate_occurrences": 25076,
+  "candidate_occurrences_not_in_deck": 10056,
+  "by_book": {
+    "Ngữ pháp": {
+      "pages": 115,
+      "ocr_empty": 1,
+      "candidate_occurrences_not_in_deck": 2267
+    },
+    "Kanji": {
+      "pages": 119,
+      "ocr_empty": 2,
+      "candidate_occurrences_not_in_deck": 2472
+    },
+    "Đọc hiểu": {
+      "pages": 114,
+      "ocr_empty": 0,
+      "candidate_occurrences_not_in_deck": 3027
+    },
+    "Từ vựng": {
+      "pages": 121,
+      "ocr_empty": 0,
+      "candidate_occurrences_not_in_deck": 2290
+    }
+  },
+  "disclaimer": "OCR candidate matches are NOT textbook completeness rates."
+}

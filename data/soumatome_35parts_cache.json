@@ -1,0 +1,7508 @@
+[
+  {
+    "term": "台所",
+    "reading": "だいどころ",
+    "meaning": "Nhà bếp",
+    "part": 1
+  },
+  {
+    "term": "電子レンジ",
+    "reading": "でんしレンジ",
+    "meaning": "Lò sóng",
+    "part": 1
+  },
+  {
+    "term": "ワイングラス",
+    "reading": "ワイングラス",
+    "meaning": "Cốc uống rượu",
+    "part": 1
+  },
+  {
+    "term": "コーヒーカップ",
+    "reading": "コーヒーカップ",
+    "meaning": "Cốc uống cà phê",
+    "part": 1
+  },
+  {
+    "term": "茶わん",
+    "reading": "ちゃわん",
+    "meaning": "Cốc uống tra",
+    "part": 1
+  },
+  {
+    "term": "冷蔵庫",
+    "reading": "れいぞうこ",
+    "meaning": "Tủ lạnh",
+    "part": 1
+  },
+  {
+    "term": "ガスレンジ",
+    "reading": "ガスレンジ",
+    "meaning": "Bếp ga",
+    "part": 1
+  },
+  {
+    "term": "ガスコンロ",
+    "reading": "ガスコンロ",
+    "meaning": "Bếp ga du lịch",
+    "part": 1
+  },
+  {
+    "term": "ガラスのコップ",
+    "reading": "ガラスのコップ",
+    "meaning": "Cốc thủy tinh",
+    "part": 1
+  },
+  {
+    "term": "レバー",
+    "reading": "レバー",
+    "meaning": "Cần gạt",
+    "part": 1
+  },
+  {
+    "term": "流し",
+    "reading": "ながし",
+    "meaning": "Dòng chảy, chậu rửa",
+    "part": 1
+  },
+  {
+    "term": "リビング",
+    "reading": "リビング",
+    "meaning": "Phòng khách",
+    "part": 1
+  },
+  {
+    "term": "窓ガラス",
+    "reading": "まどガラス",
+    "meaning": "Cửa sổ bằng kính",
+    "part": 1
+  },
+  {
+    "term": "雨戸",
+    "reading": "あまど",
+    "meaning": "Cửa che mưa",
+    "part": 1
+  },
+  {
+    "term": "網戸",
+    "reading": "あみど",
+    "meaning": "Cửa lưới",
+    "part": 1
+  },
+  {
+    "term": "天井",
+    "reading": "てんじょう",
+    "meaning": "Trần nhà",
+    "part": 1
+  },
+  {
+    "term": "床",
+    "reading": "ゆか",
+    "meaning": "Sàn nhà",
+    "part": 1
+  },
+  {
+    "term": "コンセント",
+    "reading": "コンセント",
+    "meaning": "Ổ cắm",
+    "part": 1
+  },
+  {
+    "term": "コード",
+    "reading": "コード",
+    "meaning": "Dây điện",
+    "part": 1
+  },
+  {
+    "term": "エアコン",
+    "reading": "エアコン",
+    "meaning": "Điều hòa",
+    "part": 1
+  },
+  {
+    "term": "ヒーター",
+    "reading": "ヒーター",
+    "meaning": "Máy sưởi",
+    "part": 1
+  },
+  {
+    "term": "カーペット",
+    "reading": "カーペット",
+    "meaning": "Thảm trải nền nhà",
+    "part": 1
+  },
+  {
+    "term": "水道",
+    "reading": "すいどう",
+    "meaning": "Đường ống nước",
+    "part": 1
+  },
+  {
+    "term": "蛇口",
+    "reading": "じゃぐち",
+    "meaning": "Vòi nước",
+    "part": 1
+  },
+  {
+    "term": "水道の蛇口をひねる",
+    "reading": "すいどうのじゃぐちをひねる",
+    "meaning": "Vặn vòi nước",
+    "part": 1
+  },
+  {
+    "term": "水が凍る",
+    "reading": "みずがこおる",
+    "meaning": "Nước đóng băng",
+    "part": 1
+  },
+  {
+    "term": "氷になる",
+    "reading": "こおりになる",
+    "meaning": "Thành đá",
+    "part": 1
+  },
+  {
+    "term": "冷凍して保存する",
+    "reading": "れいとうしてほぞんする",
+    "meaning": "Bảo quản lý",
+    "part": 1
+  },
+  {
+    "term": "残り物",
+    "reading": "のこりもの",
+    "meaning": "Đồ còn lại",
+    "part": 1
+  },
+  {
+    "term": "残り物を温める",
+    "reading": "のこりものをあたためる",
+    "meaning": "Hâm nóng đồ ăn còn lại",
+    "part": 1
+  },
+  {
+    "term": "ビールを冷やす",
+    "reading": "ビールをひやす",
+    "meaning": "Làm lạnh bia",
+    "part": 1
+  },
+  {
+    "term": "エアコンのリモコン",
+    "reading": "エアコンのリモコン",
+    "meaning": "Điều khiển điều hòa",
+    "part": 1
+  },
+  {
+    "term": "スイッチ",
+    "reading": "スイッチ",
+    "meaning": "Công tắc",
+    "part": 1
+  },
+  {
+    "term": "電源を入れる",
+    "reading": "でんげんをいれる",
+    "meaning": "Bật điện",
+    "part": 1
+  },
+  {
+    "term": "電源を切る",
+    "reading": "でんげんをきる",
+    "meaning": "Tắt điện",
+    "part": 1
+  },
+  {
+    "term": "じゅうたんを敷く",
+    "reading": "じゅうたんをしく",
+    "meaning": "Trải thảm",
+    "part": 1
+  },
+  {
+    "term": "部屋を暖める",
+    "reading": "へやをあたためる",
+    "meaning": "Làm nóng phòng",
+    "part": 1
+  },
+  {
+    "term": "暖房をつける",
+    "reading": "だんぼうをつける",
+    "meaning": "Bật máy sưởi",
+    "part": 1
+  },
+  {
+    "term": "クーラーが効いている",
+    "reading": "クーラーがきいている",
+    "meaning": "Máy lạnh có tác dụng",
+    "part": 1
+  },
+  {
+    "term": "冷房が効いている",
+    "reading": "れいぼうがきいている",
+    "meaning": "Máy lạnh có tác dụng",
+    "part": 1
+  },
+  {
+    "term": "日当たりがいい",
+    "reading": "ひあたりがいい",
+    "meaning": "Có ánh nắng chiếu vào",
+    "part": 1
+  },
+  {
+    "term": "日当たりが悪い",
+    "reading": "ひあたりがわるい",
+    "meaning": "Không có ánh nắng chiếu vào",
+    "part": 1
+  },
+  {
+    "term": "肉じゃが",
+    "reading": "にくじゃが",
+    "meaning": "Thịt hầm khoai tây",
+    "part": 2
+  },
+  {
+    "term": "材料",
+    "reading": "ざいりょう",
+    "meaning": "Nguyên liệu",
+    "part": 2
+  },
+  {
+    "term": "四人分",
+    "reading": "よにんぶん",
+    "meaning": "Phần 4 người",
+    "part": 2
+  },
+  {
+    "term": "牛肉",
+    "reading": "ぎゅうにく",
+    "meaning": "Thịt bò",
+    "part": 2
+  },
+  {
+    "term": "ジャガイモ",
+    "reading": "ジャガイモ",
+    "meaning": "Khoai tây",
+    "part": 2
+  },
+  {
+    "term": "玉ねぎ",
+    "reading": "たまねぎ",
+    "meaning": "Củ hành tây",
+    "part": 2
+  },
+  {
+    "term": "調味料",
+    "reading": "ちょうみりょう",
+    "meaning": "Gia vị",
+    "part": 2
+  },
+  {
+    "term": "水",
+    "reading": "みず",
+    "meaning": "Nước",
+    "part": 2
+  },
+  {
+    "term": "カップ",
+    "reading": "カップ",
+    "meaning": "Cốc",
+    "part": 2
+  },
+  {
+    "term": "酒",
+    "reading": "さけ",
+    "meaning": "Rượu",
+    "part": 2
+  },
+  {
+    "term": "醤油",
+    "reading": "しょうゆ",
+    "meaning": "Xì dầu",
+    "part": 2
+  },
+  {
+    "term": "砂糖",
+    "reading": "さとう",
+    "meaning": "Đường (ăn)",
+    "part": 2
+  },
+  {
+    "term": "大さじ",
+    "reading": "おおさじ",
+    "meaning": "Muỗng canh",
+    "part": 2
+  },
+  {
+    "term": "サラダ油",
+    "reading": "さらだゆ",
+    "meaning": "Dầu làm salad",
+    "part": 2
+  },
+  {
+    "term": "少々",
+    "reading": "しょうしょう",
+    "meaning": "Một chút",
+    "part": 2
+  },
+  {
+    "term": "剥く",
+    "reading": "むく",
+    "meaning": "Bóc, gọt",
+    "part": 2
+  },
+  {
+    "term": "夕食",
+    "reading": "ゆうしょく",
+    "meaning": "Cơm tối",
+    "part": 2
+  },
+  {
+    "term": "おかず",
+    "reading": "おかず",
+    "meaning": "Đồ ăn kèm",
+    "part": 2
+  },
+  {
+    "term": "リットル",
+    "reading": "リットル",
+    "meaning": "Lít",
+    "part": 2
+  },
+  {
+    "term": "小さじ",
+    "reading": "こさじ",
+    "meaning": "Muỗng nhỏ",
+    "part": 2
+  },
+  {
+    "term": "包丁",
+    "reading": "ほうちょう",
+    "meaning": "Dao thái thịt",
+    "part": 2
+  },
+  {
+    "term": "まな板",
+    "reading": "まないた",
+    "meaning": "Cái thớt",
+    "part": 2
+  },
+  {
+    "term": "はかり",
+    "reading": "はかり",
+    "meaning": "Cái cân",
+    "part": 2
+  },
+  {
+    "term": "夕食のおかず",
+    "reading": "ゆうしょくのおかず",
+    "meaning": "Đồ nhắm bữa tối",
+    "part": 2
+  },
+  {
+    "term": "栄養",
+    "reading": "えいよう",
+    "meaning": "Dinh dưỡng",
+    "part": 2
+  },
+  {
+    "term": "バランス",
+    "reading": "バランス",
+    "meaning": "Cân bằng",
+    "part": 2
+  },
+  {
+    "term": "栄養のバランスを考える",
+    "reading": "えいようのバランスをかんがえる",
+    "meaning": "Suy nghĩ về cân bằng dinh dưỡng",
+    "part": 2
+  },
+  {
+    "term": "カロリー",
+    "reading": "カロリー",
+    "meaning": "Lượng ca lo",
+    "part": 2
+  },
+  {
+    "term": "食品",
+    "reading": "しょくひん",
+    "meaning": "Đồ ăn, thực phẩm",
+    "part": 2
+  },
+  {
+    "term": "カロリーが高い食品",
+    "reading": "カロリーがたかいしょくひん",
+    "meaning": "Thực phẩm có lượng ca lo cao",
+    "part": 2
+  },
+  {
+    "term": "はかりで量る",
+    "reading": "はかりではかる",
+    "meaning": "Cân bằng cân",
+    "part": 2
+  },
+  {
+    "term": "塩",
+    "reading": "しお",
+    "meaning": "Muối",
+    "part": 2
+  },
+  {
+    "term": "塩を少々入れる",
+    "reading": "しおをしょうしょういれる",
+    "meaning": "Cho một chút muối vào",
+    "part": 2
+  },
+  {
+    "term": "酢",
+    "reading": "す",
+    "meaning": "Giấm",
+    "part": 2
+  },
+  {
+    "term": "天ぷら油",
+    "reading": "てんぷらあぶら",
+    "meaning": "Dầu để chiên, rán",
+    "part": 2
+  },
+  {
+    "term": "皮",
+    "reading": "かわ",
+    "meaning": "Vỏ",
+    "part": 2
+  },
+  {
+    "term": "皮をむく",
+    "reading": "かわをむく",
+    "meaning": "Gọt vỏ",
+    "part": 2
+  },
+  {
+    "term": "材料を刻む",
+    "reading": "ざいりょうをきざむ",
+    "meaning": "Thái (rau, quả)",
+    "part": 2
+  },
+  {
+    "term": "大きめに切る",
+    "reading": "おおきめにきる",
+    "meaning": "Cắt lớn một chút",
+    "part": 2
+  },
+  {
+    "term": "みそ汁",
+    "reading": "みそしる",
+    "meaning": "Súp miso",
+    "part": 2
+  },
+  {
+    "term": "みそしるがぬるくなる",
+    "reading": "みそしるがぬるくなる",
+    "meaning": "Súp Miso nguội đi",
+    "part": 2
+  },
+  {
+    "term": "ラップ",
+    "reading": "ラップ",
+    "meaning": "Màng lọc thực phẩm",
+    "part": 2
+  },
+  {
+    "term": "ラップをかける",
+    "reading": "ラップをかける",
+    "meaning": "Đậy lên, trùm lên bằng màng lọc",
+    "part": 2
+  },
+  {
+    "term": "ラップくるむ",
+    "reading": "ラップくるむ",
+    "meaning": "Gói bọc bằng màng bọc",
+    "part": 2
+  },
+  {
+    "term": "アルミホイル",
+    "reading": "アルミホイル",
+    "meaning": "Giấy bạc",
+    "part": 2
+  },
+  {
+    "term": "ふた",
+    "reading": "ふた",
+    "meaning": "Cái nắp nồi",
+    "part": 3
+  },
+  {
+    "term": "なべ",
+    "reading": "なべ",
+    "meaning": "Cái nồi",
+    "part": 3
+  },
+  {
+    "term": "おたま",
+    "reading": "おたま",
+    "meaning": "Cái muôi",
+    "part": 3
+  },
+  {
+    "term": "フライパン",
+    "reading": "フライパン",
+    "meaning": "Chảo rán",
+    "part": 3
+  },
+  {
+    "term": "フライ返し",
+    "reading": "フライがえし",
+    "meaning": "Dụng cụ đảo thức ăn khi rán",
+    "part": 3
+  },
+  {
+    "term": "炊飯器",
+    "reading": "すいはんき",
+    "meaning": "Nồi cơm điện",
+    "part": 3
+  },
+  {
+    "term": "しゃもじ",
+    "reading": "しゃもじ",
+    "meaning": "Muôi xới cơm",
+    "part": 3
+  },
+  {
+    "term": "湯を沸かす",
+    "reading": "ゆをわかす",
+    "meaning": "Đun nước sôi",
+    "part": 3
+  },
+  {
+    "term": "湯が沸く",
+    "reading": "ゆがわく",
+    "meaning": "Nước sôi",
+    "part": 3
+  },
+  {
+    "term": "湯を冷ます",
+    "reading": "ゆをさます",
+    "meaning": "Làm nguội nước nóng",
+    "part": 3
+  },
+  {
+    "term": "湯が冷める",
+    "reading": "ゆがさめる",
+    "meaning": "Nước nguội đi",
+    "part": 3
+  },
+  {
+    "term": "なべを火にかける",
+    "reading": "なべをひにかける",
+    "meaning": "Làm nóng nồi",
+    "part": 3
+  },
+  {
+    "term": "ご飯を炊く",
+    "reading": "ごはんをたく",
+    "meaning": "Nấu cơm",
+    "part": 3
+  },
+  {
+    "term": "油を熱する",
+    "reading": "あぶらをねっする",
+    "meaning": "Làm nóng dầu",
+    "part": 3
+  },
+  {
+    "term": "油で揚げる",
+    "reading": "あぶらであげる",
+    "meaning": "Rán bằng dầu",
+    "part": 3
+  },
+  {
+    "term": "煮る",
+    "reading": "にる",
+    "meaning": "Kho, hầm",
+    "part": 3
+  },
+  {
+    "term": "ゆでる",
+    "reading": "ゆでる",
+    "meaning": "Luộc",
+    "part": 3
+  },
+  {
+    "term": "炒める",
+    "reading": "いためる",
+    "meaning": "Xào",
+    "part": 3
+  },
+  {
+    "term": "蒸す",
+    "reading": "むす",
+    "meaning": "Hấp",
+    "part": 3
+  },
+  {
+    "term": "水を切る",
+    "reading": "みずをきる",
+    "meaning": "Làm ráo nước",
+    "part": 3
+  },
+  {
+    "term": "混ぜる",
+    "reading": "まぜる",
+    "meaning": "Trộn",
+    "part": 3
+  },
+  {
+    "term": "こげる",
+    "reading": "こげる",
+    "meaning": "Bị cháy, khê",
+    "part": 3
+  },
+  {
+    "term": "ひっくり返す",
+    "reading": "ひっくりかえす",
+    "meaning": "Đảo lộn, lật ngược",
+    "part": 3
+  },
+  {
+    "term": "うらがえす",
+    "reading": "うらがえす",
+    "meaning": "Lật lại",
+    "part": 3
+  },
+  {
+    "term": "味をつける",
+    "reading": "あじをつける",
+    "meaning": "Cho gia vị",
+    "part": 3
+  },
+  {
+    "term": "塩を加える",
+    "reading": "しおをくわえる",
+    "meaning": "Thêm muối",
+    "part": 3
+  },
+  {
+    "term": "胡椒を振る",
+    "reading": "こしょうをふる",
+    "meaning": "Rắc tiêu",
+    "part": 3
+  },
+  {
+    "term": "味見をする",
+    "reading": "あじみをする",
+    "meaning": "Nếm thử",
+    "part": 3
+  },
+  {
+    "term": "味が濃い",
+    "reading": "あじがこい",
+    "meaning": "Vị đậm",
+    "part": 3
+  },
+  {
+    "term": "味が薄い",
+    "reading": "あじがうすい",
+    "meaning": "Vị nhạt",
+    "part": 3
+  },
+  {
+    "term": "辛い",
+    "reading": "からい",
+    "meaning": "Cay",
+    "part": 3
+  },
+  {
+    "term": "塩辛い",
+    "reading": "しおからい",
+    "meaning": "Mặn",
+    "part": 3
+  },
+  {
+    "term": "すっぱい",
+    "reading": "すっぱい",
+    "meaning": "Chua",
+    "part": 3
+  },
+  {
+    "term": "出来上がる",
+    "reading": "できあがる",
+    "meaning": "Làm xong",
+    "part": 3
+  },
+  {
+    "term": "出来上がり",
+    "reading": "できあがり",
+    "meaning": "Xong xuôi",
+    "part": 3
+  },
+  {
+    "term": "エプロン",
+    "reading": "エプロン",
+    "meaning": "Cái tạp dề",
+    "part": 4
+  },
+  {
+    "term": "ちりとり",
+    "reading": "ちりとり",
+    "meaning": "Cái hót rác",
+    "part": 4
+  },
+  {
+    "term": "ぞうきん",
+    "reading": "ぞうきん",
+    "meaning": "Giẻ lau",
+    "part": 4
+  },
+  {
+    "term": "バケツ",
+    "reading": "バケツ",
+    "meaning": "Cái xô, thùng",
+    "part": 4
+  },
+  {
+    "term": "エプロンをする",
+    "reading": "エプロンをする",
+    "meaning": "Mang tạp dề",
+    "part": 4
+  },
+  {
+    "term": "エプロンをかける",
+    "reading": "エプロンをかける",
+    "meaning": "Mang tạp dề",
+    "part": 4
+  },
+  {
+    "term": "エプロンをつける",
+    "reading": "エプロンをつける",
+    "meaning": "Mang tạp dề",
+    "part": 4
+  },
+  {
+    "term": "ソファー",
+    "reading": "ソファー",
+    "meaning": "Ghế sa lông",
+    "part": 4
+  },
+  {
+    "term": "ソファーをどける",
+    "reading": "ソファーをどける",
+    "meaning": "Đẩy ghế sa lông ra",
+    "part": 4
+  },
+  {
+    "term": "ソファーが退く",
+    "reading": "ソファーがどく",
+    "meaning": "Di chuyển ghế sa lông",
+    "part": 4
+  },
+  {
+    "term": "部屋を散らかす",
+    "reading": "へやをちらかす",
+    "meaning": "Vứt đồ bừa bãi trong phòng",
+    "part": 4
+  },
+  {
+    "term": "部屋が散らかる",
+    "reading": "へやがちらかる",
+    "meaning": "Đồ đạc bừa bãi trong phòng",
+    "part": 4
+  },
+  {
+    "term": "部屋を片付ける",
+    "reading": "へやをかたづける",
+    "meaning": "Dọn dẹp phòng",
+    "part": 4
+  },
+  {
+    "term": "部屋が片付く",
+    "reading": "へやがかたづく",
+    "meaning": "Phòng được dọn dẹp",
+    "part": 4
+  },
+  {
+    "term": "ジュースを零す",
+    "reading": "ジュースをこぼす",
+    "meaning": "Làm đổ nước trái cây",
+    "part": 4
+  },
+  {
+    "term": "ジュースが零れる",
+    "reading": "ジュースがこぼれる",
+    "meaning": "Nước trái cây tràn ra",
+    "part": 4
+  },
+  {
+    "term": "ほこりがたまる",
+    "reading": "ほこりがたまる",
+    "meaning": "Bụi đọng lại",
+    "part": 4
+  },
+  {
+    "term": "ほこりがつもる",
+    "reading": "ほこりがつもる",
+    "meaning": "Đóng đầy bụi",
+    "part": 4
+  },
+  {
+    "term": "雪が積もる",
+    "reading": "ゆきがつもる",
+    "meaning": "Tuyết chất đống",
+    "part": 4
+  },
+  {
+    "term": "ほこりを取る",
+    "reading": "ほこりをとる",
+    "meaning": "Phủi bụi",
+    "part": 4
+  },
+  {
+    "term": "掃除機をかける",
+    "reading": "そうじきをかける",
+    "meaning": "Hút bụi",
+    "part": 4
+  },
+  {
+    "term": "床をふく",
+    "reading": "ゆかをふく",
+    "meaning": "Lau sàn",
+    "part": 4
+  },
+  {
+    "term": "ほうきで掃く",
+    "reading": "ほうきではく",
+    "meaning": "Quét bằng chổi",
+    "part": 4
+  },
+  {
+    "term": "ふきんで食器をふく",
+    "reading": "ふきんでしょっきをふく",
+    "meaning": "Lau bát bằng giẻ",
+    "part": 4
+  },
+  {
+    "term": "水を汲む",
+    "reading": "みずをくむ",
+    "meaning": "Múc nước",
+    "part": 4
+  },
+  {
+    "term": "台付近でテーブルを拭く",
+    "reading": "だいふきんでテーブルをふく",
+    "meaning": "Lau bàn bằng khăn lau bàn",
+    "part": 4
+  },
+  {
+    "term": "ぞうきんを濡らす",
+    "reading": "ぞうきんをぬらす",
+    "meaning": "Thấm ướt giẻ lau",
+    "part": 4
+  },
+  {
+    "term": "家具をみがく",
+    "reading": "かぐをみがく",
+    "meaning": "Đánh bóng đồ đạc trong nhà",
+    "part": 4
+  },
+  {
+    "term": "ぞうきんを絞る",
+    "reading": "ぞうきんをしぼる",
+    "meaning": "Vắt giẻ lau",
+    "part": 4
+  },
+  {
+    "term": "ブラシでこする",
+    "reading": "ブラシでこする",
+    "meaning": "Chùi bằng bàn chải",
+    "part": 4
+  },
+  {
+    "term": "生ごみ",
+    "reading": "なまごみ",
+    "meaning": "Rác hữu cơ",
+    "part": 4
+  },
+  {
+    "term": "燃えるゴミ",
+    "reading": "もえるゴミ",
+    "meaning": "Rác cháy được",
+    "part": 4
+  },
+  {
+    "term": "燃えないゴミ",
+    "reading": "もえないゴミ",
+    "meaning": "Rác không cháy được",
+    "part": 4
+  },
+  {
+    "term": "ごみを分けるのは面倒だ",
+    "reading": "ごみをわけるのはめんどうだ",
+    "meaning": "Phân loại rác thật là rắc rối",
+    "part": 4
+  },
+  {
+    "term": "ごみを分けるのは面倒くさい",
+    "reading": "ごみをわけるのはめんどうくさい",
+    "meaning": "Phân loại rác thật là rắc rối",
+    "part": 4
+  },
+  {
+    "term": "スリッパをそろえる",
+    "reading": "スリッパをそろえる",
+    "meaning": "Xếp gọn dép đi trong nhà",
+    "part": 4
+  },
+  {
+    "term": "物置にしまう",
+    "reading": "ものおきにしまう",
+    "meaning": "Cất đồ vào kho",
+    "part": 4
+  },
+  {
+    "term": "洗濯物がたまる",
+    "reading": "せんたくものがたまる",
+    "meaning": "Quần áo để giặt giũ ứ lại",
+    "part": 5
+  },
+  {
+    "term": "洗濯物がぬれている",
+    "reading": "せんたくものがぬれている",
+    "meaning": "Quần áo để giặt giũ ướt",
+    "part": 5
+  },
+  {
+    "term": "洗濯物が湿っている",
+    "reading": "せんたくものがしめっている",
+    "meaning": "Quần áo để giặt giũ ẩm",
+    "part": 5
+  },
+  {
+    "term": "洗濯物が乾く",
+    "reading": "せんたくものがかわく",
+    "meaning": "Quần áo để giặt giũ khô",
+    "part": 5
+  },
+  {
+    "term": "洗濯物が真っ白に仕上がる",
+    "reading": "せんたくものがまっしろにしあがる",
+    "meaning": "Quần áo để giặt giũ trắng tinh",
+    "part": 5
+  },
+  {
+    "term": "洗濯物をためる",
+    "reading": "せんたくものをためる",
+    "meaning": "Gom Quần áo để giặt giũ",
+    "part": 5
+  },
+  {
+    "term": "洗濯物をぬらす",
+    "reading": "せんたくものをぬらす",
+    "meaning": "Làm ướt Quần áo để giặt giũ",
+    "part": 5
+  },
+  {
+    "term": "洗濯物を干す",
+    "reading": "せんたくものをほす",
+    "meaning": "Phơi Quần áo",
+    "part": 5
+  },
+  {
+    "term": "洗濯物を乾燥機で乾かす",
+    "reading": "せんたくものをかんそうきでかわかす",
+    "meaning": "Làm khô quần áo bằng máy sấy",
+    "part": 5
+  },
+  {
+    "term": "洗濯物をたたむ",
+    "reading": "せんたくものをたたむ",
+    "meaning": "Gấp quần áo",
+    "part": 5
+  },
+  {
+    "term": "服を汚す",
+    "reading": "ふくをよごす",
+    "meaning": "Làm bẩn quần áo",
+    "part": 5
+  },
+  {
+    "term": "それが真っ黒に汚れる",
+    "reading": "そでがまっくろによごれる",
+    "meaning": "Tay áo bị vấy bẩn",
+    "part": 5
+  },
+  {
+    "term": "洗剤を入れる",
+    "reading": "せんざいをいれる",
+    "meaning": "Cho bột giặt vào",
+    "part": 5
+  },
+  {
+    "term": "洗剤",
+    "reading": "せんざい",
+    "meaning": "Chất tẩy rửa",
+    "part": 5
+  },
+  {
+    "term": "スーツをクリーニングに出す",
+    "reading": "スーツをクリーニングにだす",
+    "meaning": "Đưa áo vét đến tiệm giặt ủi",
+    "part": 5
+  },
+  {
+    "term": "コインランドリーで洗濯をする",
+    "reading": "コインランドリーでせんたくをする",
+    "meaning": "Giặt ở tiệm giặt tự động",
+    "part": 5
+  },
+  {
+    "term": "タオルを干す",
+    "reading": "タオルをほす",
+    "meaning": "Phơi khăn",
+    "part": 5
+  },
+  {
+    "term": "服をつるす",
+    "reading": "ふくをつるす",
+    "meaning": "Treo đồ lên",
+    "part": 5
+  },
+  {
+    "term": "ワイシャツにアイロンをかける",
+    "reading": "ワイシャツにアイロンをかける",
+    "meaning": "Ủi áo sơ mi",
+    "part": 5
+  },
+  {
+    "term": "しわを伸ばす",
+    "reading": "しわをのばす",
+    "meaning": "Kéo căng nếp nhăn",
+    "part": 5
+  },
+  {
+    "term": "しわが伸びる",
+    "reading": "しわがのびる",
+    "meaning": "Nếp nhăn được kéo căng",
+    "part": 5
+  },
+  {
+    "term": "ウールのセーターが縮む",
+    "reading": "ウールのセーターがちぢむ",
+    "meaning": "Áo leo co lại",
+    "part": 5
+  },
+  {
+    "term": "ジーンズの色が落ちる",
+    "reading": "ジーンズのいろがおちる",
+    "meaning": "Quần Jean phai màu",
+    "part": 5
+  },
+  {
+    "term": "可愛らしい子供",
+    "reading": "かわいらしいこども",
+    "meaning": "Đứa trẻ đáng yêu",
+    "part": 6
+  },
+  {
+    "term": "可愛そうな子供",
+    "reading": "かわいそうなこども",
+    "meaning": "Đứa trẻ tội nghiệp",
+    "part": 6
+  },
+  {
+    "term": "利口な子供",
+    "reading": "りこうなこども",
+    "meaning": "Đứa trẻ lanh lợi",
+    "part": 6
+  },
+  {
+    "term": "かしこい子供",
+    "reading": "かしこいこども",
+    "meaning": "Đứa trẻ thông minh",
+    "part": 6
+  },
+  {
+    "term": "ひとなつっこい子供",
+    "reading": "ひとなつっこいこども",
+    "meaning": "Đứa trẻ hòa đồng",
+    "part": 6
+  },
+  {
+    "term": "可愛らしい犬",
+    "reading": "かわいいらしいいぬ",
+    "meaning": "Con chó đáng yêu",
+    "part": 6
+  },
+  {
+    "term": "可愛そうな犬",
+    "reading": "かわいそうないぬ",
+    "meaning": "Con chó tội nghiệp",
+    "part": 6
+  },
+  {
+    "term": "行儀がいい犬",
+    "reading": "ぎょうぎがいいいぬ",
+    "meaning": "Con chó hiền lành",
+    "part": 6
+  },
+  {
+    "term": "利口な犬",
+    "reading": "りこうないぬ",
+    "meaning": "Con chó lanh lợi",
+    "part": 6
+  },
+  {
+    "term": "かしこい犬",
+    "reading": "かしこいいぬ",
+    "meaning": "Con chó khôn",
+    "part": 6
+  },
+  {
+    "term": "ひとなつっこい犬",
+    "reading": "ひとなつっこいいぬ",
+    "meaning": "Con chó hòa nhã",
+    "part": 6
+  },
+  {
+    "term": "わがままな子供",
+    "reading": "わがままなこども",
+    "meaning": "Đứa trẻ ích kỷ",
+    "part": 6
+  },
+  {
+    "term": "生意気な子供",
+    "reading": "なまいきなこども",
+    "meaning": "Đứa trẻ kiêu căng",
+    "part": 6
+  },
+  {
+    "term": "生意気な態度",
+    "reading": "なまいきなたいど",
+    "meaning": "Thái độ tinh vi",
+    "part": 6
+  },
+  {
+    "term": "子供を甘やかす",
+    "reading": "こどもをあまやかす",
+    "meaning": "Nuông chiều con",
+    "part": 6
+  },
+  {
+    "term": "子供を可愛がる",
+    "reading": "こどもをかわいがる",
+    "meaning": "Yêu thương con",
+    "part": 6
+  },
+  {
+    "term": "子供をおんぶする",
+    "reading": "こどもをおんぶする",
+    "meaning": "Cõng con",
+    "part": 6
+  },
+  {
+    "term": "子供を抱っこする",
+    "reading": "こどもをだっこする",
+    "meaning": "Bế con",
+    "part": 6
+  },
+  {
+    "term": "子供を腕に抱く",
+    "reading": "こどもをうでにだく",
+    "meaning": "Bế con",
+    "part": 6
+  },
+  {
+    "term": "犬がほえる",
+    "reading": "いぬがほえる",
+    "meaning": "Chó sủa",
+    "part": 6
+  },
+  {
+    "term": "犬がしっぽを振る",
+    "reading": "いぬがしっぽをふる",
+    "meaning": "Chó vẫy đuôi",
+    "part": 6
+  },
+  {
+    "term": "犬がひとになれる",
+    "reading": "いぬがひとになれる",
+    "meaning": "Chó quen (thân thiện) người",
+    "part": 6
+  },
+  {
+    "term": "犬がうなる",
+    "reading": "いぬがうなる",
+    "meaning": "Con chó gầm gừ",
+    "part": 6
+  },
+  {
+    "term": "犬が穴をほる",
+    "reading": "いぬがあなをほる",
+    "meaning": "Chó đào lỗ",
+    "part": 6
+  },
+  {
+    "term": "犬が穴を埋める",
+    "reading": "いぬがあなをうめる",
+    "meaning": "Chó lấp lỗ",
+    "part": 6
+  },
+  {
+    "term": "育児",
+    "reading": "いくじ",
+    "meaning": "Chăm sóc trẻ",
+    "part": 6
+  },
+  {
+    "term": "子育て",
+    "reading": "こそだて",
+    "meaning": "Chăm sóc trẻ",
+    "part": 6
+  },
+  {
+    "term": "幼児",
+    "reading": "ようじ",
+    "meaning": "Trẻ con, đứa trẻ",
+    "part": 6
+  },
+  {
+    "term": "幼い子供",
+    "reading": "おさないこども",
+    "meaning": "Đứa trẻ, trẻ con ngây thơ",
+    "part": 6
+  },
+  {
+    "term": "こどもが成長する",
+    "reading": "こどもがせいちょうする",
+    "meaning": "Đứa trẻ lớn dần",
+    "part": 6
+  },
+  {
+    "term": "わがままに育つ",
+    "reading": "わがままにそだつ",
+    "meaning": "Dạy tính ích kỷ",
+    "part": 6
+  },
+  {
+    "term": "えらい",
+    "reading": "えらい",
+    "meaning": "Tuyệt vời, đáng chú ý",
+    "part": 6
+  },
+  {
+    "term": "頭をなでる",
+    "reading": "あたまをなでる",
+    "meaning": "Xoa đầu",
+    "part": 6
+  },
+  {
+    "term": "お尻をたたく",
+    "reading": "おしりをたたく",
+    "meaning": "Đánh mông",
+    "part": 6
+  },
+  {
+    "term": "お尻をぶつ",
+    "reading": "おしりをぶつ",
+    "meaning": "Đánh mông",
+    "part": 6
+  },
+  {
+    "term": "いたずらをする",
+    "reading": "いたずらをする",
+    "meaning": "Tinh nghịch",
+    "part": 6
+  },
+  {
+    "term": "いたずらな",
+    "reading": "いたずらな",
+    "meaning": "Nghịch ngợm",
+    "part": 6
+  },
+  {
+    "term": "手をつなぐ",
+    "reading": "てをつなぐ",
+    "meaning": "Nắm tay",
+    "part": 6
+  },
+  {
+    "term": "手をはなす",
+    "reading": "てをはなす",
+    "meaning": "Buông tay",
+    "part": 6
+  },
+  {
+    "term": "子供が迷子になる",
+    "reading": "こどもがまいごになる",
+    "meaning": "Đứa trẻ bị lạc",
+    "part": 6
+  },
+  {
+    "term": "こどもが母親の後をついていく",
+    "reading": "こどもがははおやのあとをついていく",
+    "meaning": "Đứa trẻ đi theo sau mẹ",
+    "part": 6
+  },
+  {
+    "term": "犬を飼う",
+    "reading": "いぬをかう",
+    "meaning": "Nuôi chó",
+    "part": 6
+  },
+  {
+    "term": "散歩に連れていく",
+    "reading": "さんぽにつれていく",
+    "meaning": "Dẫn đi bộ",
+    "part": 6
+  },
+  {
+    "term": "犬にえさをやる",
+    "reading": "いぬにえさをやる",
+    "meaning": "Cho chó ăn",
+    "part": 6
+  },
+  {
+    "term": "犬にえさを与える",
+    "reading": "いぬにえさをあたえる",
+    "meaning": "Cho chó ăn",
+    "part": 6
+  },
+  {
+    "term": "一昨日",
+    "reading": "おととい",
+    "meaning": "Hôm kia",
+    "part": 7
+  },
+  {
+    "term": "昨日",
+    "reading": "きのう",
+    "meaning": "Hôm qua",
+    "part": 7
+  },
+  {
+    "term": "明日",
+    "reading": "あす",
+    "meaning": "Ngày mai",
+    "part": 7
+  },
+  {
+    "term": "さき一昨日",
+    "reading": "さきおととい",
+    "meaning": "Hôm kìa",
+    "part": 7
+  },
+  {
+    "term": "しあさって",
+    "reading": "しあさって",
+    "meaning": "Ngày kìa; 3 ngày sau",
+    "part": 7
+  },
+  {
+    "term": "明後日",
+    "reading": "あさって",
+    "meaning": "Ngày kia",
+    "part": 7
+  },
+  {
+    "term": "元日",
+    "reading": "がんじつ",
+    "meaning": "Mùng một tết",
+    "part": 7
+  },
+  {
+    "term": "元旦",
+    "reading": "がんたん",
+    "meaning": "Mùng một tết",
+    "part": 7
+  },
+  {
+    "term": "上旬",
+    "reading": "じょうじゅん",
+    "meaning": "10 ngày đầu của tháng",
+    "part": 7
+  },
+  {
+    "term": "初旬",
+    "reading": "しょじゅん",
+    "meaning": "10 ngày đầu của tháng",
+    "part": 7
+  },
+  {
+    "term": "中旬",
+    "reading": "ちゅうじゅん",
+    "meaning": "10 ngày giữa của tháng",
+    "part": 7
+  },
+  {
+    "term": "下旬",
+    "reading": "げじゅん",
+    "meaning": "10 ngày cuối của tháng",
+    "part": 7
+  },
+  {
+    "term": "月末",
+    "reading": "げつまつ",
+    "meaning": "Cuối tháng",
+    "part": 7
+  },
+  {
+    "term": "平日",
+    "reading": "へいじつ",
+    "meaning": "Ngày thường",
+    "part": 7
+  },
+  {
+    "term": "祝日",
+    "reading": "しゅくじつ",
+    "meaning": "Ngày lễ",
+    "part": 7
+  },
+  {
+    "term": "祭日",
+    "reading": "さいじつ",
+    "meaning": "Ngày lễ",
+    "part": 7
+  },
+  {
+    "term": "昨年",
+    "reading": "さくねん",
+    "meaning": "Năm trước",
+    "part": 7
+  },
+  {
+    "term": "一昨年",
+    "reading": "いっさくねん",
+    "meaning": "Năm kia",
+    "part": 7
+  },
+  {
+    "term": "再来年",
+    "reading": "さらいねん",
+    "meaning": "Hai năm nữa",
+    "part": 7
+  },
+  {
+    "term": "先々月",
+    "reading": "せんせんげつ",
+    "meaning": "Hai tháng trước",
+    "part": 7
+  },
+  {
+    "term": "先々週",
+    "reading": "せんせんしゅう",
+    "meaning": "Hai tuần trước",
+    "part": 7
+  },
+  {
+    "term": "再来月",
+    "reading": "さらいげつ",
+    "meaning": "Hai tháng sau",
+    "part": 7
+  },
+  {
+    "term": "再来週",
+    "reading": "さらいしゅう",
+    "meaning": "Hai tuần sau",
+    "part": 7
+  },
+  {
+    "term": "先日",
+    "reading": "せんじつ",
+    "meaning": "Hôm trước",
+    "part": 7
+  },
+  {
+    "term": "年末年始",
+    "reading": "ねんまつねんし",
+    "meaning": "Đầu năm, cuối năm",
+    "part": 7
+  },
+  {
+    "term": "暮れ",
+    "reading": "くれ",
+    "meaning": "Cuối năm",
+    "part": 7
+  },
+  {
+    "term": "休暇を取る",
+    "reading": "きゅうかをとる",
+    "meaning": "Lấy phép",
+    "part": 7
+  },
+  {
+    "term": "予定を調整する",
+    "reading": "よていをちょうせいする",
+    "meaning": "Điều chỉnh kế hoạch",
+    "part": 7
+  },
+  {
+    "term": "予定を変更する",
+    "reading": "よていをへんこうする",
+    "meaning": "Thay đổi kế hoạch",
+    "part": 7
+  },
+  {
+    "term": "予定をずらす",
+    "reading": "よていをずらす",
+    "meaning": "Kéo dài, hoãn kế hoạch",
+    "part": 7
+  },
+  {
+    "term": "日にちを調整する",
+    "reading": "ひにちをちょうせいする",
+    "meaning": "Điều chỉnh ngày tháng",
+    "part": 7
+  },
+  {
+    "term": "日にちを変更する",
+    "reading": "ひにちをへんこうする",
+    "meaning": "Thay đổi ngày tháng",
+    "part": 7
+  },
+  {
+    "term": "ひにちをずらす",
+    "reading": "ひにちをずらす",
+    "meaning": "Hoãn ngày lại",
+    "part": 7
+  },
+  {
+    "term": "日程を調整する",
+    "reading": "にっていをちょうせいする",
+    "meaning": "Điều chỉnh lịch trình",
+    "part": 7
+  },
+  {
+    "term": "日程を変更する",
+    "reading": "にっていをへんこうする",
+    "meaning": "Thay đổi lịch trình",
+    "part": 7
+  },
+  {
+    "term": "日程をずらす",
+    "reading": "にっていをずらす",
+    "meaning": "Hoãn lịch trình",
+    "part": 7
+  },
+  {
+    "term": "スケジュールを調整する",
+    "reading": "スケジュールをちょうせいする",
+    "meaning": "Điều chỉnh lịch trình",
+    "part": 7
+  },
+  {
+    "term": "スケジュールを変更する",
+    "reading": "スケジュールをへんこうする",
+    "meaning": "Thay đổi lịch trình",
+    "part": 7
+  },
+  {
+    "term": "スケジュールをずらす",
+    "reading": "スケジュールをずらす",
+    "meaning": "Hoãn lịch trình",
+    "part": 7
+  },
+  {
+    "term": "旅行会社に申し込む",
+    "reading": "りょこうかいしゃにもうしこむ",
+    "meaning": "Đăng ký với công ty du lịch",
+    "part": 7
+  },
+  {
+    "term": "予約を取り消す",
+    "reading": "よやくをとりけす",
+    "meaning": "Hủy việc đặt trước",
+    "part": 7
+  },
+  {
+    "term": "予約をキャンセルする",
+    "reading": "よやくをキャンセルする",
+    "meaning": "Hủy việc đặt trước",
+    "part": 7
+  },
+  {
+    "term": "荷物をつめる",
+    "reading": "にもつをつめる",
+    "meaning": "Đóng hành lý",
+    "part": 7
+  },
+  {
+    "term": "海外旅行",
+    "reading": "かいがいりょこう",
+    "meaning": "Du lịch nước ngoài",
+    "part": 7
+  },
+  {
+    "term": "国内旅行",
+    "reading": "こくないりょこう",
+    "meaning": "Du lịch trong nước",
+    "part": 7
+  },
+  {
+    "term": "二泊三日で温泉に行く",
+    "reading": "にはくみっかでおんせんにいく",
+    "meaning": "Đi suối nước nóng 2 đêm 3 ngày",
+    "part": 7
+  },
+  {
+    "term": "日帰りで温泉に行く",
+    "reading": "ひがえりでおんせんにいく",
+    "meaning": "Đi suối nước nóng trong ngày",
+    "part": 7
+  },
+  {
+    "term": "旅館に宿泊する",
+    "reading": "りょかんにしゅくはくする",
+    "meaning": "Lưu trú tại nhà trọ",
+    "part": 7
+  },
+  {
+    "term": "階段を上る",
+    "reading": "かいだんをのぼる",
+    "meaning": "Bước lên cầu thang",
+    "part": 8
+  },
+  {
+    "term": "階段を上がる",
+    "reading": "かいだんをあがる",
+    "meaning": "Bước lên cầu thang",
+    "part": 8
+  },
+  {
+    "term": "階段を下る",
+    "reading": "かいだんをくだる",
+    "meaning": "Bước xuống cầu thang",
+    "part": 8
+  },
+  {
+    "term": "階段を下りる",
+    "reading": "かいだんをおりる",
+    "meaning": "Bước xuống cầu thang",
+    "part": 8
+  },
+  {
+    "term": "下り電車",
+    "reading": "くだりでんしゃ",
+    "meaning": "Tàu đi về hướng Hokkaido",
+    "part": 8
+  },
+  {
+    "term": "上り電車",
+    "reading": "のぼりでんしゃ",
+    "meaning": "Tàu đi về hướng Tokyo",
+    "part": 8
+  },
+  {
+    "term": "エスカレーターの上り",
+    "reading": "エスカレーターののぼり",
+    "meaning": "Thang cuốn đi lên",
+    "part": 8
+  },
+  {
+    "term": "エスカレーターの下り",
+    "reading": "エスカレーターのくだり",
+    "meaning": "Thang cuốn đi xuống",
+    "part": 8
+  },
+  {
+    "term": "列車の時刻を調べる",
+    "reading": "れっしゃのじこくをしらべる",
+    "meaning": "Tìm giờ tàu chạy",
+    "part": 8
+  },
+  {
+    "term": "時刻表",
+    "reading": "じこくひょう",
+    "meaning": "Bảng giờ tàu chạy",
+    "part": 8
+  },
+  {
+    "term": "東京発横浜行き",
+    "reading": "とうきょうはつよこはまいき",
+    "meaning": "Tàu xuất phát ở Tokyo đi Yokohama",
+    "part": 8
+  },
+  {
+    "term": "私鉄",
+    "reading": "してつ",
+    "meaning": "Đường sắt tư nhân",
+    "part": 8
+  },
+  {
+    "term": "新幹線",
+    "reading": "しんかんせん",
+    "meaning": "Tàu siêu tốc shinkansen",
+    "part": 8
+  },
+  {
+    "term": "座席を指定する",
+    "reading": "ざせきをしていする",
+    "meaning": "Chỉ định ghế ngồi",
+    "part": 8
+  },
+  {
+    "term": "指定席",
+    "reading": "していせき",
+    "meaning": "Ghế chỉ định",
+    "part": 8
+  },
+  {
+    "term": "自由席",
+    "reading": "じゆうせき",
+    "meaning": "Ghế tự do",
+    "part": 8
+  },
+  {
+    "term": "窓側",
+    "reading": "まどがわ",
+    "meaning": "Phía bên cửa sổ",
+    "part": 8
+  },
+  {
+    "term": "通路側",
+    "reading": "つうろがわ",
+    "meaning": "Hướng về lối đi",
+    "part": 8
+  },
+  {
+    "term": "乗車券",
+    "reading": "じょうしゃけん",
+    "meaning": "Vé lên tàu",
+    "part": 8
+  },
+  {
+    "term": "片道切符",
+    "reading": "かたみちきっぷ",
+    "meaning": "Vé một chiều",
+    "part": 8
+  },
+  {
+    "term": "往復切符",
+    "reading": "おうふくきっぷ",
+    "meaning": "Vé khứ hồi",
+    "part": 8
+  },
+  {
+    "term": "特急券",
+    "reading": "とっきゅうけん",
+    "meaning": "Vé tàu tốc hành",
+    "part": 8
+  },
+  {
+    "term": "特急料金",
+    "reading": "とっきゅうりょうきん",
+    "meaning": "Cước tàu tốc hành",
+    "part": 8
+  },
+  {
+    "term": "回数券",
+    "reading": "かいすうけん",
+    "meaning": "Tập vé",
+    "part": 8
+  },
+  {
+    "term": "定期券",
+    "reading": "ていきけん",
+    "meaning": "Vé định kỳ",
+    "part": 8
+  },
+  {
+    "term": "改札口を通る",
+    "reading": "かいさつぐちをとおる",
+    "meaning": "Qua cổng soát vé",
+    "part": 8
+  },
+  {
+    "term": "切符を払い戻す",
+    "reading": "きっぷをはらいもどす",
+    "meaning": "Trả lại vé",
+    "part": 8
+  },
+  {
+    "term": "払い戻し",
+    "reading": "はらいもどし",
+    "meaning": "Hoàn trả",
+    "part": 8
+  },
+  {
+    "term": "(プラット)ホームが混乱している",
+    "reading": "プラットホームがこんらんしている",
+    "meaning": "Tắc nghẽn ở chỗ lên tàu",
+    "part": 9
+  },
+  {
+    "term": "白線の内側に下がる",
+    "reading": "はくせんのうちがわにさがる",
+    "meaning": "Lùi vào bên trong vạch trắng",
+    "part": 9
+  },
+  {
+    "term": "黄色い線の内側に下がる",
+    "reading": "きいろいせんのうちがわにさがる",
+    "meaning": "Lùi vào bên trong vạch vàng",
+    "part": 9
+  },
+  {
+    "term": "外側",
+    "reading": "そとがわ",
+    "meaning": "Phía ngoài",
+    "part": 9
+  },
+  {
+    "term": "特急が通過する",
+    "reading": "とっきゅうがつうかする",
+    "meaning": "Tàu tốc hành đi qua",
+    "part": 9
+  },
+  {
+    "term": "乗車する",
+    "reading": "じょうしゃする",
+    "meaning": "Lên tàu",
+    "part": 9
+  },
+  {
+    "term": "下車する",
+    "reading": "げしゃする",
+    "meaning": "Xuống tàu",
+    "part": 9
+  },
+  {
+    "term": "発車する",
+    "reading": "はっしゃする",
+    "meaning": "Tàu xuất phát",
+    "part": 9
+  },
+  {
+    "term": "電車のなかはがらがらだ",
+    "reading": "でんしゃのなかはがらがらだ",
+    "meaning": "Tàu vắng tanh",
+    "part": 9
+  },
+  {
+    "term": "からっぽ",
+    "reading": "からっぽ",
+    "meaning": "Vắng tanh, trống rỗng",
+    "part": 9
+  },
+  {
+    "term": "満員電車で通勤する",
+    "reading": "まんいんでんしゃでつうきんする",
+    "meaning": "Đi làm trên chiếc tàu chật ních người",
+    "part": 9
+  },
+  {
+    "term": "電車が揺れる",
+    "reading": "でんしゃがゆれる",
+    "meaning": "Tàu rung lắc",
+    "part": 9
+  },
+  {
+    "term": "始発電車",
+    "reading": "しはつでんしゃ",
+    "meaning": "Chuyến tàu đầu tiên trong ngày",
+    "part": 9
+  },
+  {
+    "term": "終電",
+    "reading": "しゅうでん",
+    "meaning": "Chuyến tàu cuối cùng trong ngày",
+    "part": 9
+  },
+  {
+    "term": "始発駅から乗る",
+    "reading": "しはつえきからのる",
+    "meaning": "Lên từ ga đầu",
+    "part": 9
+  },
+  {
+    "term": "終点で降りる",
+    "reading": "しゅうてんでおりる",
+    "meaning": "Xuống ở ga cuối",
+    "part": 9
+  },
+  {
+    "term": "急行から各駅停車に乗り換える",
+    "reading": "きゅうこうからかくえきていしゃにのりかえる",
+    "meaning": "Đổi từ tàu nhanh sang tàu dừng ở tất cả các trạm",
+    "part": 9
+  },
+  {
+    "term": "乗り換え",
+    "reading": "のりかえ",
+    "meaning": "Đổi tàu",
+    "part": 9
+  },
+  {
+    "term": "乗り遅れる",
+    "reading": "のりおくれる",
+    "meaning": "Lỡ chuyến tàu",
+    "part": 9
+  },
+  {
+    "term": "乗り過ごす",
+    "reading": "のりすごす",
+    "meaning": "Đi quá ga cần tới",
+    "part": 9
+  },
+  {
+    "term": "乗り越す",
+    "reading": "のりこす",
+    "meaning": "Đi quá ga cần tới",
+    "part": 9
+  },
+  {
+    "term": "乗り越し",
+    "reading": "のりこし",
+    "meaning": "Đi quá ga cần tới",
+    "part": 9
+  },
+  {
+    "term": "運賃を精算する",
+    "reading": "うんちんをせいさんする",
+    "meaning": "Tính lại cước phí đi",
+    "part": 9
+  },
+  {
+    "term": "車掌が車内アナウンスをする",
+    "reading": "しゃしょうがしゃないアナウンスをする",
+    "meaning": "Người điều hành thông báo trên tàu",
+    "part": 9
+  },
+  {
+    "term": "携帯電話の使用を控える",
+    "reading": "けいたいでんわのしようをひかえる",
+    "meaning": "Hạn chế dùng di động",
+    "part": 9
+  },
+  {
+    "term": "お年寄りに席をゆずる",
+    "reading": "おとしよりにせきをゆずる",
+    "meaning": "Nhường ghế cho người cao tuổi",
+    "part": 9
+  },
+  {
+    "term": "優先席",
+    "reading": "ゆうせんせき",
+    "meaning": "Ghế ưu tiên",
+    "part": 9
+  },
+  {
+    "term": "体の不自由な人",
+    "reading": "からだのふじゆうなひと",
+    "meaning": "Người khuyết tật",
+    "part": 9
+  },
+  {
+    "term": "ちかんにあう",
+    "reading": "ちかんにあう",
+    "meaning": "Bị gạ gẫm",
+    "part": 9
+  },
+  {
+    "term": "駅の売店",
+    "reading": "えきのばいてん",
+    "meaning": "Quầy bán hàng ở ga",
+    "part": 9
+  },
+  {
+    "term": "フロントガラス",
+    "reading": "フロントガラス",
+    "meaning": "Kính trước",
+    "part": 10
+  },
+  {
+    "term": "ワイパー",
+    "reading": "ワイパー",
+    "meaning": "Cần gạt nước",
+    "part": 10
+  },
+  {
+    "term": "ボンネット",
+    "reading": "ボンネット",
+    "meaning": "Bạt mui xe",
+    "part": 10
+  },
+  {
+    "term": "ライト",
+    "reading": "ライト",
+    "meaning": "Đèn ô tô",
+    "part": 10
+  },
+  {
+    "term": "バックミラー",
+    "reading": "バックミラー",
+    "meaning": "Gương chiếu hậu",
+    "part": 10
+  },
+  {
+    "term": "トランク",
+    "reading": "トランク",
+    "meaning": "Cốp xe",
+    "part": 10
+  },
+  {
+    "term": "サイドミラー",
+    "reading": "サイドミラー",
+    "meaning": "Gương chiếu hậu gắn 2 bên",
+    "part": 10
+  },
+  {
+    "term": "助手席",
+    "reading": "じょしゅせき",
+    "meaning": "Ghế bên cạnh ghế người cầm lái",
+    "part": 10
+  },
+  {
+    "term": "タイや",
+    "reading": "タイや",
+    "meaning": "Bãnh xe",
+    "part": 10
+  },
+  {
+    "term": "カーナビ",
+    "reading": "カーナビ",
+    "meaning": "Hệ thống dẫn đường cho ô tô",
+    "part": 10
+  },
+  {
+    "term": "ハンドル",
+    "reading": "ハンドル",
+    "meaning": "Vô lăng",
+    "part": 10
+  },
+  {
+    "term": "運転席",
+    "reading": "うんてんせき",
+    "meaning": "Ghế lái",
+    "part": 10
+  },
+  {
+    "term": "キー",
+    "reading": "キー",
+    "meaning": "Chìa khóa",
+    "part": 10
+  },
+  {
+    "term": "運転免許証",
+    "reading": "うんてんめんきょしょう",
+    "meaning": "Bằng lái xe",
+    "part": 10
+  },
+  {
+    "term": "ドライブをする",
+    "reading": "ドライブをする",
+    "meaning": "Lái xe",
+    "part": 10
+  },
+  {
+    "term": "レンタカーを借りる",
+    "reading": "レンタカーをかりる",
+    "meaning": "Thuê xe",
+    "part": 10
+  },
+  {
+    "term": "トランクに荷物を積む",
+    "reading": "トランクににもつをつむ",
+    "meaning": "Chất hành lý vào cốp xe",
+    "part": 10
+  },
+  {
+    "term": "人を乗せる",
+    "reading": "ひとをのせる",
+    "meaning": "Cho người lên",
+    "part": 10
+  },
+  {
+    "term": "シートベルトをしめる",
+    "reading": "シートベルトをしめる",
+    "meaning": "Thắt dây an toàn",
+    "part": 10
+  },
+  {
+    "term": "エンジンをかける",
+    "reading": "エンジンをかける",
+    "meaning": "Khởi động động cơ",
+    "part": 10
+  },
+  {
+    "term": "バックミラーで確認をする",
+    "reading": "バックミラーでかくにんをする",
+    "meaning": "Xác nhận bằng nhìn gương chiếu hậu",
+    "part": 10
+  },
+  {
+    "term": "ハンドルをにぎる",
+    "reading": "ハンドルをにぎる",
+    "meaning": "Nắm tay lái",
+    "part": 10
+  },
+  {
+    "term": "アクセスをふむ",
+    "reading": "アクセスをふむ",
+    "meaning": "Giậm chân ga",
+    "part": 10
+  },
+  {
+    "term": "ブレーキをかける",
+    "reading": "ブレーキをかける",
+    "meaning": "Đạp phanh",
+    "part": 10
+  },
+  {
+    "term": "急ブレーキ",
+    "reading": "きゅうブレーキ",
+    "meaning": "Phanh gấp",
+    "part": 10
+  },
+  {
+    "term": "ライトをつける",
+    "reading": "ライトをつける",
+    "meaning": "Bật đèn",
+    "part": 10
+  },
+  {
+    "term": "ワイパーを動かす",
+    "reading": "ワイパーをうごかす",
+    "meaning": "Bật cần gạt",
+    "part": 10
+  },
+  {
+    "term": "ガソリンスタンドに寄る",
+    "reading": "ガソリンスタンドによる",
+    "meaning": "Ghé vào trạm đổ xăng",
+    "part": 10
+  },
+  {
+    "term": "高速道路に乗る",
+    "reading": "こうそくどうろにのる",
+    "meaning": "Vào đường cao tốc",
+    "part": 10
+  },
+  {
+    "term": "タイやがパンクする",
+    "reading": "タイやがパンクする",
+    "meaning": "Bánh xe bị bể",
+    "part": 10
+  },
+  {
+    "term": "通行止め",
+    "reading": "つうこうどめ",
+    "meaning": "Cấm lưu thông",
+    "part": 11
+  },
+  {
+    "term": "信号",
+    "reading": "しんごう",
+    "meaning": "Đèn giao thông",
+    "part": 11
+  },
+  {
+    "term": "四つ角",
+    "reading": "よつかど",
+    "meaning": "Ngã tư đường",
+    "part": 11
+  },
+  {
+    "term": "交差点",
+    "reading": "こうさてん",
+    "meaning": "Ngã tư",
+    "part": 11
+  },
+  {
+    "term": "工事中",
+    "reading": "こうじちゅう",
+    "meaning": "Đang thi công",
+    "part": 11
+  },
+  {
+    "term": "踏切",
+    "reading": "ふみきり",
+    "meaning": "Nơi chắn tàu",
+    "part": 11
+  },
+  {
+    "term": "横断歩道",
+    "reading": "おうだんほどう",
+    "meaning": "Vạch dành cho người người đi bộ",
+    "part": 11
+  },
+  {
+    "term": "バス停",
+    "reading": "ばすてい",
+    "meaning": "Điểm xe buýt",
+    "part": 11
+  },
+  {
+    "term": "バスの停留所",
+    "reading": "バスのていりゅうじょ",
+    "meaning": "Bến đỗ xe buýt",
+    "part": 11
+  },
+  {
+    "term": "一方通行",
+    "reading": "いっぽうつうこう",
+    "meaning": "Lưu thông một chiều",
+    "part": 11
+  },
+  {
+    "term": "線路",
+    "reading": "せんろ",
+    "meaning": "Đường ray",
+    "part": 11
+  },
+  {
+    "term": "渋滞",
+    "reading": "じゅうたい",
+    "meaning": "Tắc đường",
+    "part": 11
+  },
+  {
+    "term": "道路が混んでいる",
+    "reading": "どうろがこんでいる",
+    "meaning": "Đường đông xe",
+    "part": 11
+  },
+  {
+    "term": "道路が渋滞している",
+    "reading": "どうろがじゅうたいしている",
+    "meaning": "Đường kẹt xe",
+    "part": 11
+  },
+  {
+    "term": "回り道(を)する",
+    "reading": "まわりみちをする",
+    "meaning": "Đường vòng",
+    "part": 11
+  },
+  {
+    "term": "遠回し(を)する",
+    "reading": "とおまわしをする",
+    "meaning": "Đi vòng vòng",
+    "part": 11
+  },
+  {
+    "term": "近道(を)する",
+    "reading": "ちかみちをする",
+    "meaning": "Đi đường sắt",
+    "part": 11
+  },
+  {
+    "term": "突き当りを左に曲がる",
+    "reading": "つきあたりをひだりにまがる",
+    "meaning": "Quẹo trái ở cuối đường",
+    "part": 11
+  },
+  {
+    "term": "バスが停車する",
+    "reading": "バスがていしゃする",
+    "meaning": "Xe buýt dừng",
+    "part": 11
+  },
+  {
+    "term": "線路を越える",
+    "reading": "せんろがこえる",
+    "meaning": "Vượt qua đường ray",
+    "part": 11
+  },
+  {
+    "term": "トラックを追い越す",
+    "reading": "トラックをおいこす",
+    "meaning": "Vượt qua xe tải",
+    "part": 11
+  },
+  {
+    "term": "スピード違反で捕まる",
+    "reading": "スピードいはんでつかまる",
+    "meaning": "Bị bắt vì vi phạm tốc độ",
+    "part": 11
+  },
+  {
+    "term": "駐車違反をする",
+    "reading": "ちゅうしゃいはんをする",
+    "meaning": "Vi phạm việc đậu xe",
+    "part": 11
+  },
+  {
+    "term": "信号を無視する",
+    "reading": "しんごうをむしする",
+    "meaning": "Lờ đi tín hiệu giao thông",
+    "part": 11
+  },
+  {
+    "term": "信号無視",
+    "reading": "しんごうむし",
+    "meaning": "Lờ đi tín hiệu giao thông",
+    "part": 11
+  },
+  {
+    "term": "車をぶつける",
+    "reading": "くるまをぶつける",
+    "meaning": "Va chạm xe",
+    "part": 11
+  },
+  {
+    "term": "猫をひく",
+    "reading": "ねこをひく",
+    "meaning": "Xe bị va chạm",
+    "part": 11
+  },
+  {
+    "term": "猫が車にひかれる",
+    "reading": "ねこがくるまにひかれる",
+    "meaning": "Cán con mèo",
+    "part": 11
+  },
+  {
+    "term": "事故にあう",
+    "reading": "じこにあう",
+    "meaning": "Gặp tai nạn giao thông",
+    "part": 11
+  },
+  {
+    "term": "車に気をつける",
+    "reading": "くるまにきをつける",
+    "meaning": "Chú ý xe",
+    "part": 11
+  },
+  {
+    "term": "ななめに横断する",
+    "reading": "ななめにおうだんする",
+    "meaning": "Băng chéo qua đường",
+    "part": 11
+  },
+  {
+    "term": "道路を横切る",
+    "reading": "どうろをよこぎる",
+    "meaning": "Chạy ngang qua đường",
+    "part": 11
+  },
+  {
+    "term": "通帳",
+    "reading": "つうちょう",
+    "meaning": "Sổ tài khoản",
+    "part": 12
+  },
+  {
+    "term": "キャッシュカード",
+    "reading": "キャッシュカード",
+    "meaning": "Thẻ tín dụng",
+    "part": 12
+  },
+  {
+    "term": "はんこ",
+    "reading": "はんこ",
+    "meaning": "Con dấu",
+    "part": 12
+  },
+  {
+    "term": "印鑑",
+    "reading": "いんかん",
+    "meaning": "Con dấu",
+    "part": 12
+  },
+  {
+    "term": "サイン",
+    "reading": "サイン",
+    "meaning": "Chữ ký",
+    "part": 12
+  },
+  {
+    "term": "千円札",
+    "reading": "せんえんさつ",
+    "meaning": "Tờ 1000 yên",
+    "part": 12
+  },
+  {
+    "term": "紙幣",
+    "reading": "しへい",
+    "meaning": "Tiền giấy",
+    "part": 12
+  },
+  {
+    "term": "(お)札",
+    "reading": "おさつ",
+    "meaning": "Tiền giấy",
+    "part": 12
+  },
+  {
+    "term": "百円玉",
+    "reading": "ひゃくえんだま",
+    "meaning": "Đồng xu 100 yên",
+    "part": 12
+  },
+  {
+    "term": "硬貨",
+    "reading": "こうか",
+    "meaning": "Tiền xu",
+    "part": 12
+  },
+  {
+    "term": "お金を貯める",
+    "reading": "おかねをためる",
+    "meaning": "Để dành tiền",
+    "part": 12
+  },
+  {
+    "term": "貯金する",
+    "reading": "ちょきんする",
+    "meaning": "Để dành tiền",
+    "part": 12
+  },
+  {
+    "term": "預金する",
+    "reading": "よきんする",
+    "meaning": "Gửi tiền",
+    "part": 12
+  },
+  {
+    "term": "銀行にお金を預ける",
+    "reading": "ぎんこうにおかねをあずける",
+    "meaning": "Gửi tiền ở ngân hàng",
+    "part": 12
+  },
+  {
+    "term": "給料を引き出す",
+    "reading": "きゅうりょうをひきだす",
+    "meaning": "Rút tiền lương",
+    "part": 12
+  },
+  {
+    "term": "給料を下す",
+    "reading": "きゅうりょうをおろす",
+    "meaning": "Rút tiền lương",
+    "part": 12
+  },
+  {
+    "term": "通帳記入をする",
+    "reading": "つうちょうきにゅうをする",
+    "meaning": "Ký sổ ngân hàng",
+    "part": 12
+  },
+  {
+    "term": "通帳に記入する",
+    "reading": "つうちょうにきにゅうする",
+    "meaning": "Ký số (ngân hàng)",
+    "part": 12
+  },
+  {
+    "term": "暗証番号",
+    "reading": "あんしょうばんごう",
+    "meaning": "Số mật mã, số Pin",
+    "part": 12
+  },
+  {
+    "term": "銀行の本店",
+    "reading": "ぎんこうのほんてん",
+    "meaning": "Cơ sở chính ngân hàng",
+    "part": 12
+  },
+  {
+    "term": "銀行の支店",
+    "reading": "ぎんこうのしてん",
+    "meaning": "Chi nhánh ngân hàng",
+    "part": 12
+  },
+  {
+    "term": "講座を開く",
+    "reading": "こうざをひらく",
+    "meaning": "Mở tài khoản",
+    "part": 12
+  },
+  {
+    "term": "家賃を振り込む",
+    "reading": "やちんをふりこむ",
+    "meaning": "Chuyển khoản thanh toán tiền thuê nhà",
+    "part": 12
+  },
+  {
+    "term": "振り込み",
+    "reading": "ふりこみ",
+    "meaning": "Chuyển khoản",
+    "part": 12
+  },
+  {
+    "term": "公共料金を支払う",
+    "reading": "こうきょうりょうきんをしはらう",
+    "meaning": "Trả cước công cộng",
+    "part": 12
+  },
+  {
+    "term": "支払い",
+    "reading": "しはらい",
+    "meaning": "Thanh toán",
+    "part": 12
+  },
+  {
+    "term": "商品の代金を払う",
+    "reading": "しょうひんのだいきんをはらう",
+    "meaning": "Thanh toán tiền mua hàng",
+    "part": 12
+  },
+  {
+    "term": "あて名",
+    "reading": "あてな",
+    "meaning": "Tên và địa chỉ người nhận",
+    "part": 12
+  },
+  {
+    "term": "窓口で両替をする",
+    "reading": "まどぐちでりょうがえをする",
+    "meaning": "Đổi tiền ở quầy dịch vụ",
+    "part": 12
+  },
+  {
+    "term": "差出人名",
+    "reading": "さしだしにんめい",
+    "meaning": "Người gửi",
+    "part": 12
+  },
+  {
+    "term": "送金する",
+    "reading": "そうきんする",
+    "meaning": "Gửi tiền",
+    "part": 12
+  },
+  {
+    "term": "手紙を速達で出す",
+    "reading": "てがみをそくたつでだす",
+    "meaning": "Gửi thư bằng chuyển phát nhanh",
+    "part": 12
+  },
+  {
+    "term": "仕送りする",
+    "reading": "しおくりする",
+    "meaning": "Gửi cho, chu cấp",
+    "part": 12
+  },
+  {
+    "term": "小包",
+    "reading": "こづつみ",
+    "meaning": "Bưu phẩm, kiện nhỏ",
+    "part": 12
+  },
+  {
+    "term": "手数料がかかる",
+    "reading": "てすうりょうがかかる",
+    "meaning": "Tốn tiền dịch vụ",
+    "part": 12
+  },
+  {
+    "term": "送料がかかる",
+    "reading": "そうりょうがかかる",
+    "meaning": "Tốn cước",
+    "part": 12
+  },
+  {
+    "term": "田中さんと交際する",
+    "reading": "たなかさんとこうさいする",
+    "meaning": "Chơi, có quan hệ với anh Tanaka",
+    "part": 13
+  },
+  {
+    "term": "田中さんと付き合う",
+    "reading": "たなかさんとつきあう",
+    "meaning": "Hẹn hò với anh Tanaka",
+    "part": 13
+  },
+  {
+    "term": "田中さんとけんかする",
+    "reading": "たなかさんとけんかする",
+    "meaning": "Cãi nhau với anh Tanaka",
+    "part": 13
+  },
+  {
+    "term": "田中さんと仲直りする",
+    "reading": "たなかさんとなかなおりする",
+    "meaning": "Hòa giải với anh Tanaka",
+    "part": 13
+  },
+  {
+    "term": "田中さんと仲良しだ",
+    "reading": "たなかさんとなかよしだ",
+    "meaning": "Có quan hệ tốt với anh Tanaka",
+    "part": 13
+  },
+  {
+    "term": "田中さんをコンサートにさそう",
+    "reading": "たなかさんをコンサートにさそう",
+    "meaning": "Rủ anh Tanaka đi xem hòa nhạc",
+    "part": 13
+  },
+  {
+    "term": "田中さんをいやがる",
+    "reading": "たなかさんをいやがる",
+    "meaning": "Không ưa anh Tanaka",
+    "part": 13
+  },
+  {
+    "term": "田中さんをふる",
+    "reading": "たなかさんをふる",
+    "meaning": "Không chơi với anh Tanaka",
+    "part": 13
+  },
+  {
+    "term": "田中さんのことが気になる",
+    "reading": "たなかさんのことがきになる",
+    "meaning": "Để ý anh Tanaka",
+    "part": 13
+  },
+  {
+    "term": "田中さんのことが好きになる",
+    "reading": "たなかさんのことがすきになる",
+    "meaning": "Thích anh Tanaka",
+    "part": 13
+  },
+  {
+    "term": "田中さんのことがきらいになる",
+    "reading": "たなかさんのことがきらいになる",
+    "meaning": "Ghét anh Tanaka",
+    "part": 13
+  },
+  {
+    "term": "田中さんのことがいやになる",
+    "reading": "たなかさんのことがいやになる",
+    "meaning": "Không ưa anh Tanaka",
+    "part": 13
+  },
+  {
+    "term": "田中さんのことがうらやましい",
+    "reading": "たなかさんのことがうらやましい",
+    "meaning": "Ganh tỵ với anh Tanaka",
+    "part": 13
+  },
+  {
+    "term": "田中さんに好かれる",
+    "reading": "たなかさんにすかれる",
+    "meaning": "Được anh Tanaka thích",
+    "part": 13
+  },
+  {
+    "term": "田中さんにきらわれる",
+    "reading": "たなかさんにきらわれる",
+    "meaning": "Bị anh Tanaka ghét",
+    "part": 13
+  },
+  {
+    "term": "田中さんにいやがられる",
+    "reading": "たなかさんにいやがられる",
+    "meaning": "Bị anh Tanaka không ưa",
+    "part": 13
+  },
+  {
+    "term": "田中さんにふられる",
+    "reading": "たなかさんにふられる",
+    "meaning": "Bị anh Tanaka đá",
+    "part": 13
+  },
+  {
+    "term": "田中さんに気がある",
+    "reading": "たなかさんにきがある",
+    "meaning": "Thích anh Tanaka",
+    "part": 13
+  },
+  {
+    "term": "田中さんにあこがれる",
+    "reading": "たなかさんにあこがれる",
+    "meaning": "Ngưỡng mộ anh Tanaka",
+    "part": 13
+  },
+  {
+    "term": "田中さんに夢中になる",
+    "reading": "たなかさんにむちゅうになる",
+    "meaning": "Mê mệt anh Tanaka",
+    "part": 13
+  },
+  {
+    "term": "田中さんに恋をする",
+    "reading": "たなかさんにこいをする",
+    "meaning": "Yêu anh Tanaka",
+    "part": 13
+  },
+  {
+    "term": "女性にもてる",
+    "reading": "じょせいにもてる",
+    "meaning": "Được cô gái yêu thích",
+    "part": 13
+  },
+  {
+    "term": "お互いに気に入る",
+    "reading": "おたがいにきにいる",
+    "meaning": "Cùng hài lòng",
+    "part": 13
+  },
+  {
+    "term": "相手の予定を聞く",
+    "reading": "あいてのよていをきく",
+    "meaning": "Hỏi về dự định của đối phương",
+    "part": 13
+  },
+  {
+    "term": "都合をつける",
+    "reading": "つごうをつける",
+    "meaning": "Sắp xếp lịch trình cho thỏa đáng",
+    "part": 13
+  },
+  {
+    "term": "都合がつく",
+    "reading": "つごうがつく",
+    "meaning": "Lịch trình được sắp xếp thỏa đáng",
+    "part": 13
+  },
+  {
+    "term": "付き合い",
+    "reading": "つきあい",
+    "meaning": "Yêu nhau, hẹn hò",
+    "part": 13
+  },
+  {
+    "term": "買い物に付き合う",
+    "reading": "かいものにつきあう",
+    "meaning": "Cùng nhau đi mua sắm",
+    "part": 13
+  },
+  {
+    "term": "恋人",
+    "reading": "こいびと",
+    "meaning": "Người yêu",
+    "part": 13
+  },
+  {
+    "term": "田中さんの彼",
+    "reading": "たなかさんのかれ",
+    "meaning": "Người yêu của chị Tanaka",
+    "part": 13
+  },
+  {
+    "term": "田中さんの彼氏",
+    "reading": "たなかさんのかれし",
+    "meaning": "Người yêu của chị Tanaka",
+    "part": 13
+  },
+  {
+    "term": "彼女",
+    "reading": "かのじょ",
+    "meaning": "Bạn gái",
+    "part": 13
+  },
+  {
+    "term": "結婚を申し込む",
+    "reading": "けっこんをもうしこむ",
+    "meaning": "Đăng ký kết hôn",
+    "part": 13
+  },
+  {
+    "term": "結婚を断る",
+    "reading": "けっこんをことわる",
+    "meaning": "Từ chối kết hôn",
+    "part": 13
+  },
+  {
+    "term": "あいまいな返事をする",
+    "reading": "あいまいなへんじをする",
+    "meaning": "Trả lời không rõ ràng",
+    "part": 13
+  },
+  {
+    "term": "額",
+    "reading": "ひたい",
+    "meaning": "Trán",
+    "part": 14
+  },
+  {
+    "term": "まつげ",
+    "reading": "まつげ",
+    "meaning": "Lông mi",
+    "part": 14
+  },
+  {
+    "term": "ほお",
+    "reading": "ほお",
+    "meaning": "Cái má",
+    "part": 14
+  },
+  {
+    "term": "ほほ",
+    "reading": "ほほ",
+    "meaning": "Cái má",
+    "part": 14
+  },
+  {
+    "term": "ネックレス",
+    "reading": "ネックレス",
+    "meaning": "Dây đeo cổ",
+    "part": 14
+  },
+  {
+    "term": "唇",
+    "reading": "くちびる",
+    "meaning": "Môi",
+    "part": 14
+  },
+  {
+    "term": "まゆ",
+    "reading": "まゆ",
+    "meaning": "Lông mày",
+    "part": 14
+  },
+  {
+    "term": "まゆげ",
+    "reading": "まゆげ",
+    "meaning": "Lông mày",
+    "part": 14
+  },
+  {
+    "term": "まぶた",
+    "reading": "まぶた",
+    "meaning": "Mí mắt",
+    "part": 14
+  },
+  {
+    "term": "イヤリング",
+    "reading": "イヤリング",
+    "meaning": "Bông tai",
+    "part": 14
+  },
+  {
+    "term": "ベルト",
+    "reading": "ベルト",
+    "meaning": "Đai, thắt lưng",
+    "part": 14
+  },
+  {
+    "term": "パンツ",
+    "reading": "パンツ",
+    "meaning": "Quần sooc, quần đùi lót của phụ nữ",
+    "part": 14
+  },
+  {
+    "term": "朝のしたくをする",
+    "reading": "あさのしたくをする",
+    "meaning": "Sửa soạn đi làm",
+    "part": 14
+  },
+  {
+    "term": "シャワーを浴びる",
+    "reading": "シャワーをあびる",
+    "meaning": "Tắm vòi sen",
+    "part": 14
+  },
+  {
+    "term": "下着",
+    "reading": "したぎ",
+    "meaning": "Quần lót",
+    "part": 14
+  },
+  {
+    "term": "上着",
+    "reading": "うわぎ",
+    "meaning": "Áo khoác",
+    "part": 14
+  },
+  {
+    "term": "歯を磨く",
+    "reading": "はをみがく",
+    "meaning": "Đánh răng",
+    "part": 14
+  },
+  {
+    "term": "歯みがき",
+    "reading": "はみがき",
+    "meaning": "Việc đánh răng",
+    "part": 14
+  },
+  {
+    "term": "歯磨き粉をつける",
+    "reading": "はみがきこをつける",
+    "meaning": "Quẹt kem đánh răng",
+    "part": 14
+  },
+  {
+    "term": "ひげをそる",
+    "reading": "ひげをそる",
+    "meaning": "Cạo râu",
+    "part": 14
+  },
+  {
+    "term": "ドライヤーで髪を乾かす",
+    "reading": "ドライヤーでかみをかわかす",
+    "meaning": "Làm khô tóc bằng máy sấy",
+    "part": 14
+  },
+  {
+    "term": "髪をとく",
+    "reading": "かみをとく",
+    "meaning": "Chải tóc",
+    "part": 14
+  },
+  {
+    "term": "髪をとかす",
+    "reading": "かみをとかす",
+    "meaning": "Chải tóc",
+    "part": 14
+  },
+  {
+    "term": "化粧をする",
+    "reading": "けしょうをする",
+    "meaning": "Trang điểm",
+    "part": 14
+  },
+  {
+    "term": "口紅を塗る",
+    "reading": "くちべにをぬる",
+    "meaning": "Thoa son",
+    "part": 14
+  },
+  {
+    "term": "口紅をつける",
+    "reading": "くちべにをつける",
+    "meaning": "Đánh son",
+    "part": 14
+  },
+  {
+    "term": "服を着替える",
+    "reading": "ふくをきがえる",
+    "meaning": "Thay quần áo",
+    "part": 14
+  },
+  {
+    "term": "着替える",
+    "reading": "きがえる",
+    "meaning": "Thay đồ",
+    "part": 14
+  },
+  {
+    "term": "おしゃれをする",
+    "reading": "おしゃれをする",
+    "meaning": "Chưng diện, ăn mặc đẹp",
+    "part": 14
+  },
+  {
+    "term": "おしゃれな人",
+    "reading": "おしゃれなひと",
+    "meaning": "Người chưng diện",
+    "part": 14
+  },
+  {
+    "term": "ひもを結ぶ",
+    "reading": "ひもをむすぶ",
+    "meaning": "Buộc dây",
+    "part": 14
+  },
+  {
+    "term": "ひもをほどく",
+    "reading": "ひもをほどく",
+    "meaning": "Tháo dây",
+    "part": 14
+  },
+  {
+    "term": "マフラーを巻く",
+    "reading": "マフラーをまく",
+    "meaning": "Quấn khăn",
+    "part": 14
+  },
+  {
+    "term": "マフラーをする",
+    "reading": "マフラーをする",
+    "meaning": "Quàng khăn",
+    "part": 14
+  },
+  {
+    "term": "手袋をはめる",
+    "reading": "てぶくろをはめる",
+    "meaning": "Đeo găng tay",
+    "part": 14
+  },
+  {
+    "term": "手袋をする",
+    "reading": "てぶくろをする",
+    "meaning": "Đeo găng tay",
+    "part": 14
+  },
+  {
+    "term": "指輪をはめる",
+    "reading": "ゆびわをはめる",
+    "meaning": "Đeo nhẫn",
+    "part": 14
+  },
+  {
+    "term": "指輪をする",
+    "reading": "ゆびわをする",
+    "meaning": "Đeo nhẫn",
+    "part": 14
+  },
+  {
+    "term": "長そで",
+    "reading": "ながそで",
+    "meaning": "Áo dài tay",
+    "part": 15
+  },
+  {
+    "term": "無地",
+    "reading": "むじ",
+    "meaning": "Áo trơn (không có họa tiết)",
+    "part": 15
+  },
+  {
+    "term": "柄",
+    "reading": "がら",
+    "meaning": "Họa tiết, hoa văn",
+    "part": 15
+  },
+  {
+    "term": "模様",
+    "reading": "もよう",
+    "meaning": "Có hoa văn",
+    "part": 15
+  },
+  {
+    "term": "しま",
+    "reading": "しま",
+    "meaning": "Sọc vằn",
+    "part": 15
+  },
+  {
+    "term": "水玉",
+    "reading": "みずたま",
+    "meaning": "Chấm chấm, hột mè, chấm tròn",
+    "part": 15
+  },
+  {
+    "term": "花柄",
+    "reading": "はながら",
+    "meaning": "Họa tiết hoa",
+    "part": 15
+  },
+  {
+    "term": "似合う",
+    "reading": "にあう",
+    "meaning": "Hợp, vừa",
+    "part": 15
+  },
+  {
+    "term": "気に入る",
+    "reading": "きにいる",
+    "meaning": "Yêu thích",
+    "part": 15
+  },
+  {
+    "term": "お気に入り",
+    "reading": "おきにいり",
+    "meaning": "Yêu thích",
+    "part": 15
+  },
+  {
+    "term": "好む",
+    "reading": "このむ",
+    "meaning": "Thích",
+    "part": 15
+  },
+  {
+    "term": "好み",
+    "reading": "このみ",
+    "meaning": "sở thích",
+    "part": 15
+  },
+  {
+    "term": "目立つ色",
+    "reading": "めだついろ",
+    "meaning": "Màu nổi",
+    "part": 15
+  },
+  {
+    "term": "派手な",
+    "reading": "はでな",
+    "meaning": "Lòe loẹt, màu mè",
+    "part": 15
+  },
+  {
+    "term": "地味な",
+    "reading": "じみな",
+    "meaning": "Giản dị, mộc mạc",
+    "part": 15
+  },
+  {
+    "term": "人気のあるデザイン",
+    "reading": "にんきのあるデザイン",
+    "meaning": "Thiết kế được ưa chuộng",
+    "part": 15
+  },
+  {
+    "term": "はやっている",
+    "reading": "はやっている",
+    "meaning": "Đang thịnh hành",
+    "part": 15
+  },
+  {
+    "term": "はやり",
+    "reading": "はやり",
+    "meaning": "Thịnh hành",
+    "part": 15
+  },
+  {
+    "term": "流行",
+    "reading": "りゅうこう",
+    "meaning": "Thịnh hành",
+    "part": 15
+  },
+  {
+    "term": "サイズを確かめる",
+    "reading": "サイズをたしかめる",
+    "meaning": "Xác nhận kích cỡ",
+    "part": 15
+  },
+  {
+    "term": "サイズを確認する",
+    "reading": "サイズをかくにんする",
+    "meaning": "Xác nhận kích cỡ",
+    "part": 15
+  },
+  {
+    "term": "サイズが合う",
+    "reading": "サイズがあう",
+    "meaning": "Vừa kích cỡ",
+    "part": 15
+  },
+  {
+    "term": "ゆるい",
+    "reading": "ゆるい",
+    "meaning": "Lỏng lẻo",
+    "part": 15
+  },
+  {
+    "term": "きつい",
+    "reading": "きつい",
+    "meaning": "Chặt",
+    "part": 15
+  },
+  {
+    "term": "品物をかごに入れる",
+    "reading": "しなものをかごにいれる",
+    "meaning": "Bỏ đồ vào giỏ",
+    "part": 15
+  },
+  {
+    "term": "セールで買う",
+    "reading": "セールでかう",
+    "meaning": "Mua đồ giảm giá",
+    "part": 15
+  },
+  {
+    "term": "バーゲンで買う",
+    "reading": "バーゲンでかう",
+    "meaning": "Mua đồ giảm giá",
+    "part": 15
+  },
+  {
+    "term": "デパートの特売品",
+    "reading": "デパートのとくばいひん",
+    "meaning": "Hàng hóa đặc biệt của trung tâm mua sắm",
+    "part": 15
+  },
+  {
+    "term": "売り切れる",
+    "reading": "うりきれる",
+    "meaning": "Bán hết hàng",
+    "part": 15
+  },
+  {
+    "term": "売り切れ",
+    "reading": "うりきれ",
+    "meaning": "Bán hết",
+    "part": 15
+  },
+  {
+    "term": "本物のダイヤモンド",
+    "reading": "ほんもののダイヤモンド",
+    "meaning": "Kim cương",
+    "part": 15
+  },
+  {
+    "term": "偽物",
+    "reading": "にせもの",
+    "meaning": "Đồ giả",
+    "part": 15
+  },
+  {
+    "term": "得をする",
+    "reading": "とくをする",
+    "meaning": "Làm cho có lợi",
+    "part": 15
+  },
+  {
+    "term": "損をする",
+    "reading": "そんをする",
+    "meaning": "Bị thiệt",
+    "part": 15
+  },
+  {
+    "term": "家族そろって",
+    "reading": "かぞくそろって",
+    "meaning": "Tập trung gia đình, gia đình đủ người",
+    "part": 16
+  },
+  {
+    "term": "子供を連れる",
+    "reading": "こどもをつれる",
+    "meaning": "Dẫn theo trẻ em",
+    "part": 16
+  },
+  {
+    "term": "こども連れ",
+    "reading": "こどもつれ",
+    "meaning": "Dẫn theo trẻ em",
+    "part": 16
+  },
+  {
+    "term": "腹がへる",
+    "reading": "はらがへる",
+    "meaning": "Đói bụng",
+    "part": 16
+  },
+  {
+    "term": "外食をする",
+    "reading": "がいしょくをする",
+    "meaning": "Đi ăn ngoài",
+    "part": 16
+  },
+  {
+    "term": "お昼を食べる",
+    "reading": "おひるをたべる",
+    "meaning": "Ăn trưa",
+    "part": 16
+  },
+  {
+    "term": "昼食をとる",
+    "reading": "ちゅうしょくをとる",
+    "meaning": "Ăn trưa",
+    "part": 16
+  },
+  {
+    "term": "ランチ",
+    "reading": "ランチ",
+    "meaning": "Bữa trưa",
+    "part": 16
+  },
+  {
+    "term": "雰囲気のいい店",
+    "reading": "ふんいきのいいみせ",
+    "meaning": "Quán có bầu không khí tốt",
+    "part": 16
+  },
+  {
+    "term": "満席",
+    "reading": "まんせき",
+    "meaning": "Không còn chỗ trống, kín chỗ",
+    "part": 16
+  },
+  {
+    "term": "すいている",
+    "reading": "すいている",
+    "meaning": "Trống",
+    "part": 16
+  },
+  {
+    "term": "列に並ぶ",
+    "reading": "れつにならぶ",
+    "meaning": "Xếp hàng",
+    "part": 16
+  },
+  {
+    "term": "行列ができる",
+    "reading": "ぎょうれつができる",
+    "meaning": "Người xếp hàng",
+    "part": 16
+  },
+  {
+    "term": "禁煙席",
+    "reading": "きんえんせき",
+    "meaning": "Nghế cấm hút thuốc",
+    "part": 16
+  },
+  {
+    "term": "喫煙席",
+    "reading": "きつえんせき",
+    "meaning": "Nghế được phép hút thuốc",
+    "part": 16
+  },
+  {
+    "term": "ウエートレスにおすすめを聞く",
+    "reading": "ウエートレスにおすすめをきく",
+    "meaning": "Hỏi người phục vụ món được yêu thích",
+    "part": 16
+  },
+  {
+    "term": "量が多い",
+    "reading": "りょうがおおい",
+    "meaning": "Lượng nhiều",
+    "part": 16
+  },
+  {
+    "term": "量が少ない",
+    "reading": "りょうがすくない",
+    "meaning": "Lượng ít",
+    "part": 16
+  },
+  {
+    "term": "注文が決まる",
+    "reading": "ちゅうもんがきまる",
+    "meaning": "Quyết định gọi món",
+    "part": 16
+  },
+  {
+    "term": "注文する",
+    "reading": "ちゅうもんする",
+    "meaning": "Gọi món",
+    "part": 16
+  },
+  {
+    "term": "注文を取る",
+    "reading": "ちゅうもんをとる",
+    "meaning": "Nhận món",
+    "part": 16
+  },
+  {
+    "term": "注文を受ける",
+    "reading": "ちゅうもんをうける",
+    "meaning": "Nhận gọi món",
+    "part": 16
+  },
+  {
+    "term": "デザートを追加する",
+    "reading": "デザートをついかする",
+    "meaning": "Gọi thêm món tráng miệng",
+    "part": 16
+  },
+  {
+    "term": "コーヒーのおかわり",
+    "reading": "コーヒーのおかわり",
+    "meaning": "Gọi thêm cà phê",
+    "part": 16
+  },
+  {
+    "term": "無料",
+    "reading": "むりょう",
+    "meaning": "Miễn phí",
+    "part": 16
+  },
+  {
+    "term": "ただ",
+    "reading": "ただ",
+    "meaning": "Miễn phí",
+    "part": 16
+  },
+  {
+    "term": "食器を下げる",
+    "reading": "しょっきをさげる",
+    "meaning": "Dọn chén bát",
+    "part": 16
+  },
+  {
+    "term": "料理を残す",
+    "reading": "りょうりをのこす",
+    "meaning": "Chừa đồ ăn lại",
+    "part": 16
+  },
+  {
+    "term": "もったいない",
+    "reading": "もったいない",
+    "meaning": "Lãng phí",
+    "part": 16
+  },
+  {
+    "term": "何名様ですか",
+    "reading": "なんめいさまですか",
+    "meaning": "Quý khách có mấy người ạ",
+    "part": 16
+  },
+  {
+    "term": "二人です",
+    "reading": "ふたりです",
+    "meaning": "Hai người",
+    "part": 16
+  },
+  {
+    "term": "申し訳ありません",
+    "reading": "もうしわけありません",
+    "meaning": "Xin lỗi",
+    "part": 16
+  },
+  {
+    "term": "もう少々お待ちください",
+    "reading": "もうしょうしょうおまちください",
+    "meaning": "Xin đợi một chút",
+    "part": 16
+  },
+  {
+    "term": "お待たせいたしました",
+    "reading": "おまたせいたしました",
+    "meaning": "Xin lỗi đã để quý khách đợi",
+    "part": 16
+  },
+  {
+    "term": "お待ちどおさま",
+    "reading": "おまちどおさま",
+    "meaning": "Xin lỗi đã bắt quý khách đợi",
+    "part": 16
+  },
+  {
+    "term": "ノートパソコン",
+    "reading": "ノートパソコン",
+    "meaning": "Máy tính xách tay",
+    "part": 17
+  },
+  {
+    "term": "キーボード",
+    "reading": "キーボード",
+    "meaning": "Bàn phím",
+    "part": 17
+  },
+  {
+    "term": "マウス",
+    "reading": "マウス",
+    "meaning": "Chuột",
+    "part": 17
+  },
+  {
+    "term": "デスクトップ",
+    "reading": "デスクトップ",
+    "meaning": "Máy tính cây",
+    "part": 17
+  },
+  {
+    "term": "初めてパソコンをさわる",
+    "reading": "はじめてパソコンをさわる",
+    "meaning": "Lần đầu đụng vào máy tính",
+    "part": 17
+  },
+  {
+    "term": "初心者",
+    "reading": "しょしんしゃ",
+    "meaning": "Người mới bắt đầu",
+    "part": 17
+  },
+  {
+    "term": "入門講座を受ける",
+    "reading": "にゅうもんこうざをうける",
+    "meaning": "Tham gia lớp học nhập môn",
+    "part": 17
+  },
+  {
+    "term": "パソコンに慣れる",
+    "reading": "パソコンになれる",
+    "meaning": "Quen với máy tính",
+    "part": 17
+  },
+  {
+    "term": "新製品",
+    "reading": "しんせいひん",
+    "meaning": "Sản phẩm mới",
+    "part": 17
+  },
+  {
+    "term": "新品",
+    "reading": "しんぴん",
+    "meaning": "Hàng mới",
+    "part": 17
+  },
+  {
+    "term": "中古",
+    "reading": "ちゅうこ",
+    "meaning": "Hàng cũ",
+    "part": 17
+  },
+  {
+    "term": "画面を見る",
+    "reading": "がめんをみる",
+    "meaning": "Nhìn màn hình",
+    "part": 17
+  },
+  {
+    "term": "ソフト(ウェア)をインストールする",
+    "reading": "ソフトウェアをインストールする",
+    "meaning": "Cài phần mềm",
+    "part": 17
+  },
+  {
+    "term": "スタートボタンをクリックする",
+    "reading": "スタートボタンをクリックする",
+    "meaning": "Nhấn chuột vào nút start",
+    "part": 17
+  },
+  {
+    "term": "ファイルを開く",
+    "reading": "ファイルをひらく",
+    "meaning": "Mở tập tin",
+    "part": 17
+  },
+  {
+    "term": "ファイルを閉じる",
+    "reading": "ファイルをとじる",
+    "meaning": "Đóng tập tin",
+    "part": 17
+  },
+  {
+    "term": "年賀状を作る",
+    "reading": "ねんがじょうをつくる",
+    "meaning": "Làm thiệp chúc tết",
+    "part": 17
+  },
+  {
+    "term": "(インター)ネットにつなぐ",
+    "reading": "インターネットにつなぐ",
+    "meaning": "Kết nối internet",
+    "part": 17
+  },
+  {
+    "term": "世界中とつながる",
+    "reading": "せかいちゅうとつながる",
+    "meaning": "Kết nối với thế giới",
+    "part": 17
+  },
+  {
+    "term": "情報を得る",
+    "reading": "じょうほうをえる",
+    "meaning": "Thu thập thông tin",
+    "part": 17
+  },
+  {
+    "term": "オークションに参加する",
+    "reading": "オークションにさんかする",
+    "meaning": "Tham gia buổi đấu giá",
+    "part": 17
+  },
+  {
+    "term": "オークションに品物を出す",
+    "reading": "オークションにしなものをだす",
+    "meaning": "Đưa sản phẩm vào buổi đấu giá",
+    "part": 17
+  },
+  {
+    "term": "出品する",
+    "reading": "しゅっぴんする",
+    "meaning": "Trưng bày hàng",
+    "part": 17
+  },
+  {
+    "term": "ホームページを作る",
+    "reading": "ホームページをつくる",
+    "meaning": "Tạo website",
+    "part": 17
+  },
+  {
+    "term": "ブログを始める",
+    "reading": "ブログをはじめる",
+    "meaning": "Bắt đầu viết blog",
+    "part": 17
+  },
+  {
+    "term": "宴会を開く",
+    "reading": "えんかいをひらく",
+    "meaning": "Mở tiệc",
+    "part": 18
+  },
+  {
+    "term": "飲み会",
+    "reading": "のみかい",
+    "meaning": "Tiệc nhậu",
+    "part": 18
+  },
+  {
+    "term": "送別会",
+    "reading": "そうべつかい",
+    "meaning": "Tiệc chia tay",
+    "part": 18
+  },
+  {
+    "term": "歓迎会",
+    "reading": "かんげいかい",
+    "meaning": "Tiệc nghênh đón",
+    "part": 18
+  },
+  {
+    "term": "飲み放題",
+    "reading": "のみほうだい",
+    "meaning": "Uống buffet",
+    "part": 18
+  },
+  {
+    "term": "食べ放題",
+    "reading": "たべほうだい",
+    "meaning": "Ăn buffet",
+    "part": 18
+  },
+  {
+    "term": "お酒を注ぐ",
+    "reading": "おさけをつぐ",
+    "meaning": "Rót rượu",
+    "part": 18
+  },
+  {
+    "term": "お湯を注ぐ",
+    "reading": "おゆをそそぐ",
+    "meaning": "Đổ nước nóng",
+    "part": 18
+  },
+  {
+    "term": "乾杯する",
+    "reading": "かんぱいする",
+    "meaning": "Cụng ly",
+    "part": 18
+  },
+  {
+    "term": "盛り上がる",
+    "reading": "もりあがる",
+    "meaning": "Phấn khích, nhảy dựng lên",
+    "part": 18
+  },
+  {
+    "term": "土が盛り上がる",
+    "reading": "つちがもりあがる",
+    "meaning": "Đất lồi lên",
+    "part": 18
+  },
+  {
+    "term": "ビールの泡",
+    "reading": "ビールのあわ",
+    "meaning": "Bọt bia",
+    "part": 18
+  },
+  {
+    "term": "溢れる",
+    "reading": "あふれる",
+    "meaning": "Ngập, tràn đầy",
+    "part": 18
+  },
+  {
+    "term": "こぼす",
+    "reading": "こぼす",
+    "meaning": "Làm đổ",
+    "part": 18
+  },
+  {
+    "term": "こぼれる",
+    "reading": "こぼれる",
+    "meaning": "Bị tràn, bị đổ",
+    "part": 18
+  },
+  {
+    "term": "ビールを一気に飲む",
+    "reading": "ビールをいっきにのむ",
+    "meaning": "Uống cạn bằng một hơi",
+    "part": 18
+  },
+  {
+    "term": "ウイスキーの水割り",
+    "reading": "ウイスキーのみずわり",
+    "meaning": "Rượu Wisky pha loãng",
+    "part": 18
+  },
+  {
+    "term": "おつまみのチーズ",
+    "reading": "おつまみのチーズ",
+    "meaning": "Pho mát nhắm rượu",
+    "part": 18
+  },
+  {
+    "term": "よっぱらう",
+    "reading": "よっぱらう",
+    "meaning": "Say xỉn",
+    "part": 18
+  },
+  {
+    "term": "よっぱらい",
+    "reading": "よっぱらい",
+    "meaning": "Say xỉn",
+    "part": 18
+  },
+  {
+    "term": "あばれる",
+    "reading": "あばれる",
+    "meaning": "Nổi xung, nổi giận",
+    "part": 18
+  },
+  {
+    "term": "にぎやかな",
+    "reading": "にぎやかな",
+    "meaning": "Sôi nổi, náo nhiệt",
+    "part": 18
+  },
+  {
+    "term": "やかましい",
+    "reading": "やかましい",
+    "meaning": "Ầm ỹ, phiền phức",
+    "part": 18
+  },
+  {
+    "term": "さわがしい",
+    "reading": "さわがしい",
+    "meaning": "Inh ỏi, ồn ào",
+    "part": 18
+  },
+  {
+    "term": "さわぐ",
+    "reading": "さわぐ",
+    "meaning": "Gây ồn ào",
+    "part": 18
+  },
+  {
+    "term": "そうぞうしい",
+    "reading": "そうぞうしい",
+    "meaning": "Ồn ào, om sòm, huyên náo",
+    "part": 18
+  },
+  {
+    "term": "たばこの煙",
+    "reading": "たばこのけむり",
+    "meaning": "Khói thuốc",
+    "part": 18
+  },
+  {
+    "term": "煙い",
+    "reading": "けむい",
+    "meaning": "Khói mù mịt",
+    "part": 18
+  },
+  {
+    "term": "煙たい",
+    "reading": "けむたい",
+    "meaning": "Ngột ngạt",
+    "part": 18
+  },
+  {
+    "term": "グラスを割る",
+    "reading": "グラスをわる",
+    "meaning": "Làm vỡ ly thủy tinh",
+    "part": 18
+  },
+  {
+    "term": "グラスが割れる",
+    "reading": "グラスがわれる",
+    "meaning": "Ly bị vỡ",
+    "part": 18
+  },
+  {
+    "term": "ビールびんを倒す",
+    "reading": "ビールびんをたおす",
+    "meaning": "Làm đổ cốc bia",
+    "part": 18
+  },
+  {
+    "term": "ほかの客に迷惑をかける",
+    "reading": "ほかのきゃくにめいわくをかける",
+    "meaning": "Làm phiền người khách khác",
+    "part": 18
+  },
+  {
+    "term": "迷惑がかかる",
+    "reading": "めいわくがかかる",
+    "meaning": "Bị làm phiền",
+    "part": 18
+  },
+  {
+    "term": "レジ",
+    "reading": "レジ",
+    "meaning": "Máy tính tiền (ở cửa hàng...)",
+    "part": 19
+  },
+  {
+    "term": "勘定を済ませる",
+    "reading": "かんじょうをすませる",
+    "meaning": "Thanh toán xong",
+    "part": 19
+  },
+  {
+    "term": "勘定をお願いします",
+    "reading": "おかんじょうをおねがいします",
+    "meaning": "Làm ơn thanh toán tiền",
+    "part": 19
+  },
+  {
+    "term": "別々に払う",
+    "reading": "べつべつにはらう",
+    "meaning": "Thanh toán riêng",
+    "part": 19
+  },
+  {
+    "term": "別々でお願いします",
+    "reading": "べつべつでおねがいします",
+    "meaning": "Xin hãy tính riêng",
+    "part": 19
+  },
+  {
+    "term": "割り勘にする",
+    "reading": "わりかんにする",
+    "meaning": "Chia riêng",
+    "part": 19
+  },
+  {
+    "term": "おごる",
+    "reading": "おごる",
+    "meaning": "Chiêu đãi, khao",
+    "part": 19
+  },
+  {
+    "term": "おごり",
+    "reading": "おごり",
+    "meaning": "Bao, mời đãi",
+    "part": 19
+  },
+  {
+    "term": "現金で払う",
+    "reading": "げんきんではらう",
+    "meaning": "Trả tiền mặt",
+    "part": 19
+  },
+  {
+    "term": "クレジットカードで払う",
+    "reading": "クレジットカードではらう",
+    "meaning": "Trả bằng thẻ",
+    "part": 19
+  },
+  {
+    "term": "カードの有効期限を確認する",
+    "reading": "カードのゆうこうきげんをかくにんする",
+    "meaning": "Xác nhận thời hạn còn hữu hiệu của thẻ",
+    "part": 19
+  },
+  {
+    "term": "お札をくずす",
+    "reading": "おさつをくずす",
+    "meaning": "Xé bỏ hóa đơn",
+    "part": 19
+  },
+  {
+    "term": "おつりをもらう",
+    "reading": "おつりをもらう",
+    "meaning": "Nhận tiền thối",
+    "part": 19
+  },
+  {
+    "term": "レシートをもらう",
+    "reading": "レシートをもらう",
+    "meaning": "Nhận biên lai",
+    "part": 19
+  },
+  {
+    "term": "領収書をもらう",
+    "reading": "りょうしゅうしょをもらう",
+    "meaning": "Nhận biên lai",
+    "part": 19
+  },
+  {
+    "term": "ぜいたくをする",
+    "reading": "ぜいたくをする",
+    "meaning": "Xa xỉ",
+    "part": 19
+  },
+  {
+    "term": "むだづかいをする",
+    "reading": "むだづかいをする",
+    "meaning": "Lãng phí",
+    "part": 19
+  },
+  {
+    "term": "請求書が届く",
+    "reading": "せいきゅうしょがとどく",
+    "meaning": "Hoa đơn đến",
+    "part": 19
+  },
+  {
+    "term": "費用がかかる",
+    "reading": "ひようがかかる",
+    "meaning": "Tốn phí",
+    "part": 19
+  },
+  {
+    "term": "今月の生活費が不足する",
+    "reading": "こんげつのせいかつひがふそくする",
+    "meaning": "Phí sinh hoạt tháng này không đủ",
+    "part": 19
+  },
+  {
+    "term": "交通費",
+    "reading": "こうつうひ",
+    "meaning": "Phí giao thông",
+    "part": 19
+  },
+  {
+    "term": "お金が足りる",
+    "reading": "おかねがたりる",
+    "meaning": "Đủ tiền",
+    "part": 19
+  },
+  {
+    "term": "足りない",
+    "reading": "たりない",
+    "meaning": "Không đủ",
+    "part": 19
+  },
+  {
+    "term": "食費を節約する",
+    "reading": "しょくひをせつやくする",
+    "meaning": "Tiết kiệm chi phí ăn uống",
+    "part": 19
+  },
+  {
+    "term": "むだを省く",
+    "reading": "むだをはぶく",
+    "meaning": "Cắt giảm lãng phí",
+    "part": 19
+  },
+  {
+    "term": "むだをなくす",
+    "reading": "むだをなくす",
+    "meaning": "Xóa bỏ lãng phí",
+    "part": 19
+  },
+  {
+    "term": "貧乏になる",
+    "reading": "びんぼうになる",
+    "meaning": "Trở nên nghèo",
+    "part": 19
+  },
+  {
+    "term": "お金持ちになる",
+    "reading": "おかねもちになる",
+    "meaning": "Thành người giàu",
+    "part": 19
+  },
+  {
+    "term": "貧しい生活",
+    "reading": "まずしいせいかつ",
+    "meaning": "Cuộc sống nghèo",
+    "part": 19
+  },
+  {
+    "term": "借金をする",
+    "reading": "しゃっきんをする",
+    "meaning": "Nợ nần",
+    "part": 19
+  },
+  {
+    "term": "科目",
+    "reading": "かもく",
+    "meaning": "Môn học",
+    "part": 20
+  },
+  {
+    "term": "教科",
+    "reading": "きょうか",
+    "meaning": "Chương trình học",
+    "part": 20
+  },
+  {
+    "term": "得意な",
+    "reading": "とくいな",
+    "meaning": "Giỏi",
+    "part": 20
+  },
+  {
+    "term": "苦手な",
+    "reading": "にがてな",
+    "meaning": "Kém, yếu",
+    "part": 20
+  },
+  {
+    "term": "国語",
+    "reading": "こくご",
+    "meaning": "Quốc ngữ",
+    "part": 20
+  },
+  {
+    "term": "算数",
+    "reading": "さんすう",
+    "meaning": "Phép toán, tính toán",
+    "part": 20
+  },
+  {
+    "term": "理科",
+    "reading": "りか",
+    "meaning": "Khoa học tự nhiên",
+    "part": 20
+  },
+  {
+    "term": "社会",
+    "reading": "しゃかい",
+    "meaning": "Xã hội",
+    "part": 20
+  },
+  {
+    "term": "体育",
+    "reading": "たいいく",
+    "meaning": "Thể dục",
+    "part": 20
+  },
+  {
+    "term": "私立高校に入学する",
+    "reading": "しりつこうこうににゅうがくする",
+    "meaning": "Nhập học trường cấp 3 tư thục",
+    "part": 20
+  },
+  {
+    "term": "公立高校に入学する",
+    "reading": "こうりつこうこうににゅうがくする",
+    "meaning": "Nhập học trường cấp 3 công lập",
+    "part": 20
+  },
+  {
+    "term": "国立大学に入学する",
+    "reading": "こくりつだいがくににゅうがくする",
+    "meaning": "Nhập học trường đại học quốc lập",
+    "part": 20
+  },
+  {
+    "term": "昼休み",
+    "reading": "ひるやすみ",
+    "meaning": "Nghỉ trưa",
+    "part": 20
+  },
+  {
+    "term": "お弁当",
+    "reading": "おべんとう",
+    "meaning": "Cơm hộp",
+    "part": 20
+  },
+  {
+    "term": "給食",
+    "reading": "きゅうしょく",
+    "meaning": "Cơm suất ở trường hay cơ quan",
+    "part": 20
+  },
+  {
+    "term": "時間割",
+    "reading": "じかんわり",
+    "meaning": "Thời gian biểu",
+    "part": 20
+  },
+  {
+    "term": "入学式",
+    "reading": "にゅうがくしき",
+    "meaning": "Lễ khai giảng",
+    "part": 20
+  },
+  {
+    "term": "卒業式",
+    "reading": "そつぎょうしき",
+    "meaning": "Lễ tốt nghiệp",
+    "part": 20
+  },
+  {
+    "term": "出席する",
+    "reading": "しゅっせきする",
+    "meaning": "Tham dự",
+    "part": 20
+  },
+  {
+    "term": "欠席する",
+    "reading": "けっせきする",
+    "meaning": "Vắng mặt",
+    "part": 20
+  },
+  {
+    "term": "バスで通学する",
+    "reading": "バスでつうがくする",
+    "meaning": "Đi học bằng xe buýt",
+    "part": 20
+  },
+  {
+    "term": "通勤する",
+    "reading": "つうきんする",
+    "meaning": "Đi làm",
+    "part": 20
+  },
+  {
+    "term": "学期",
+    "reading": "がっき",
+    "meaning": "Học kỳ",
+    "part": 20
+  },
+  {
+    "term": "今学期",
+    "reading": "こんがっき",
+    "meaning": "Học kỳ này",
+    "part": 20
+  },
+  {
+    "term": "前期",
+    "reading": "ぜんき",
+    "meaning": "Kỳ trước",
+    "part": 20
+  },
+  {
+    "term": "後期",
+    "reading": "こうき",
+    "meaning": "Kỳ sau",
+    "part": 20
+  },
+  {
+    "term": "同じ学年",
+    "reading": "おなじがくねん",
+    "meaning": "Cùng niên khóa",
+    "part": 20
+  },
+  {
+    "term": "自習する",
+    "reading": "じしゅうする",
+    "meaning": "Tự học",
+    "part": 20
+  },
+  {
+    "term": "鉛筆をけずる",
+    "reading": "えんぴつをけずる",
+    "meaning": "Gọt bút trì",
+    "part": 20
+  },
+  {
+    "term": "物差し",
+    "reading": "ものさし",
+    "meaning": "Thước đo",
+    "part": 20
+  },
+  {
+    "term": "定規で測る",
+    "reading": "じょうぎではかる",
+    "meaning": "Đo bằng thước",
+    "part": 20
+  },
+  {
+    "term": "合計を出す",
+    "reading": "ごうけいをだす",
+    "meaning": "Đưa ra tổng số",
+    "part": 20
+  },
+  {
+    "term": "計算",
+    "reading": "けいさん",
+    "meaning": "Tính toán",
+    "part": 20
+  },
+  {
+    "term": "足し算",
+    "reading": "たしざん",
+    "meaning": "Phép cộng",
+    "part": 20
+  },
+  {
+    "term": "足す",
+    "reading": "たす",
+    "meaning": "Cộng",
+    "part": 20
+  },
+  {
+    "term": "引き算",
+    "reading": "ひきざん",
+    "meaning": "Phép trừ",
+    "part": 20
+  },
+  {
+    "term": "引く",
+    "reading": "ひく",
+    "meaning": "Trừ",
+    "part": 20
+  },
+  {
+    "term": "かけ算",
+    "reading": "かけざん",
+    "meaning": "Phép nhân",
+    "part": 20
+  },
+  {
+    "term": "かける",
+    "reading": "かける",
+    "meaning": "Nhân",
+    "part": 20
+  },
+  {
+    "term": "割り算",
+    "reading": "わりざん",
+    "meaning": "Phép chia",
+    "part": 20
+  },
+  {
+    "term": "割る",
+    "reading": "わる",
+    "meaning": "Chia",
+    "part": 20
+  },
+  {
+    "term": "学部",
+    "reading": "がくぶ",
+    "meaning": "Bộ môn, khoa",
+    "part": 21
+  },
+  {
+    "term": "受験する",
+    "reading": "じゅけんする",
+    "meaning": "Dự thi",
+    "part": 21
+  },
+  {
+    "term": "文学部",
+    "reading": "ぶんがくぶ",
+    "meaning": "Khoa văn",
+    "part": 21
+  },
+  {
+    "term": "経済学部",
+    "reading": "けいざいがくぶ",
+    "meaning": "Khoa kinh tế",
+    "part": 21
+  },
+  {
+    "term": "法学部",
+    "reading": "ほうがくぶ",
+    "meaning": "Khoa luật",
+    "part": 21
+  },
+  {
+    "term": "医学部",
+    "reading": "いがくぶ",
+    "meaning": "Khoa y",
+    "part": 21
+  },
+  {
+    "term": "学科",
+    "reading": "がっか",
+    "meaning": "Ngành",
+    "part": 21
+  },
+  {
+    "term": "専攻する",
+    "reading": "せんこうする",
+    "meaning": "Chuyên môn",
+    "part": 21
+  },
+  {
+    "term": "経済学",
+    "reading": "けいざいがく",
+    "meaning": "Kinh tế học",
+    "part": 21
+  },
+  {
+    "term": "政治学",
+    "reading": "せいじがく",
+    "meaning": "Chính trị học",
+    "part": 21
+  },
+  {
+    "term": "心理学",
+    "reading": "しんりがく",
+    "meaning": "Tâm lý học",
+    "part": 21
+  },
+  {
+    "term": "言語学",
+    "reading": "げんごがく",
+    "meaning": "Ngôn ngữ học",
+    "part": 21
+  },
+  {
+    "term": "物理学",
+    "reading": "ぶつりがく",
+    "meaning": "Vật lý học",
+    "part": 21
+  },
+  {
+    "term": "ゼミをとる",
+    "reading": "ゼミをとる",
+    "meaning": "Đặt chỗ hội thảo",
+    "part": 21
+  },
+  {
+    "term": "単位をとる",
+    "reading": "たんいをとる",
+    "meaning": "Lấy tín chỉ",
+    "part": 21
+  },
+  {
+    "term": "講義を受ける",
+    "reading": "こうぎをうける",
+    "meaning": "Tham gia buổi học",
+    "part": 21
+  },
+  {
+    "term": "補習を受ける",
+    "reading": "ほしゅうをうける",
+    "meaning": "Tham gia học bổ túc",
+    "part": 21
+  },
+  {
+    "term": "補講を受ける",
+    "reading": "ほこうをうける",
+    "meaning": "Tham gia giờ thuyết trình bổ sung",
+    "part": 21
+  },
+  {
+    "term": "進学を希望する",
+    "reading": "しんがくをきぼうする",
+    "meaning": "Nguyện vọng học lên",
+    "part": 21
+  },
+  {
+    "term": "合格発表を見に行く",
+    "reading": "ごうかくはっぴょうをみにいく",
+    "meaning": "Đi xem thông báo kết quả",
+    "part": 21
+  },
+  {
+    "term": "合格する",
+    "reading": "ごうかくする",
+    "meaning": "Thi đỗ",
+    "part": 21
+  },
+  {
+    "term": "受かる",
+    "reading": "うかる",
+    "meaning": "Thi đỗ, vượt qua",
+    "part": 21
+  },
+  {
+    "term": "不合格になる",
+    "reading": "ふごうかくになる",
+    "meaning": "Thi trượt",
+    "part": 21
+  },
+  {
+    "term": "落ちる",
+    "reading": "おちる",
+    "meaning": "Rơi, rụng",
+    "part": 21
+  },
+  {
+    "term": "授業料を払う",
+    "reading": "じゅぎょうりょうをはらう",
+    "meaning": "Trả học phí",
+    "part": 21
+  },
+  {
+    "term": "学費を払う",
+    "reading": "がくひをはらう",
+    "meaning": "Trả học phí",
+    "part": 21
+  },
+  {
+    "term": "奨学金をもらう",
+    "reading": "しょうがくきんをもらう",
+    "meaning": "Nhận học bổng",
+    "part": 21
+  },
+  {
+    "term": "学者",
+    "reading": "がくしゃ",
+    "meaning": "Học giả",
+    "part": 21
+  },
+  {
+    "term": "講義に間に合う",
+    "reading": "こうぎにまにあう",
+    "meaning": "Kịp giờ học",
+    "part": 21
+  },
+  {
+    "term": "講義に遅れる",
+    "reading": "こうぎにおくれる",
+    "meaning": "Muộn giờ học",
+    "part": 21
+  },
+  {
+    "term": "成績がいい",
+    "reading": "せいせきがいい",
+    "meaning": "Thành tích học tốt",
+    "part": 21
+  },
+  {
+    "term": "成績が悪い",
+    "reading": "せいせきがわるい",
+    "meaning": "Thành tích học tồi",
+    "part": 21
+  },
+  {
+    "term": "授業中に居眠りをする",
+    "reading": "じゅぎょうちゅうにいねむりをする",
+    "meaning": "Ngủ gật trong giờ học",
+    "part": 21
+  },
+  {
+    "term": "授業をサボる",
+    "reading": "じゅぎょうをサボる",
+    "meaning": "Trốn học",
+    "part": 21
+  },
+  {
+    "term": "単位を落とす",
+    "reading": "たんいをおとす",
+    "meaning": "Trượt tín chỉ",
+    "part": 21
+  },
+  {
+    "term": "休学する",
+    "reading": "きゅうがくする",
+    "meaning": "Nghỉ học",
+    "part": 21
+  },
+  {
+    "term": "留学する",
+    "reading": "りゅうがくする",
+    "meaning": "Du học",
+    "part": 21
+  },
+  {
+    "term": "答えを記入する",
+    "reading": "こたえをきにゅうする",
+    "meaning": "Ghi đáp án",
+    "part": 22
+  },
+  {
+    "term": "答えを見直す",
+    "reading": "こたえをみなおす",
+    "meaning": "Xem lại đáp án",
+    "part": 22
+  },
+  {
+    "term": "見直し",
+    "reading": "みなおし",
+    "meaning": "Xem lại",
+    "part": 22
+  },
+  {
+    "term": "答えを間違える",
+    "reading": "こたえをまちがえる",
+    "meaning": "Nhầm đáp án",
+    "part": 22
+  },
+  {
+    "term": "書き直す",
+    "reading": "かきなおす",
+    "meaning": "Sửa lại",
+    "part": 22
+  },
+  {
+    "term": "レポートをまとめる",
+    "reading": "レポートをまとめる",
+    "meaning": "Thu thập báo cáo",
+    "part": 22
+  },
+  {
+    "term": "レポートを仕上げる",
+    "reading": "レポートをしあげる",
+    "meaning": "Hoàn thành báo cáo",
+    "part": 22
+  },
+  {
+    "term": "レポートを提出する",
+    "reading": "レポートをていしゅつする",
+    "meaning": "Nộp báo cáo",
+    "part": 22
+  },
+  {
+    "term": "担当の先生",
+    "reading": "たんとうのせんせい",
+    "meaning": "Giáo viên phụ trách",
+    "part": 22
+  },
+  {
+    "term": "先生に教わる",
+    "reading": "せんせいにおそわる",
+    "meaning": "Được thầy cô dạy",
+    "part": 22
+  },
+  {
+    "term": "何度もくり返す",
+    "reading": "なんどもくりかえす",
+    "meaning": "Lặp đi lặp lại mấy lần",
+    "part": 22
+  },
+  {
+    "term": "くり返し",
+    "reading": "くりかえし",
+    "meaning": "Lặp đi lặp lại",
+    "part": 22
+  },
+  {
+    "term": "暗記する",
+    "reading": "あんきする",
+    "meaning": "Ghi nhớ, học thuộc lòng",
+    "part": 22
+  },
+  {
+    "term": "試験で問われる",
+    "reading": "しけんでとわれる",
+    "meaning": "Được hỏi trong kỳ thi",
+    "part": 22
+  },
+  {
+    "term": "問い",
+    "reading": "とい",
+    "meaning": "Câu hỏi",
+    "part": 22
+  },
+  {
+    "term": "落ち着いて考える",
+    "reading": "おちついてかんがえる",
+    "meaning": "Suy nghĩ bình tĩnh",
+    "part": 22
+  },
+  {
+    "term": "聞き直す",
+    "reading": "ききなおす",
+    "meaning": "Nghe lại",
+    "part": 22
+  },
+  {
+    "term": "言い直す",
+    "reading": "いいなおす",
+    "meaning": "Nói lại",
+    "part": 22
+  },
+  {
+    "term": "聞き取る",
+    "reading": "ききとる",
+    "meaning": "Nghe hiểu",
+    "part": 22
+  },
+  {
+    "term": "聞き取り",
+    "reading": "ききとり",
+    "meaning": "Nghe hiểu",
+    "part": 22
+  },
+  {
+    "term": "書き取る",
+    "reading": "かきとる",
+    "meaning": "Viết chính tả",
+    "part": 22
+  },
+  {
+    "term": "書き取り",
+    "reading": "かきとり",
+    "meaning": "Viết chính tả",
+    "part": 22
+  },
+  {
+    "term": "ついている",
+    "reading": "ついている",
+    "meaning": "Gặp may",
+    "part": 22
+  },
+  {
+    "term": "ついていない",
+    "reading": "ついていない",
+    "meaning": "Không may",
+    "part": 22
+  },
+  {
+    "term": "試験が済む",
+    "reading": "しけんがすむ",
+    "meaning": "Thi cử xong",
+    "part": 22
+  },
+  {
+    "term": "試験の結果",
+    "reading": "しけんのけっか",
+    "meaning": "Kết quả thi",
+    "part": 22
+  },
+  {
+    "term": "カンニングする",
+    "reading": "カンニングする",
+    "meaning": "Quay cóp bài",
+    "part": 22
+  },
+  {
+    "term": "レポートの下書きをする",
+    "reading": "レポートのしたがきをする",
+    "meaning": "Viết nháp",
+    "part": 22
+  },
+  {
+    "term": "清書する",
+    "reading": "せいしょする",
+    "meaning": "Bản Copy sạch",
+    "part": 22
+  },
+  {
+    "term": "提出期限を守る",
+    "reading": "ていしゅつきげんをまもる",
+    "meaning": "Giữ đúng kỳ hạn nộp",
+    "part": 22
+  },
+  {
+    "term": "レストランでバイトをしています",
+    "reading": "レストランでバイトをしています",
+    "meaning": "Đang làm thêm ở nhà hàng",
+    "part": 23
+  },
+  {
+    "term": "レストランでアルバイトをしています",
+    "reading": "レストランでアルバイトをしています",
+    "meaning": "Đang làm thêm ở nhà hàng",
+    "part": 23
+  },
+  {
+    "term": "工場でパートをしています",
+    "reading": "こうじょうでパートをしています",
+    "meaning": "Đang làm bán thời gian ở nhà máy",
+    "part": 23
+  },
+  {
+    "term": "コンビニの店員をしています",
+    "reading": "コンビニのてんいんをしています",
+    "meaning": "Đang làm nhân viên tại cửa hàng tiện lợi",
+    "part": 23
+  },
+  {
+    "term": "英会話講師をしています",
+    "reading": "えいかいわこうしをしています",
+    "meaning": "Đang làm giáo viên hội thoại tiếng anh",
+    "part": 23
+  },
+  {
+    "term": "翻訳の仕事をしています",
+    "reading": "ほんやくのしごとをしています",
+    "meaning": "Đang làm nghề phiên dịch",
+    "part": 23
+  },
+  {
+    "term": "翻訳する",
+    "reading": "ほんやくする",
+    "meaning": "Phiên dịch",
+    "part": 23
+  },
+  {
+    "term": "通訳の仕事をしています",
+    "reading": "つうやくのしごとをしています",
+    "meaning": "Đang làm nghề phiên dịch",
+    "part": 23
+  },
+  {
+    "term": "通訳する",
+    "reading": "つうやくする",
+    "meaning": "Phiên dịch",
+    "part": 23
+  },
+  {
+    "term": "事務の手伝いをしています",
+    "reading": "じむのてつだいをしています",
+    "meaning": "Đang làm hỗ trợ bên văn phòng",
+    "part": 23
+  },
+  {
+    "term": "ホームヘルパーをしています",
+    "reading": "ホームヘルパーをしています",
+    "meaning": "Đang làm việc giúp việc nhà",
+    "part": 23
+  },
+  {
+    "term": "仕事を探す",
+    "reading": "しごとをさがす",
+    "meaning": "Tìm việc",
+    "part": 23
+  },
+  {
+    "term": "給料",
+    "reading": "きゅうりょう",
+    "meaning": "Tiền lương",
+    "part": 23
+  },
+  {
+    "term": "履歴書を書く",
+    "reading": "りれきしょをかく",
+    "meaning": "Viết lý lịch",
+    "part": 23
+  },
+  {
+    "term": "面接をする",
+    "reading": "めんせつをする",
+    "meaning": "Phỏng vấn",
+    "part": 23
+  },
+  {
+    "term": "ボーナス",
+    "reading": "ボーナス",
+    "meaning": "Tiền thưởng",
+    "part": 23
+  },
+  {
+    "term": "ホテルの従業員",
+    "reading": "ホテルのじゅうぎょういん",
+    "meaning": "Nhân viên khách sạn",
+    "part": 23
+  },
+  {
+    "term": "交通費が出る",
+    "reading": "こうつうひがでる",
+    "meaning": "Được trả phí đi lại",
+    "part": 23
+  },
+  {
+    "term": "仕事仲間",
+    "reading": "しごとなかま",
+    "meaning": "Bạn đồng nghiệp",
+    "part": 23
+  },
+  {
+    "term": "勤務時間",
+    "reading": "きんむじかん",
+    "meaning": "Thời gian làm việc",
+    "part": 23
+  },
+  {
+    "term": "やとう",
+    "reading": "やとう",
+    "meaning": "Thuê, mướn",
+    "part": 23
+  },
+  {
+    "term": "やとわれる",
+    "reading": "やとわれる",
+    "meaning": "Được thuê",
+    "part": 23
+  },
+  {
+    "term": "きつい仕事",
+    "reading": "きついしごと",
+    "meaning": "Công việc hà khắc",
+    "part": 23
+  },
+  {
+    "term": "つらい仕事",
+    "reading": "つらいしごと",
+    "meaning": "Công việc cực nhọc",
+    "part": 23
+  },
+  {
+    "term": "お金をかせぐ",
+    "reading": "おかねをかせぐ",
+    "meaning": "Kiếm tiền",
+    "part": 23
+  },
+  {
+    "term": "お金をもうける",
+    "reading": "おかねをもうける",
+    "meaning": "Kiếm tiền, kiếm lời",
+    "part": 23
+  },
+  {
+    "term": "お金がもうかる",
+    "reading": "おかねがもうかる",
+    "meaning": "Sinh lời",
+    "part": 23
+  },
+  {
+    "term": "仕事を済ます",
+    "reading": "しごとをすます",
+    "meaning": "Kết thúc công việc",
+    "part": 23
+  },
+  {
+    "term": "仕事を済ませる",
+    "reading": "しごとをすませる",
+    "meaning": "Làm xong việc",
+    "part": 23
+  },
+  {
+    "term": "なまけ者",
+    "reading": "なまけもの",
+    "meaning": "Người lười biếng",
+    "part": 23
+  },
+  {
+    "term": "働き者",
+    "reading": "はたらきもの",
+    "meaning": "Người siếng năng",
+    "part": 23
+  },
+  {
+    "term": "首になる",
+    "reading": "くびになる",
+    "meaning": "Bị sa thải",
+    "part": 23
+  },
+  {
+    "term": "やめさせられる",
+    "reading": "やめさせられる",
+    "meaning": "Bị đuổi việc",
+    "part": 23
+  },
+  {
+    "term": "メールを受信する",
+    "reading": "メールをじゅしんする",
+    "meaning": "Nhận thư",
+    "part": 24
+  },
+  {
+    "term": "メールを送信する",
+    "reading": "メールをそうしんする",
+    "meaning": "Gửi thư",
+    "part": 24
+  },
+  {
+    "term": "メールを返信する",
+    "reading": "メールをへんしんする",
+    "meaning": "Trả lời thư",
+    "part": 24
+  },
+  {
+    "term": "メールを転送する",
+    "reading": "メールをてんそうする",
+    "meaning": "Chuyển tiếp thư",
+    "part": 24
+  },
+  {
+    "term": "メールを新規作成する",
+    "reading": "メールをしんきさくせいする",
+    "meaning": "Tạo thư mới",
+    "part": 24
+  },
+  {
+    "term": "メールをまとめて送る",
+    "reading": "メールをまとめておくる",
+    "meaning": "Tổng hợp thư rồi gửi",
+    "part": 24
+  },
+  {
+    "term": "メールを整理する",
+    "reading": "メールをせいりする",
+    "meaning": "Sắp xếp thư",
+    "part": 24
+  },
+  {
+    "term": "メールをチェックする",
+    "reading": "メールをチェックする",
+    "meaning": "Kiểm tra thư",
+    "part": 24
+  },
+  {
+    "term": "文字を入力する",
+    "reading": "もじをにゅうりょくする",
+    "meaning": "Nhập chữ",
+    "part": 24
+  },
+  {
+    "term": "文字をローマ字で入力する",
+    "reading": "もじをローマじでにゅうりょくする",
+    "meaning": "Nhập chữ romaji",
+    "part": 24
+  },
+  {
+    "term": "文字を漢字に変換する",
+    "reading": "もじをかんじにへんかんする",
+    "meaning": "Chuyển đổi sang chữ kanji",
+    "part": 24
+  },
+  {
+    "term": "もじをそうにゅうする",
+    "reading": "もじをそうにゅうする",
+    "meaning": "Chèn chữ vào",
+    "part": 24
+  },
+  {
+    "term": "文字を削除する",
+    "reading": "もじをさくじょする",
+    "meaning": "Xóa chữ",
+    "part": 24
+  },
+  {
+    "term": "あて先",
+    "reading": "あてさき",
+    "meaning": "Nơi gửi đến",
+    "part": 24
+  },
+  {
+    "term": "差出人",
+    "reading": "さしだしにん",
+    "meaning": "Người gửi",
+    "part": 24
+  },
+  {
+    "term": "件名",
+    "reading": "けんめい",
+    "meaning": "Tiêu đề",
+    "part": 24
+  },
+  {
+    "term": "メールのやり取りをする",
+    "reading": "めーるのやりとりをする",
+    "meaning": "Trao đổi thư",
+    "part": 24
+  },
+  {
+    "term": "写真を添付する",
+    "reading": "しゃしんをてんぷする",
+    "meaning": "Đính kèm hình",
+    "part": 24
+  },
+  {
+    "term": "改行する",
+    "reading": "かいぎょうする",
+    "meaning": "Viết xuống dòng mới",
+    "part": 24
+  },
+  {
+    "term": "送信者の(メール)アドレスを登録する",
+    "reading": "そうしんしゃのメールアドレスをとうろくする",
+    "meaning": "Lưu người gửi vào danh bạ",
+    "part": 24
+  },
+  {
+    "term": "アドレス帳",
+    "reading": "アドレスちょう",
+    "meaning": "Sổ danh bạ",
+    "part": 24
+  },
+  {
+    "term": "送信が完了する",
+    "reading": "そうしんがかんりょうする",
+    "meaning": "Tin nhắn đã được gửi",
+    "part": 24
+  },
+  {
+    "term": "長男",
+    "reading": "ちょうなん",
+    "meaning": "Trưởng nam",
+    "part": 25
+  },
+  {
+    "term": "長女",
+    "reading": "ちょうじょ",
+    "meaning": "Trưởng nữ",
+    "part": 25
+  },
+  {
+    "term": "次男",
+    "reading": "じなん",
+    "meaning": "Con trai thứ",
+    "part": 25
+  },
+  {
+    "term": "次女",
+    "reading": "じじょ",
+    "meaning": "Con gái thứ",
+    "part": 25
+  },
+  {
+    "term": "三男",
+    "reading": "さんなん",
+    "meaning": "Con trai thứ 3, ba người đàn ông",
+    "part": 25
+  },
+  {
+    "term": "末っ子",
+    "reading": "すえっこ",
+    "meaning": "Con út",
+    "part": 25
+  },
+  {
+    "term": "おじ",
+    "reading": "おじ",
+    "meaning": "Chú, cậu, bác",
+    "part": 25
+  },
+  {
+    "term": "おば",
+    "reading": "おば",
+    "meaning": "Dì, cô, bác",
+    "part": 25
+  },
+  {
+    "term": "職場の同僚",
+    "reading": "しょくばのどうりょう",
+    "meaning": "Đồng nghiệp",
+    "part": 25
+  },
+  {
+    "term": "職場の上司",
+    "reading": "しょくばのじょうし",
+    "meaning": "Sếp, cấp trên",
+    "part": 25
+  },
+  {
+    "term": "お国はどちらですか",
+    "reading": "おくにはどちらですか",
+    "meaning": "Bạn đến từ đâu?(",
+    "part": 25
+  },
+  {
+    "term": "イギリス出身です",
+    "reading": "いぎりすしゅっしんです",
+    "meaning": "Tôi đến từ Anh",
+    "part": 25
+  },
+  {
+    "term": "どちらのご出身ですか",
+    "reading": "どちらのごしゅっしんですか",
+    "meaning": "Bạn đến từ đâu",
+    "part": 25
+  },
+  {
+    "term": "お生まれはどちらですか",
+    "reading": "おうまれはどちらですか",
+    "meaning": "Bạn sinh ra ở đâu",
+    "part": 25
+  },
+  {
+    "term": "お住まいはどちらですか",
+    "reading": "おすまいはどちらですか",
+    "meaning": "Bạn đang sống ở đâu",
+    "part": 25
+  },
+  {
+    "term": "この近くです",
+    "reading": "このちかくです",
+    "meaning": "Tôi sống gần đây",
+    "part": 25
+  },
+  {
+    "term": "どうぞお上がりください",
+    "reading": "どうぞおあがりください",
+    "meaning": "Xin mời vào",
+    "part": 25
+  },
+  {
+    "term": "おじゃまします",
+    "reading": "おじゃまします",
+    "meaning": "Xin lỗi làm phiền",
+    "part": 25
+  },
+  {
+    "term": "お茶をお持ちします",
+    "reading": "おちゃをおもちします",
+    "meaning": "Tôi đi lấy trà",
+    "part": 25
+  },
+  {
+    "term": "どうぞおかまいなく",
+    "reading": "どうぞおかまいなく",
+    "meaning": "Đừng bận tâm",
+    "part": 25
+  },
+  {
+    "term": "お先に",
+    "reading": "おさきに",
+    "meaning": "Tôi về trước",
+    "part": 25
+  },
+  {
+    "term": "賢い",
+    "reading": "かしこい",
+    "meaning": "Thông minh, khôn ngoan",
+    "part": 26
+  },
+  {
+    "term": "礼儀正し",
+    "reading": "れいぎただし",
+    "meaning": "Lễ độ, lễ phép, lịch sự",
+    "part": 26
+  },
+  {
+    "term": "正直な",
+    "reading": "しょうじきな",
+    "meaning": "Chính trực, thành thực",
+    "part": 26
+  },
+  {
+    "term": "正直に言うと",
+    "reading": "しょうじきにいうと",
+    "meaning": "Nói thiệt là",
+    "part": 26
+  },
+  {
+    "term": "素直な",
+    "reading": "すなおな",
+    "meaning": "Dễ bảo, ngoan ngoãn",
+    "part": 26
+  },
+  {
+    "term": "純粋な",
+    "reading": "じゅんすいな",
+    "meaning": "Ngây thơ, trong sáng",
+    "part": 26
+  },
+  {
+    "term": "純粋な気持ち",
+    "reading": "じゅんすいなきもち",
+    "meaning": "Quan điểm thật",
+    "part": 26
+  },
+  {
+    "term": "かっこいい",
+    "reading": "かっこいい",
+    "meaning": "Đẹp trai, bảnh bao, hấp dẫn",
+    "part": 26
+  },
+  {
+    "term": "格好悪い",
+    "reading": "かっこうわるい",
+    "meaning": "Xấu trai, ít hấp dẫn",
+    "part": 26
+  },
+  {
+    "term": "勇気のある",
+    "reading": "ゆうきのある",
+    "meaning": "Có dũng khí",
+    "part": 26
+  },
+  {
+    "term": "ユーモアのある",
+    "reading": "ユーモアのある",
+    "meaning": "Hài hước",
+    "part": 26
+  },
+  {
+    "term": "積極的な",
+    "reading": "せっきょくてきな",
+    "meaning": "Tích cực",
+    "part": 26
+  },
+  {
+    "term": "消極的な",
+    "reading": "しょうきょくてきな",
+    "meaning": "Tiêu cực",
+    "part": 26
+  },
+  {
+    "term": "落ち着いている",
+    "reading": "おちついている",
+    "meaning": "Đang bình tâm, bình tĩnh",
+    "part": 26
+  },
+  {
+    "term": "落ち着く",
+    "reading": "おちつく",
+    "meaning": "Bình tâm, bình tĩnh",
+    "part": 26
+  },
+  {
+    "term": "大人しい",
+    "reading": "おとなしい",
+    "meaning": "Dịu dàng, hiền lành",
+    "part": 26
+  },
+  {
+    "term": "真面目な",
+    "reading": "まじめな",
+    "meaning": "Nghiêm túc, chăm chỉ",
+    "part": 26
+  },
+  {
+    "term": "呑気な",
+    "reading": "のんきな",
+    "meaning": "Vô tư, lạc quan",
+    "part": 26
+  },
+  {
+    "term": "ハンサムな",
+    "reading": "ハンサムな",
+    "meaning": "Đẹp trai",
+    "part": 26
+  },
+  {
+    "term": "美人",
+    "reading": "びじん",
+    "meaning": "Mỹ nhân, người đẹp",
+    "part": 26
+  },
+  {
+    "term": "スマートな",
+    "reading": "スマートな",
+    "meaning": "Phong nhã, yêu kiều",
+    "part": 26
+  },
+  {
+    "term": "意地悪な",
+    "reading": "いじわるな",
+    "meaning": "Tâm địa xấu, xấu bụng",
+    "part": 26
+  },
+  {
+    "term": "意地悪をする",
+    "reading": "いじわるをする",
+    "meaning": "Hiểm ác",
+    "part": 26
+  },
+  {
+    "term": "嘘をつく",
+    "reading": "うそをつく",
+    "meaning": "Nói phét",
+    "part": 26
+  },
+  {
+    "term": "嘘つき",
+    "reading": "うそつき",
+    "meaning": "Người nói dối, nói phét",
+    "part": 26
+  },
+  {
+    "term": "狡い",
+    "reading": "ずるい",
+    "meaning": "Láu cá, ranh mãnh, quỷ quyệt",
+    "part": 26
+  },
+  {
+    "term": "図々しい",
+    "reading": "ずうずうしい",
+    "meaning": "Vô liêm sỉ, trơ tráo",
+    "part": 26
+  },
+  {
+    "term": "しつこい",
+    "reading": "しつこい",
+    "meaning": "Lằng nhằng, dai dẳng, lì lợm",
+    "part": 26
+  },
+  {
+    "term": "しつこく注意する",
+    "reading": "しつこくちゅういする",
+    "meaning": "Chú ý hoài",
+    "part": 26
+  },
+  {
+    "term": "だらしない",
+    "reading": "だらしない",
+    "meaning": "Bừa bãi, lôi thôi",
+    "part": 26
+  },
+  {
+    "term": "けちな",
+    "reading": "けちな",
+    "meaning": "Keo kiệt, bủn xỉn",
+    "part": 26
+  },
+  {
+    "term": "いい加減な",
+    "reading": "いいかげんな",
+    "meaning": "Thiếu trách nhiệm",
+    "part": 26
+  },
+  {
+    "term": "いい加減なことを言う",
+    "reading": "いいかげんなことをいう",
+    "meaning": "Nói chuyện vô lý",
+    "part": 26
+  },
+  {
+    "term": "いい加減にしろ",
+    "reading": "いいかげんにしろ",
+    "meaning": "Thôi đủ rồi",
+    "part": 26
+  },
+  {
+    "term": "無責任な",
+    "reading": "むせきにんな",
+    "meaning": "Vô trách nhiệm",
+    "part": 26
+  },
+  {
+    "term": "体の調子が悪い",
+    "reading": "からだのちょうしがわるい",
+    "meaning": "Không khỏe",
+    "part": 27
+  },
+  {
+    "term": "体の具合が悪い",
+    "reading": "からだのぐあいがわるい",
+    "meaning": "Không khỏe",
+    "part": 27
+  },
+  {
+    "term": "めまいがする",
+    "reading": "めまいがする",
+    "meaning": "Chóng mặt",
+    "part": 27
+  },
+  {
+    "term": "頭痛がする",
+    "reading": "とうつうがする",
+    "meaning": "Đau đầu",
+    "part": 27
+  },
+  {
+    "term": "胃が痛い",
+    "reading": "いがいたい",
+    "meaning": "Đau dạ dày",
+    "part": 27
+  },
+  {
+    "term": "腰が痛い",
+    "reading": "こしがいたい",
+    "meaning": "Đau lưng",
+    "part": 27
+  },
+  {
+    "term": "息が苦しい",
+    "reading": "いきがくるしい",
+    "meaning": "Khó thở",
+    "part": 27
+  },
+  {
+    "term": "苦しむ",
+    "reading": "くるしむ",
+    "meaning": "Đau đớn, buồn phiền, Cắn rứt",
+    "part": 27
+  },
+  {
+    "term": "鼻が詰まる",
+    "reading": "はながつまる",
+    "meaning": "Nghẹt mũi",
+    "part": 27
+  },
+  {
+    "term": "鼻をかむ",
+    "reading": "はなをかむ",
+    "meaning": "Hỉ mũi",
+    "part": 27
+  },
+  {
+    "term": "吐き気がする",
+    "reading": "はきけがする",
+    "meaning": "Buồn nôn",
+    "part": 27
+  },
+  {
+    "term": "気分が悪い",
+    "reading": "きぶんがわるい",
+    "meaning": "Khó chịu trong người",
+    "part": 27
+  },
+  {
+    "term": "気持ちが悪い",
+    "reading": "きもちがわるい",
+    "meaning": "Khó chịu trong người",
+    "part": 27
+  },
+  {
+    "term": "吐く",
+    "reading": "はく",
+    "meaning": "Nôn, nhổ, mửa",
+    "part": 27
+  },
+  {
+    "term": "目がかゆい",
+    "reading": "めがかゆい",
+    "meaning": "Ngứa mắt",
+    "part": 27
+  },
+  {
+    "term": "目をこする",
+    "reading": "めをこする",
+    "meaning": "Dụi mắt",
+    "part": 27
+  },
+  {
+    "term": "目をかく",
+    "reading": "めをかく",
+    "meaning": "Dụi mắt",
+    "part": 27
+  },
+  {
+    "term": "風邪を引いてつらい",
+    "reading": "かぜをひいてつらい",
+    "meaning": "Khổ sở vì cảm",
+    "part": 27
+  },
+  {
+    "term": "アレルギーがある",
+    "reading": "アレルギーがある",
+    "meaning": "Có dị ứng",
+    "part": 27
+  },
+  {
+    "term": "お世話になりました",
+    "reading": "おせわになりました",
+    "meaning": "Cảm ơn đã giúp đỡ",
+    "part": 27
+  },
+  {
+    "term": "お大事に",
+    "reading": "おだいじに",
+    "meaning": "Bảo trọng nhé",
+    "part": 27
+  },
+  {
+    "term": "専門の医師にみてもらう",
+    "reading": "せんもんのいしにみてもらう",
+    "meaning": "Được bác sỹ chuyên khoa khám",
+    "part": 27
+  },
+  {
+    "term": "花粉症になる",
+    "reading": "かふんしょうになる",
+    "meaning": "Dị ứng với phấn hoa",
+    "part": 27
+  },
+  {
+    "term": "医師の診察を受ける",
+    "reading": "いしのしんさつをうける",
+    "meaning": "Được bác sỹ khám",
+    "part": 27
+  },
+  {
+    "term": "うがいをする",
+    "reading": "うがいをする",
+    "meaning": "Súc miệng",
+    "part": 27
+  },
+  {
+    "term": "歯医者にかかる",
+    "reading": "はいしゃにかかる",
+    "meaning": "Gặp bác sỹ nha khoa",
+    "part": 27
+  },
+  {
+    "term": "けがを治す",
+    "reading": "けがをなおす",
+    "meaning": "Chữa lành vết thương",
+    "part": 27
+  },
+  {
+    "term": "インフルエンザにかかる",
+    "reading": "インフルエンザにかかる",
+    "meaning": "Cảm cúm",
+    "part": 27
+  },
+  {
+    "term": "手の傷",
+    "reading": "てのきず",
+    "meaning": "Bị thương ở tay",
+    "part": 27
+  },
+  {
+    "term": "病気の症状",
+    "reading": "びょうきのしょうじょう",
+    "meaning": "Triệu chứng của bệnh",
+    "part": 27
+  },
+  {
+    "term": "やけどをする",
+    "reading": "やけどをする",
+    "meaning": "Bị bỏng",
+    "part": 27
+  },
+  {
+    "term": "注射をしてもらう",
+    "reading": "ちゅうしゃをしてもらう",
+    "meaning": "Bị tiêm",
+    "part": 27
+  },
+  {
+    "term": "大したことがない",
+    "reading": "たいしたことがない",
+    "meaning": "Không nghiêm trọng",
+    "part": 27
+  },
+  {
+    "term": "手術を受ける",
+    "reading": "しゅじゅつをうける",
+    "meaning": "Phẫu thuật",
+    "part": 27
+  },
+  {
+    "term": "ましになる",
+    "reading": "ましになる",
+    "meaning": "Đỡ hơn (bệnh)",
+    "part": 27
+  },
+  {
+    "term": "痛みを我慢する",
+    "reading": "いたみをがまんする",
+    "meaning": "Chịu đau",
+    "part": 27
+  },
+  {
+    "term": "お見舞いに行く",
+    "reading": "おみまいにいく",
+    "meaning": "Đi thăm người ốm",
+    "part": 27
+  },
+  {
+    "term": "鼻水が出る",
+    "reading": "はなみずがでる",
+    "meaning": "Sổ mũi",
+    "part": 28
+  },
+  {
+    "term": "ため息が出る",
+    "reading": "ためいきがでる",
+    "meaning": "Thở dài",
+    "part": 28
+  },
+  {
+    "term": "ため息をつく",
+    "reading": "ためいきがつく",
+    "meaning": "Thở dài",
+    "part": 28
+  },
+  {
+    "term": "涙が出る",
+    "reading": "なみだがでる",
+    "meaning": "Chảy nước mắt",
+    "part": 28
+  },
+  {
+    "term": "涙を流す",
+    "reading": "なみだをながす",
+    "meaning": "Khóc lóc",
+    "part": 28
+  },
+  {
+    "term": "汗をかく",
+    "reading": "あせをかく",
+    "meaning": "Ra mồ hôi",
+    "part": 28
+  },
+  {
+    "term": "汗くさい",
+    "reading": "あせくさい",
+    "meaning": "Toát mồ hôi",
+    "part": 28
+  },
+  {
+    "term": "よだれ",
+    "reading": "よだれ",
+    "meaning": "Nước dãi",
+    "part": 28
+  },
+  {
+    "term": "せきが出る",
+    "reading": "せきがでる",
+    "meaning": "Ho",
+    "part": 28
+  },
+  {
+    "term": "せきをする",
+    "reading": "せきをする",
+    "meaning": "Ho",
+    "part": 28
+  },
+  {
+    "term": "しゃっくりが出る",
+    "reading": "しゃっくりがでる",
+    "meaning": "Nấc cụt",
+    "part": 28
+  },
+  {
+    "term": "しゃっくりをする",
+    "reading": "しゃっくりをする",
+    "meaning": "Nấc cụt",
+    "part": 28
+  },
+  {
+    "term": "くしゃみが出る",
+    "reading": "くしゃみがでる",
+    "meaning": "Hắt xì hơi",
+    "part": 28
+  },
+  {
+    "term": "くしゃみをする",
+    "reading": "くしゃみをする",
+    "meaning": "Hắt xì hơi",
+    "part": 28
+  },
+  {
+    "term": "あくびが出る",
+    "reading": "あくびがでる",
+    "meaning": "Ngáp",
+    "part": 28
+  },
+  {
+    "term": "あくびをする",
+    "reading": "あくびをする",
+    "meaning": "Ngáp",
+    "part": 28
+  },
+  {
+    "term": "おならが出る",
+    "reading": "おならがでる",
+    "meaning": "Đánh rắm",
+    "part": 28
+  },
+  {
+    "term": "おならをする",
+    "reading": "おならをする",
+    "meaning": "Đánh rắm",
+    "part": 28
+  },
+  {
+    "term": "体重が増える",
+    "reading": "たいじゅうがふえる",
+    "meaning": "Tăng cân",
+    "part": 28
+  },
+  {
+    "term": "体重を増やす",
+    "reading": "たいじゅうをふやす",
+    "meaning": "Làm tăng cân",
+    "part": 28
+  },
+  {
+    "term": "体重が減る",
+    "reading": "たいじゅうがへる",
+    "meaning": "Giảm cân",
+    "part": 28
+  },
+  {
+    "term": "体重を減らす",
+    "reading": "たいじゅうをへらす",
+    "meaning": "Làm giảm cân",
+    "part": 28
+  },
+  {
+    "term": "ダイエットをする",
+    "reading": "ダイエットをする",
+    "meaning": "Ăn kiêng",
+    "part": 28
+  },
+  {
+    "term": "いびきをかく",
+    "reading": "いびきをかく",
+    "meaning": "Ngáy",
+    "part": 28
+  },
+  {
+    "term": "足がしびれる",
+    "reading": "あしがしびれる",
+    "meaning": "Tê chân",
+    "part": 28
+  },
+  {
+    "term": "体がふるえる",
+    "reading": "からだがふるえる",
+    "meaning": "Cơ thể run rẩy",
+    "part": 28
+  },
+  {
+    "term": "肩がこる",
+    "reading": "かたがこる",
+    "meaning": "Ê ẩm vai",
+    "part": 28
+  },
+  {
+    "term": "くせがつく",
+    "reading": "くせがつく",
+    "meaning": "Tật xấu",
+    "part": 28
+  },
+  {
+    "term": "くせになる",
+    "reading": "くせになる",
+    "meaning": "Thành tật xấu",
+    "part": 28
+  },
+  {
+    "term": "ストレスがたまる",
+    "reading": "ストレスがたまる",
+    "meaning": "Căng thẳng, áp lực",
+    "part": 28
+  },
+  {
+    "term": "年を取る",
+    "reading": "としをとる",
+    "meaning": "Nhiều tuổi",
+    "part": 28
+  },
+  {
+    "term": "つめが伸びる",
+    "reading": "つめがのびる",
+    "meaning": "Móng tay dài ra",
+    "part": 28
+  },
+  {
+    "term": "ひげが生える",
+    "reading": "ひげがはえる",
+    "meaning": "Mọc râu",
+    "part": 28
+  },
+  {
+    "term": "歯が生える",
+    "reading": "はがはえる",
+    "meaning": "Mọc răng",
+    "part": 28
+  },
+  {
+    "term": "髪の毛が抜ける",
+    "reading": "かみけがぬける",
+    "meaning": "Rụng tóc",
+    "part": 28
+  },
+  {
+    "term": "はける",
+    "reading": "はける",
+    "meaning": "Hói, Rụng tóc",
+    "part": 28
+  },
+  {
+    "term": "髪をそめる",
+    "reading": "かみをそめる",
+    "meaning": "Nhuộm tóc",
+    "part": 28
+  },
+  {
+    "term": "花が咲く",
+    "reading": "はながさく",
+    "meaning": "Hoa nở",
+    "part": 29
+  },
+  {
+    "term": "花が散る",
+    "reading": "はながちる",
+    "meaning": "Hoa rụng",
+    "part": 29
+  },
+  {
+    "term": "木が枯れる",
+    "reading": "きがかれる",
+    "meaning": "Cây héo úa",
+    "part": 29
+  },
+  {
+    "term": "山がくずれる",
+    "reading": "やまがくずれる",
+    "meaning": "Lở núi",
+    "part": 29
+  },
+  {
+    "term": "険しい山",
+    "reading": "けわしいやま",
+    "meaning": "Núi dốc",
+    "part": 29
+  },
+  {
+    "term": "なだらかな坂",
+    "reading": "なだらかなさか",
+    "meaning": "Dốc thoai thoải",
+    "part": 29
+  },
+  {
+    "term": "箱がつぶれる",
+    "reading": "はこがつぶれる",
+    "meaning": "Cái hộp bị bẹp",
+    "part": 29
+  },
+  {
+    "term": "つぶす",
+    "reading": "つぶす",
+    "meaning": "Làm bẹp, nghiền",
+    "part": 29
+  },
+  {
+    "term": "浮く",
+    "reading": "うく",
+    "meaning": "Nổi, lơ lửng",
+    "part": 29
+  },
+  {
+    "term": "沈む",
+    "reading": "しずむ",
+    "meaning": "Chìm, đắm",
+    "part": 29
+  },
+  {
+    "term": "蒸し暑い",
+    "reading": "むしあつい",
+    "meaning": "Oi bức, nóng nực",
+    "part": 29
+  },
+  {
+    "term": "くさる",
+    "reading": "くさる",
+    "meaning": "Thối rữa, mục nát",
+    "part": 29
+  },
+  {
+    "term": "かびが生える",
+    "reading": "かびがはえる",
+    "meaning": "Nấm mốc phát triển",
+    "part": 29
+  },
+  {
+    "term": "変なにおいがする",
+    "reading": "へんなにおいがする",
+    "meaning": "Có mùi lạ",
+    "part": 29
+  },
+  {
+    "term": "におう",
+    "reading": "におう",
+    "meaning": "Bốc mùi, có mùi",
+    "part": 29
+  },
+  {
+    "term": "気味が悪い生き物",
+    "reading": "いみがわるいいきもの",
+    "meaning": "Sinh vật thấy sởn gai ốc",
+    "part": 29
+  },
+  {
+    "term": "気持ち(が)悪い生き物",
+    "reading": "きもちがわるいいきもの",
+    "meaning": "Sinh vật thấy sởn gai ốc",
+    "part": 29
+  },
+  {
+    "term": "親しい友人",
+    "reading": "したしいゆうじん",
+    "meaning": "Bạn thân",
+    "part": 29
+  },
+  {
+    "term": "親友",
+    "reading": "しんゆう",
+    "meaning": "Bạn thân",
+    "part": 29
+  },
+  {
+    "term": "あやしい男",
+    "reading": "あやしいおとこ",
+    "meaning": "Kẻ đáng ngờ",
+    "part": 29
+  },
+  {
+    "term": "恐ろしい事件",
+    "reading": "おそろしいじけん",
+    "meaning": "Vụ việc kinh khủng",
+    "part": 29
+  },
+  {
+    "term": "さびた包丁",
+    "reading": "さびたほうちょう",
+    "meaning": "Con dao bị gỉ",
+    "part": 29
+  },
+  {
+    "term": "さびる",
+    "reading": "さびる",
+    "meaning": "Bị gỉ",
+    "part": 29
+  },
+  {
+    "term": "鋭い",
+    "reading": "するどい",
+    "meaning": "Sắc bén",
+    "part": 29
+  },
+  {
+    "term": "鈍い",
+    "reading": "にぶい",
+    "meaning": "Cùn",
+    "part": 29
+  },
+  {
+    "term": "のろい車",
+    "reading": "のろいくるま",
+    "meaning": "Ô tô chậm chạp",
+    "part": 29
+  },
+  {
+    "term": "安全な場所",
+    "reading": "あんぜんなばしょ",
+    "meaning": "Chỗ an toàn",
+    "part": 29
+  },
+  {
+    "term": "薄暗い部屋",
+    "reading": "うすぐらいへや",
+    "meaning": "Phòng âm u",
+    "part": 29
+  },
+  {
+    "term": "くわしい説明書",
+    "reading": "くわしいせつめいしょ",
+    "meaning": "Sách hướng dẫn chi tiết",
+    "part": 29
+  },
+  {
+    "term": "くわしく説明する",
+    "reading": "くわしくせつめいする",
+    "meaning": "Giải thích chi tiết",
+    "part": 29
+  },
+  {
+    "term": "くだらない小説",
+    "reading": "くだらないしょうせつ",
+    "meaning": "Tiểu thuyết tầm phào",
+    "part": 29
+  },
+  {
+    "term": "でたらめに答える",
+    "reading": "でたらめにこたえる",
+    "meaning": "Trả lời linh tinh",
+    "part": 29
+  },
+  {
+    "term": "突然",
+    "reading": "とつぜん",
+    "meaning": "Đột nhiên, đột ngột",
+    "part": 30
+  },
+  {
+    "term": "突然電話が鳴った",
+    "reading": "とつぜんでんわがなった",
+    "meaning": "Đột nhiên điện thoại reo",
+    "part": 30
+  },
+  {
+    "term": "いきなり",
+    "reading": "いきなり",
+    "meaning": "Đột ngột, đột nhiên",
+    "part": 30
+  },
+  {
+    "term": "いきなり泣き出す",
+    "reading": "いきなりなきだす",
+    "meaning": "Đột nhiên bật khóc",
+    "part": 30
+  },
+  {
+    "term": "とたんに",
+    "reading": "とたんに",
+    "meaning": "Đột nhiên",
+    "part": 30
+  },
+  {
+    "term": "とたんに泣き出す",
+    "reading": "とたんになきだす",
+    "meaning": "Đột nhiên òa khóc",
+    "part": 30
+  },
+  {
+    "term": "やっと",
+    "reading": "やっと",
+    "meaning": "Cuối cùng",
+    "part": 30
+  },
+  {
+    "term": "やっとけがが治った",
+    "reading": "やっとけががなおった",
+    "meaning": "Cuối cùng thì vết thương cũng lành",
+    "part": 30
+  },
+  {
+    "term": "とうとう",
+    "reading": "とうとう",
+    "meaning": "Cuối cùng, sau cùng",
+    "part": 30
+  },
+  {
+    "term": "うちの猫がとうとう死んでしまった",
+    "reading": "うちのねこがとうとうしんでしまった",
+    "meaning": "Cuối cùng con mèo ở nhà đã chết mất",
+    "part": 30
+  },
+  {
+    "term": "結局",
+    "reading": "けっきょく",
+    "meaning": "Kết cục, rốt cuộc",
+    "part": 30
+  },
+  {
+    "term": "ついに",
+    "reading": "ついに",
+    "meaning": "Cuối cùng",
+    "part": 30
+  },
+  {
+    "term": "ついに絵が完成した",
+    "reading": "ついにえがかんせいした",
+    "meaning": "Cuối cùng cũng vẽ xong bức tranh",
+    "part": 30
+  },
+  {
+    "term": "よく",
+    "reading": "よく",
+    "meaning": "Thường xuyên, hết sức, rất",
+    "part": 30
+  },
+  {
+    "term": "よくこのレストランに来ます",
+    "reading": "よくこのレストランにきます",
+    "meaning": "Thường đến nhà hàng này",
+    "part": 30
+  },
+  {
+    "term": "よくやった",
+    "reading": "よくやった",
+    "meaning": "Làm tốt lắm",
+    "part": 30
+  },
+  {
+    "term": "たいてい",
+    "reading": "たいてい",
+    "meaning": "Đại để, nói chung, thường",
+    "part": 30
+  },
+  {
+    "term": "たいてい外食します",
+    "reading": "たいていがいしょくします",
+    "meaning": "Thường ăn ngoài",
+    "part": 30
+  },
+  {
+    "term": "ふだん",
+    "reading": "ふだん",
+    "meaning": "Thông thường",
+    "part": 30
+  },
+  {
+    "term": "ふつう",
+    "reading": "ふつう",
+    "meaning": "Thường",
+    "part": 30
+  },
+  {
+    "term": "たまに",
+    "reading": "たまに",
+    "meaning": "Thi thoảng, đôi khi",
+    "part": 30
+  },
+  {
+    "term": "たまに映画に行きます",
+    "reading": "たまにえいがにいきます",
+    "meaning": "Thi thoảng đi xem phim",
+    "part": 30
+  },
+  {
+    "term": "かなり",
+    "reading": "かなり",
+    "meaning": "Kha khá",
+    "part": 30
+  },
+  {
+    "term": "かなり大きい家",
+    "reading": "かなりおおきいいえ",
+    "meaning": "Ngôi nhà khá lớn",
+    "part": 30
+  },
+  {
+    "term": "人がかなりいる",
+    "reading": "ひとがかなりいる",
+    "meaning": "Khá nhiều người",
+    "part": 30
+  },
+  {
+    "term": "けっこう",
+    "reading": "けっこう",
+    "meaning": "Tạm được, tương đối",
+    "part": 30
+  },
+  {
+    "term": "ものすごく",
+    "reading": "ものすごく",
+    "meaning": "Cực kỳ",
+    "part": 30
+  },
+  {
+    "term": "足がものすごく痛い",
+    "reading": "あしがものすごくいたい",
+    "meaning": "Chân đau quá",
+    "part": 30
+  },
+  {
+    "term": "めちゃくちゃ",
+    "reading": "めちゃくちゃ",
+    "meaning": "Quá mức",
+    "part": 30
+  },
+  {
+    "term": "むちゃくちゃ",
+    "reading": "むちゃくちゃ",
+    "meaning": "Lộn xộn, lung tung",
+    "part": 30
+  },
+  {
+    "term": "めちゃくちゃ安い",
+    "reading": "めちゃくちゃやすい",
+    "meaning": "Quá rẻ",
+    "part": 30
+  },
+  {
+    "term": "順番がむちゃくちゃだ",
+    "reading": "じゅんばんがむちゃくちゃだ",
+    "meaning": "Thứ tự lộn xộn",
+    "part": 30
+  },
+  {
+    "term": "事故で車がめちゃくちゃに壊れた",
+    "reading": "じこでくるまがめちゃくちゃにこわれた",
+    "meaning": "Ô tô bị hỏng nặng do tai nạn",
+    "part": 30
+  },
+  {
+    "term": "ぜひ",
+    "reading": "ぜひ",
+    "meaning": "Nhất định",
+    "part": 30
+  },
+  {
+    "term": "ぜひとも",
+    "reading": "ぜひとも",
+    "meaning": "Nhất định",
+    "part": 30
+  },
+  {
+    "term": "ぜひお越しください",
+    "reading": "ぜひおこしください",
+    "meaning": "Nhất định tới chơi đấy",
+    "part": 30
+  },
+  {
+    "term": "どうか",
+    "reading": "どうか",
+    "meaning": "Bằng cách này hay cách khác",
+    "part": 30
+  },
+  {
+    "term": "どうかお願いします",
+    "reading": "どうかおねがいします",
+    "meaning": "Xin giúp đỡ bằng cách nào đó",
+    "part": 30
+  },
+  {
+    "term": "まず",
+    "reading": "まず",
+    "meaning": "Trước tiên, trước hết",
+    "part": 30
+  },
+  {
+    "term": "とにかく",
+    "reading": "とにかく",
+    "meaning": "Dù gì chăng nữa",
+    "part": 30
+  },
+  {
+    "term": "ともかく",
+    "reading": "ともかく",
+    "meaning": "Dù thế nào",
+    "part": 30
+  },
+  {
+    "term": "一度に",
+    "reading": "いちどに",
+    "meaning": "Cùng một lúc",
+    "part": 30
+  },
+  {
+    "term": "一度に花が咲く",
+    "reading": "いちどにはながさく",
+    "meaning": "Hoa nở cùng một lúc",
+    "part": 30
+  },
+  {
+    "term": "いっぺんに",
+    "reading": "いっぺんに",
+    "meaning": "Ngay lập tức",
+    "part": 30
+  },
+  {
+    "term": "たまった宿題をいっぺんに片付ける",
+    "reading": "たまったしゅくだいをいっぺんにかたづける",
+    "meaning": "Lập tức giải quyết đống bài tập còn lại",
+    "part": 30
+  },
+  {
+    "term": "いっぺんに疲(つか)れが出(で)た",
+    "reading": "いっぺんにつかれがでた",
+    "meaning": "Mệt bất thình lình",
+    "part": 30
+  },
+  {
+    "term": "うっかり",
+    "reading": "うっかり",
+    "meaning": "Lơ đễnh, vô tâm",
+    "part": 31
+  },
+  {
+    "term": "宿題をうっかり忘れる",
+    "reading": "しゅくだいをうっかりわすれる",
+    "meaning": "Lỡ quên không làm bài tập",
+    "part": 31
+  },
+  {
+    "term": "うっかりする",
+    "reading": "うっかりする",
+    "meaning": "Lơ đễnh, vô tâm",
+    "part": 31
+  },
+  {
+    "term": "すっかり",
+    "reading": "すっかり",
+    "meaning": "Hoàn toàn, toàn bộ",
+    "part": 31
+  },
+  {
+    "term": "すっかり忘れた",
+    "reading": "すっかりわすれた",
+    "meaning": "Quên hết",
+    "part": 31
+  },
+  {
+    "term": "がっかり(する)",
+    "reading": "がっかりする",
+    "meaning": "Thất vọng, chán nản",
+    "part": 31
+  },
+  {
+    "term": "試験に落ちてがっかりする",
+    "reading": "しけんにおちてがっかりする",
+    "meaning": "Thất vọng vì thi trượt",
+    "part": 31
+  },
+  {
+    "term": "やっぱり",
+    "reading": "やっぱり",
+    "meaning": "Quả là, như tôi đã nghĩ",
+    "part": 31
+  },
+  {
+    "term": "やはり",
+    "reading": "やはり",
+    "meaning": "Quả là, như tôi đã nghĩ",
+    "part": 31
+  },
+  {
+    "term": "やっぱり思ったとおりだ",
+    "reading": "やっぱりおもったとおりだ",
+    "meaning": "Quả là đúng như tôi đã nghĩ",
+    "part": 31
+  },
+  {
+    "term": "しっかり",
+    "reading": "しっかり",
+    "meaning": "Chắc chắn, ổn định",
+    "part": 31
+  },
+  {
+    "term": "しっかりした子供",
+    "reading": "しっかりしたこども",
+    "meaning": "Đứa trẻ chín chắn",
+    "part": 31
+  },
+  {
+    "term": "しっかりしろ",
+    "reading": "しっかりしろ",
+    "meaning": "Vững vàng lên",
+    "part": 31
+  },
+  {
+    "term": "すっきり",
+    "reading": "すっきり",
+    "meaning": "Sảng khoái, gọn gàng",
+    "part": 31
+  },
+  {
+    "term": "部屋がすっきりする",
+    "reading": "へやがすっきりする",
+    "meaning": "Phòng sạch sẽ, gọn gàn",
+    "part": 31
+  },
+  {
+    "term": "気分がすっきりする",
+    "reading": "きぶんがすっきりする",
+    "meaning": "Tinh thần sảng khoái",
+    "part": 31
+  },
+  {
+    "term": "さっぱり",
+    "reading": "さっぱり",
+    "meaning": "Thoải mái, toàn bộ",
+    "part": 31
+  },
+  {
+    "term": "風呂に入ってさっぱりする",
+    "reading": "ふろにはいってさっぱりする",
+    "meaning": "Tắm xong thấy thoải mái",
+    "part": 31
+  },
+  {
+    "term": "この問題はさっぱりわからない",
+    "reading": "このもんだいはさっぱりわからない",
+    "meaning": "Tôi hoàn toàn không hiểu vấn đề này",
+    "part": 31
+  },
+  {
+    "term": "ぐっすり",
+    "reading": "ぐっすり",
+    "meaning": "Trạng thái ngủ say",
+    "part": 31
+  },
+  {
+    "term": "ぐっすり眠る",
+    "reading": "ぐっすりねむる",
+    "meaning": "Ngủ say",
+    "part": 31
+  },
+  {
+    "term": "にっこり",
+    "reading": "にっこり",
+    "meaning": "Mỉm cười",
+    "part": 31
+  },
+  {
+    "term": "にっこり笑う",
+    "reading": "にっこりわらう",
+    "meaning": "Cười mỉm",
+    "part": 31
+  },
+  {
+    "term": "にこにこ",
+    "reading": "にこにこ",
+    "meaning": "Mỉm cười",
+    "part": 31
+  },
+  {
+    "term": "にこにこに笑う",
+    "reading": "にこにこにわらう",
+    "meaning": "Cười mỉm",
+    "part": 31
+  },
+  {
+    "term": "そっくり",
+    "reading": "そっくり",
+    "meaning": "Giống nhau như đúc",
+    "part": 31
+  },
+  {
+    "term": "あの親子はそっくりだ",
+    "reading": "あのおやこはそっくりだ",
+    "meaning": "Mẹ con giống nhau như đúc",
+    "part": 31
+  },
+  {
+    "term": "はっきり(する)",
+    "reading": "はっきりする",
+    "meaning": "Rõ ràng, rành rọt",
+    "part": 31
+  },
+  {
+    "term": "山がはっきり見える",
+    "reading": "やまがはっきりみえる",
+    "meaning": "Nhìn thấy rõ núi",
+    "part": 31
+  },
+  {
+    "term": "ぼんやり",
+    "reading": "ぼんやり",
+    "meaning": "Thong thả",
+    "part": 31
+  },
+  {
+    "term": "のんびり",
+    "reading": "のんびり",
+    "meaning": "Thong thả, thong dong",
+    "part": 31
+  },
+  {
+    "term": "のんびり過ごす",
+    "reading": "のんびりすごす",
+    "meaning": "Nghỉ ngơi thong thả",
+    "part": 31
+  },
+  {
+    "term": "のんびりする",
+    "reading": "のんびりする",
+    "meaning": "Thư giãn, thong thả",
+    "part": 31
+  },
+  {
+    "term": "きちんと(する)",
+    "reading": "きちんとする",
+    "meaning": "Chỉnh chu, cẩn thận",
+    "part": 31
+  },
+  {
+    "term": "ちゃんと(する)",
+    "reading": "ちゃんとする",
+    "meaning": "Cẩn thận, kỹ càng",
+    "part": 31
+  },
+  {
+    "term": "洋服をきちんと",
+    "reading": "ようふくをきちんと",
+    "meaning": "Xếp quần áo cẩn thận",
+    "part": 31
+  },
+  {
+    "term": "態度をきちんとする",
+    "reading": "たいどをきちんとする",
+    "meaning": "Thái độ đàng hoàng",
+    "part": 31
+  },
+  {
+    "term": "ふと",
+    "reading": "ふと",
+    "meaning": "Đột nhiên",
+    "part": 31
+  },
+  {
+    "term": "ふと思い出す",
+    "reading": "ふとおもいだす",
+    "meaning": "Đột nhiên nhớ về",
+    "part": 31
+  },
+  {
+    "term": "わざと",
+    "reading": "わざと",
+    "meaning": "Cố ý, cố tình",
+    "part": 31
+  },
+  {
+    "term": "わざと負ける",
+    "reading": "わざとまける",
+    "meaning": "Cố tình thua",
+    "part": 31
+  },
+  {
+    "term": "ほっとする",
+    "reading": "ほっとする",
+    "meaning": "Cảm thấy bớt căng thẳng",
+    "part": 31
+  },
+  {
+    "term": "母の病気が治ってほっとした",
+    "reading": "ははのびょうきがなおってほっとした",
+    "meaning": "Bệnh của mẹ đã khỏi nên nhẹ cả người",
+    "part": 31
+  },
+  {
+    "term": "じっとする",
+    "reading": "じっとする",
+    "meaning": "Câm lặng, cắn răng chịu đựng",
+    "part": 31
+  },
+  {
+    "term": "じっとがまんする",
+    "reading": "じっとがまんする",
+    "meaning": "Cắn răng chịu đau",
+    "part": 31
+  },
+  {
+    "term": "じっと見る",
+    "reading": "じっとみる",
+    "meaning": "Nhìn chằm chằm",
+    "part": 31
+  },
+  {
+    "term": "ざっと",
+    "reading": "ざっと",
+    "meaning": "Qua loa, đại khái",
+    "part": 31
+  },
+  {
+    "term": "ざっと掃除する",
+    "reading": "ざっとそうじする",
+    "meaning": "Dọn dẹp qua loa",
+    "part": 31
+  },
+  {
+    "term": "そっとする",
+    "reading": "そっとする",
+    "meaning": "Len lén, vụng trộm",
+    "part": 31
+  },
+  {
+    "term": "そっと近づく",
+    "reading": "そっとちかづく",
+    "meaning": "Len lút tới gần",
+    "part": 31
+  },
+  {
+    "term": "どきどきする",
+    "reading": "どきどきする",
+    "meaning": "Hồi hộp, tim đập thình thịch",
+    "part": 32
+  },
+  {
+    "term": "胸がどきどきする",
+    "reading": "むねがどきどきする",
+    "meaning": "Hồi hộp, tim đập thình thịch",
+    "part": 32
+  },
+  {
+    "term": "面接でどきどきする",
+    "reading": "めんせつでどきどきする",
+    "meaning": "Hồi hộp trong cuộc phỏng vấn",
+    "part": 32
+  },
+  {
+    "term": "いらいら",
+    "reading": "いらいら",
+    "meaning": "Sốt ruột, nóng ruột",
+    "part": 32
+  },
+  {
+    "term": "渋滞でいらいらする",
+    "reading": "じゅうたいでいらいらする",
+    "meaning": "Sốt ruột do tắc đường",
+    "part": 32
+  },
+  {
+    "term": "はきはき",
+    "reading": "はきはき",
+    "meaning": "Sáng suốt, rõ ràng",
+    "part": 32
+  },
+  {
+    "term": "はきはきと答える",
+    "reading": "はきはきとこたえる",
+    "meaning": "Trả lời rõ ràng",
+    "part": 32
+  },
+  {
+    "term": "彼女ははきはきして感じがいい",
+    "reading": "かのじょははきはきしてかんじがいい",
+    "meaning": "Cô ấy rất sáng sủa",
+    "part": 32
+  },
+  {
+    "term": "ぶつぶつ",
+    "reading": "ぶつぶつ",
+    "meaning": "Lầm bầm, làu bàu",
+    "part": 32
+  },
+  {
+    "term": "ぶつぶつ文句を言う",
+    "reading": "ぶつぶつもんくをいう",
+    "meaning": "Làu bàu than phiền",
+    "part": 32
+  },
+  {
+    "term": "彼は何かぶつぶつ言っている",
+    "reading": "かれはなにかぶつぶついっている",
+    "meaning": "Anh ấy đang lầm bầm cái gì đấy",
+    "part": 32
+  },
+  {
+    "term": "うろうろ",
+    "reading": "うろうろ",
+    "meaning": "Quanh quẩn, đi tha thẩn",
+    "part": 32
+  },
+  {
+    "term": "変な男がうろうろしている",
+    "reading": "へんなおとこがうろうろしている",
+    "meaning": "Người đàn ông lạ đi quanh quẩn",
+    "part": 32
+  },
+  {
+    "term": "ぶらぶら",
+    "reading": "ぶらぶら",
+    "meaning": "Quanh quẩn không làm gì",
+    "part": 32
+  },
+  {
+    "term": "街をぶらぶらする",
+    "reading": "まちをぶらぶらする",
+    "meaning": "Đi loanh quanh khu phố",
+    "part": 32
+  },
+  {
+    "term": "ぶらぶらゆれる",
+    "reading": "ぶらぶらゆれる",
+    "meaning": "Long thong, đu đưa",
+    "part": 32
+  },
+  {
+    "term": "ぎりぎり",
+    "reading": "ぎりぎり",
+    "meaning": "Sát nút, sát giờ",
+    "part": 32
+  },
+  {
+    "term": "ぎりぎりで最終電車に間に合った",
+    "reading": "ぎりぎりでさいしゅうでんしゃにまにあった",
+    "meaning": "Vừa kịp chuyến tàu cuối",
+    "part": 32
+  },
+  {
+    "term": "締め切りぎりぎりに願書を出した",
+    "reading": "しめきりぎりぎりにがんしょをだした",
+    "meaning": "Đã nộp đơn sát ngày cuối",
+    "part": 32
+  },
+  {
+    "term": "ぴかぴか",
+    "reading": "ぴかぴか",
+    "meaning": "Lấp lánh, nhấp nháy",
+    "part": 32
+  },
+  {
+    "term": "靴をぴかぴかにみがく",
+    "reading": "くつをぴかぴかにみがく",
+    "meaning": "Đánh giày bóng loáng",
+    "part": 32
+  },
+  {
+    "term": "のろのろ",
+    "reading": "のろのろ",
+    "meaning": "Chầm chậm, chậm chạp",
+    "part": 32
+  },
+  {
+    "term": "電車がのろのろ走っている",
+    "reading": "でんしゃがのろのろはしっている",
+    "meaning": "Tàu đang chạy chầm chậm",
+    "part": 32
+  },
+  {
+    "term": "ぺらぺら",
+    "reading": "ぺらぺら",
+    "meaning": "Lưu loát, trôi chảy",
+    "part": 32
+  },
+  {
+    "term": "秘密をぺらぺらしゃべる",
+    "reading": "ひみつをぺらぺらしゃべる",
+    "meaning": "Nói hết sạch bí mật",
+    "part": 32
+  },
+  {
+    "term": "英語がぺらぺらだ",
+    "reading": "えいごがぺらぺらだ",
+    "meaning": "Nói tiếng anh lưu loát",
+    "part": 32
+  },
+  {
+    "term": "ぺらぺらの紙",
+    "reading": "ぺらぺらのかみ",
+    "meaning": "Tờ giấy mỏng",
+    "part": 32
+  },
+  {
+    "term": "おなかがぺこぺこだ",
+    "reading": "おなかがぺこぺこだ",
+    "meaning": "Trạng thái đói meo",
+    "part": 32
+  },
+  {
+    "term": "ますます",
+    "reading": "ますます",
+    "meaning": "Ngày càng",
+    "part": 32
+  },
+  {
+    "term": "物価はますます上がるだろう",
+    "reading": "ぶっかはますますあがるだろう",
+    "meaning": "Hình như giá càng ngày càng tăng thì phải",
+    "part": 32
+  },
+  {
+    "term": "だんだん",
+    "reading": "だんだん",
+    "meaning": "Dần dần",
+    "part": 32
+  },
+  {
+    "term": "だんだん寒くなりますね",
+    "reading": "だんだんさむくなりますね",
+    "meaning": "Trời dần trở lạnh nhỉ",
+    "part": 32
+  },
+  {
+    "term": "どんどん",
+    "reading": "どんどん",
+    "meaning": "Nhanh chóng, mau lẹ, đều đều",
+    "part": 32
+  },
+  {
+    "term": "彼の日本語はどんどん上達している",
+    "reading": "かれのにほんごはどんどんじょうたつしている",
+    "meaning": "Tiếng nhật của anh ấy ngày càng giỏi lên",
+    "part": 32
+  },
+  {
+    "term": "そろそろ",
+    "reading": "そろそろ",
+    "meaning": "Sắp sửa",
+    "part": 32
+  },
+  {
+    "term": "そろそろ始めましょう",
+    "reading": "そろそろはじめましょう",
+    "meaning": "Sắp sửa bắt đầu thôi",
+    "part": 32
+  },
+  {
+    "term": "もともと",
+    "reading": "もともと",
+    "meaning": "Vốn dĩ, vốn là, nguyên là",
+    "part": 32
+  },
+  {
+    "term": "彼はもともと気の弱い人だった",
+    "reading": "かれはもともときのよわいひとだった",
+    "meaning": "Anh ấy vốn là người nhút nhát",
+    "part": 32
+  },
+  {
+    "term": "たまたま",
+    "reading": "たまたま",
+    "meaning": "Thi thoảng, đôi khi",
+    "part": 32
+  },
+  {
+    "term": "たまたま高校時代の友人に会った",
+    "reading": "たまたまこうこうじだいのゆうじんにあった",
+    "meaning": "Thi thoảng có gặp bạn cấp 3",
+    "part": 32
+  },
+  {
+    "term": "まあまあ",
+    "reading": "まあまあ",
+    "meaning": "Tàm tạm, cũng được",
+    "part": 32
+  },
+  {
+    "term": "試験の結果はまあまあだった",
+    "reading": "しけんのけっかはまあまあだった",
+    "meaning": "Kết quả thi cũng tạm",
+    "part": 32
+  },
+  {
+    "term": "さまざま",
+    "reading": "さまざま",
+    "meaning": "Đa dạng, nhiều loại",
+    "part": 32
+  },
+  {
+    "term": "さまざまな商品",
+    "reading": "さまざまなしょうひん",
+    "meaning": "Nhiều loại sản phẩm",
+    "part": 32
+  },
+  {
+    "term": "理想の人に出会う",
+    "reading": "りそうのひとにであう",
+    "meaning": "Tình cờ gặp người lý tưởng",
+    "part": 33
+  },
+  {
+    "term": "出会い",
+    "reading": "であい",
+    "meaning": "Tình cờ gặp",
+    "part": 33
+  },
+  {
+    "term": "客を出迎える",
+    "reading": "きゃくをでむかえる",
+    "meaning": "Đón tiếp khách",
+    "part": 33
+  },
+  {
+    "term": "出迎え",
+    "reading": "でむかえ",
+    "meaning": "Sự đi đón, việc ra đón",
+    "part": 33
+  },
+  {
+    "term": "見送る",
+    "reading": "みおくる",
+    "meaning": "Đưa tiễn",
+    "part": 33
+  },
+  {
+    "term": "見送り",
+    "reading": "みおくり",
+    "meaning": "Đưa tiễn",
+    "part": 33
+  },
+  {
+    "term": "空を見上げる",
+    "reading": "そらをみあげる",
+    "meaning": "Ngước nhìn bầu trời",
+    "part": 33
+  },
+  {
+    "term": "通りを見下ろす",
+    "reading": "とおりをみおろす",
+    "meaning": "Nhìn xuống đường",
+    "part": 33
+  },
+  {
+    "term": "急に立ち止まる",
+    "reading": "きゅうにたちどまる",
+    "meaning": "Đột ngột dừng lại",
+    "part": 33
+  },
+  {
+    "term": "ソファーから立ち上がる",
+    "reading": "ソファーからたちあがる",
+    "meaning": "Đứng lên khỏi ghế sofa",
+    "part": 33
+  },
+  {
+    "term": "寺の前を通りかかる",
+    "reading": "てらのまえをとおりかかる",
+    "meaning": "Đi qua chùa",
+    "part": 33
+  },
+  {
+    "term": "郵便局を通り過ぎる",
+    "reading": "ゆうびんきょくをとおりすぎる",
+    "meaning": "Đi quá bưu điện",
+    "part": 33
+  },
+  {
+    "term": "隣の人に話しかける",
+    "reading": "となりのひとにはなしかける",
+    "meaning": "Bắt chuyện với người bên cạnh",
+    "part": 33
+  },
+  {
+    "term": "田中さんと話し合う",
+    "reading": "たなかさんとはなしあう",
+    "meaning": "Bàn bạc với anh Tanaka",
+    "part": 33
+  },
+  {
+    "term": "話し合い",
+    "reading": "はなしあい",
+    "meaning": "Bàn bạc, thảo luận",
+    "part": 33
+  },
+  {
+    "term": "中村さんと知り合う",
+    "reading": "なかむらさんとしりあう",
+    "meaning": "Biết anh Nakamura",
+    "part": 33
+  },
+  {
+    "term": "知り合い",
+    "reading": "しりあい",
+    "meaning": "Người quen",
+    "part": 33
+  },
+  {
+    "term": "駅で待ち合わせる",
+    "reading": "えきでまちあわせる",
+    "meaning": "Hẹn gặp ở nhà ga",
+    "part": 33
+  },
+  {
+    "term": "電話で問い合わせる",
+    "reading": "でんわでといあわせる",
+    "meaning": "Hỏi thăm qua điện thoại",
+    "part": 33
+  },
+  {
+    "term": "問い合わせ",
+    "reading": "といあわせ",
+    "meaning": "Nơi hướng dẫn, phòng hướng dẫn",
+    "part": 33
+  },
+  {
+    "term": "旅行会社に申し込む",
+    "reading": "りょこうがいしゃにもうしこむ",
+    "meaning": "Đăng ký với công ty du lịch",
+    "part": 33
+  },
+  {
+    "term": "申し込み",
+    "reading": "もうしこみ",
+    "meaning": "Đơn xin",
+    "part": 33
+  },
+  {
+    "term": "申し込みを締め切る",
+    "reading": "もうしこみをしめきる",
+    "meaning": "Hết hạn đăng ký",
+    "part": 33
+  },
+  {
+    "term": "締め切り",
+    "reading": "しめきり",
+    "meaning": "Hạn cuối",
+    "part": 33
+  },
+  {
+    "term": "申し込みを受け付ける",
+    "reading": "もうしこみをうけつける",
+    "meaning": "Tiếp nhận đơn",
+    "part": 33
+  },
+  {
+    "term": "受付",
+    "reading": "うけつけ",
+    "meaning": "Quầy lễ tân",
+    "part": 33
+  },
+  {
+    "term": "荷物を受け取る",
+    "reading": "にもつをうけとる",
+    "meaning": "Nhận lấy hành lý",
+    "part": 33
+  },
+  {
+    "term": "受け取り",
+    "reading": "うけとり",
+    "meaning": "Biên nhận, biên lai",
+    "part": 33
+  },
+  {
+    "term": "電池を取り替える",
+    "reading": "でんちをとりかえる",
+    "meaning": "Thay Pin",
+    "part": 33
+  },
+  {
+    "term": "取り消し",
+    "reading": "とりけし",
+    "meaning": "Sự loại bỏ",
+    "part": 33
+  },
+  {
+    "term": "子供が飛び出す",
+    "reading": "こどもがとびだす",
+    "meaning": "Đứa trẻ con chạy ra, nhảy ra",
+    "part": 33
+  },
+  {
+    "term": "プールに飛び込む",
+    "reading": "プールにとびこむ",
+    "meaning": "Nhảy vào bể bơi",
+    "part": 33
+  },
+  {
+    "term": "大学を出る",
+    "reading": "だいがくをでる",
+    "meaning": "Tốt nghiệp đại học",
+    "part": 34
+  },
+  {
+    "term": "卒業する",
+    "reading": "そつぎょうする",
+    "meaning": "Tốt nghiệp",
+    "part": 34
+  },
+  {
+    "term": "会議に出る",
+    "reading": "かいぎにでる",
+    "meaning": "Tham gia cuộc họp",
+    "part": 34
+  },
+  {
+    "term": "食事が出る",
+    "reading": "しょくじがでる",
+    "meaning": "Đồ ăn được dọn ra",
+    "part": 34
+  },
+  {
+    "term": "食事を出す",
+    "reading": "しょくじをだす",
+    "meaning": "Dọn đồ ăn ra",
+    "part": 34
+  },
+  {
+    "term": "結論が出る",
+    "reading": "けつろんがでる",
+    "meaning": "Kết luận được đưa ra",
+    "part": 34
+  },
+  {
+    "term": "結論を出す",
+    "reading": "けつろんをだす",
+    "meaning": "Đưa ra kết luận",
+    "part": 34
+  },
+  {
+    "term": "元気が出る",
+    "reading": "げんきがでる",
+    "meaning": "Cảm thấy khỏe khoắn",
+    "part": 34
+  },
+  {
+    "term": "元気を出す",
+    "reading": "げんきをだす",
+    "meaning": "Làm cho khỏe lên",
+    "part": 34
+  },
+  {
+    "term": "新製品が出る",
+    "reading": "しんせいひんがでる",
+    "meaning": "Sản phẩm mới ra",
+    "part": 34
+  },
+  {
+    "term": "発売する",
+    "reading": "はつばいする",
+    "meaning": "Bán ra",
+    "part": 34
+  },
+  {
+    "term": "新製品を出す",
+    "reading": "しんせいひんをだす",
+    "meaning": "Đưa ra sản phẩm mới",
+    "part": 34
+  },
+  {
+    "term": "芽が出る",
+    "reading": "めがでる",
+    "meaning": "Nảy mầm",
+    "part": 34
+  },
+  {
+    "term": "芽を出す",
+    "reading": "めをだす",
+    "meaning": "Gieo mầm",
+    "part": 34
+  },
+  {
+    "term": "ボーナスが出る",
+    "reading": "ボーナスがでる",
+    "meaning": "Được thưởng",
+    "part": 34
+  },
+  {
+    "term": "ボーナスを出す",
+    "reading": "ボーナスをだす",
+    "meaning": "Đưa ra phần thưởng",
+    "part": 34
+  },
+  {
+    "term": "ゴキブリが出る",
+    "reading": "ゴキブリがでる",
+    "meaning": "Con gián xuất hiện",
+    "part": 34
+  },
+  {
+    "term": "現れる",
+    "reading": "あらわれる",
+    "meaning": "Xuất hiện",
+    "part": 34
+  },
+  {
+    "term": "新聞に名前が出る",
+    "reading": "しんぶんになまえがでる",
+    "meaning": "Tên xuất hiện trên báo",
+    "part": 34
+  },
+  {
+    "term": "載る",
+    "reading": "のる",
+    "meaning": "Lên báo",
+    "part": 34
+  },
+  {
+    "term": "角を曲がると駅に出る",
+    "reading": "かどをまがるとえきにでる",
+    "meaning": "Rẽ ở góc đường sẽ tới nhà ga",
+    "part": 34
+  },
+  {
+    "term": "財布を取る",
+    "reading": "さいふをとる",
+    "meaning": "Móc ví, lấy ví",
+    "part": 34
+  },
+  {
+    "term": "盗む",
+    "reading": "ぬすむ",
+    "meaning": "Trộm cắp",
+    "part": 34
+  },
+  {
+    "term": "財布を取りに戻る",
+    "reading": "さいふをとりにもどる",
+    "meaning": "Quay lại lấy ví",
+    "part": 34
+  },
+  {
+    "term": "運転免許を取る",
+    "reading": "うんてんめんきょをとる",
+    "meaning": "Lấy bằng lái xe",
+    "part": 34
+  },
+  {
+    "term": "コピーを取る",
+    "reading": "コピーをとる",
+    "meaning": "Phô tô",
+    "part": 34
+  },
+  {
+    "term": "コピーする",
+    "reading": "コピーする",
+    "meaning": "Phô tô",
+    "part": 34
+  },
+  {
+    "term": "新聞を取る",
+    "reading": "しんぶんをとる",
+    "meaning": "Lấy báo",
+    "part": 34
+  },
+  {
+    "term": "睡眠を取る",
+    "reading": "すいみんをとる",
+    "meaning": "Ngủ",
+    "part": 34
+  },
+  {
+    "term": "眠る",
+    "reading": "ねむる",
+    "meaning": "Ngủ",
+    "part": 34
+  },
+  {
+    "term": "出席を取る",
+    "reading": "しゅっせきをとる",
+    "meaning": "Tham dự",
+    "part": 34
+  },
+  {
+    "term": "連絡を取る",
+    "reading": "れんらくをとる",
+    "meaning": "Liên lạc",
+    "part": 34
+  },
+  {
+    "term": "連絡する",
+    "reading": "れんらくする",
+    "meaning": "Liên lạc",
+    "part": 34
+  },
+  {
+    "term": "連絡が取れる",
+    "reading": "れんらくがとれる",
+    "meaning": "Có liên lạc",
+    "part": 34
+  },
+  {
+    "term": "痛みを取る",
+    "reading": "いたみをとる",
+    "meaning": "Loại bỏ đau đớn",
+    "part": 34
+  },
+  {
+    "term": "痛みが取れる",
+    "reading": "いたみがとれる",
+    "meaning": "Hết đau",
+    "part": 34
+  },
+  {
+    "term": "ボタンが取れる",
+    "reading": "ボタンがとれる",
+    "meaning": "Đứt cúc",
+    "part": 34
+  },
+  {
+    "term": "新入社員を採る",
+    "reading": "しんにゅうしゃいんをとる",
+    "meaning": "Tuyển nhân viên mới",
+    "part": 34
+  },
+  {
+    "term": "採用する",
+    "reading": "さいようする",
+    "meaning": "Tuyển dụng",
+    "part": 34
+  },
+  {
+    "term": "鍵がかかっている",
+    "reading": "かぎがかかっている",
+    "meaning": "Đang khóa",
+    "part": 34
+  },
+  {
+    "term": "鍵をかける",
+    "reading": "かぎをかける",
+    "meaning": "Khóa cửa",
+    "part": 34
+  },
+  {
+    "term": "病気にかかる",
+    "reading": "びょうきにかかる",
+    "meaning": "Bị bệnh",
+    "part": 34
+  },
+  {
+    "term": "病気になる",
+    "reading": "びょうきになる",
+    "meaning": "Bị bệnh",
+    "part": 34
+  },
+  {
+    "term": "医者にかかる",
+    "reading": "いしゃにかかる",
+    "meaning": "Gặp bác sỹ",
+    "part": 34
+  },
+  {
+    "term": "診察してもらう",
+    "reading": "しんさつしてもらう",
+    "meaning": "Được khám bệnh",
+    "part": 34
+  },
+  {
+    "term": "ボタンをかける",
+    "reading": "ボタンをかける",
+    "meaning": "Đóng cúc (áo)",
+    "part": 34
+  },
+  {
+    "term": "外す",
+    "reading": "はずす",
+    "meaning": "Sai lệch, không đúng",
+    "part": 34
+  },
+  {
+    "term": "毛布をかける",
+    "reading": "もうふをかける",
+    "meaning": "Đắp chăn",
+    "part": 34
+  },
+  {
+    "term": "声をかける",
+    "reading": "こえをかける",
+    "meaning": "Gọi",
+    "part": 34
+  },
+  {
+    "term": "声がかかる",
+    "reading": "こえがかかる",
+    "meaning": "Bị gọi",
+    "part": 34
+  },
+  {
+    "term": "心配をかける",
+    "reading": "しんぱいをかける",
+    "meaning": "Làm ai đó lo lắng",
+    "part": 34
+  },
+  {
+    "term": "心配させる",
+    "reading": "しんぱいさせる",
+    "meaning": "Làm ai đó lo lắng",
+    "part": 34
+  },
+  {
+    "term": "席を立つ",
+    "reading": "せきをたつ",
+    "meaning": "Rời khỏi ghế",
+    "part": 35
+  },
+  {
+    "term": "座る",
+    "reading": "すわる",
+    "meaning": "Ngồi",
+    "part": 35
+  },
+  {
+    "term": "時間がたつ",
+    "reading": "じかんがたつ",
+    "meaning": "Thời gian trôi",
+    "part": 35
+  },
+  {
+    "term": "うわさが立つ",
+    "reading": "うわさがたつ",
+    "meaning": "Lan truyền tin đồn",
+    "part": 35
+  },
+  {
+    "term": "予定を立てる",
+    "reading": "よていをたてる",
+    "meaning": "Lập kế hoạch (dự định)",
+    "part": 35
+  },
+  {
+    "term": "計画する",
+    "reading": "けいかくする",
+    "meaning": "Lập kế hoạch",
+    "part": 35
+  },
+  {
+    "term": "音を立てる",
+    "reading": "おとをたてる",
+    "meaning": "Làm ồn",
+    "part": 35
+  },
+  {
+    "term": "音を出す",
+    "reading": "おとをだす",
+    "meaning": "Làm ồn",
+    "part": 35
+  },
+  {
+    "term": "雨が上がる",
+    "reading": "あめがあがる",
+    "meaning": "Tạnh mưa",
+    "part": 35
+  },
+  {
+    "term": "雨が止む",
+    "reading": "あめがやむ",
+    "meaning": "Tạnh mưa",
+    "part": 35
+  },
+  {
+    "term": "風呂から出る",
+    "reading": "ふろからでる",
+    "meaning": "Bước ra từ bồn tắm",
+    "part": 35
+  },
+  {
+    "term": "風呂から上がる",
+    "reading": "ふろからあがる",
+    "meaning": "Bước ra từ bồn tắm",
+    "part": 35
+  },
+  {
+    "term": "物価が上がる",
+    "reading": "ぶっかがあがる",
+    "meaning": "Giá tăng",
+    "part": 35
+  },
+  {
+    "term": "効果が上がる",
+    "reading": "こうかがあがる",
+    "meaning": "Hiệu quả tăng",
+    "part": 35
+  },
+  {
+    "term": "効果を上げる",
+    "reading": "こうかをあげる",
+    "meaning": "Tăng hiệu quả",
+    "part": 35
+  },
+  {
+    "term": "初めてのスピーチであがる",
+    "reading": "はじめてのスピーチであがる",
+    "meaning": "Lo lắng vì lần đầu phát biểu",
+    "part": 35
+  },
+  {
+    "term": "緊張する",
+    "reading": "きんちょうする",
+    "meaning": "Căng thẳng",
+    "part": 35
+  },
+  {
+    "term": "例をあげる",
+    "reading": "れいをあげる",
+    "meaning": "Cho ví dụ",
+    "part": 35
+  },
+  {
+    "term": "例を並べる",
+    "reading": "れいをならべる",
+    "meaning": "Cho ví dụ",
+    "part": 35
+  },
+  {
+    "term": "結婚式をあげる",
+    "reading": "けっこんしきをあげる",
+    "meaning": "Tổ chức hôn lễ",
+    "part": 35
+  },
+  {
+    "term": "熱が下がる",
+    "reading": "ねつがさがる",
+    "meaning": "Hạ sốt",
+    "part": 35
+  },
+  {
+    "term": "黄色い線の内側まで下がる",
+    "reading": "きいろいせんのうちがわまでさがる",
+    "meaning": "Lùi vào bên trong đường màu vàng",
+    "part": 35
+  },
+  {
+    "term": "評判が下がる",
+    "reading": "ひょうばんがさがる",
+    "meaning": "Bị đánh giá kém",
+    "part": 35
+  },
+  {
+    "term": "評判が落ちる",
+    "reading": "ひょうばんがおちる",
+    "meaning": "Giảm danh tiếng, Bị đánh giá kém",
+    "part": 35
+  },
+  {
+    "term": "評判を下げる",
+    "reading": "ひょうばんをさげる",
+    "meaning": "Làm mất uy tín (Đánh giá)",
+    "part": 35
+  },
+  {
+    "term": "カーテンが下がる",
+    "reading": "カーテンがさがる",
+    "meaning": "Rèm được treo",
+    "part": 35
+  },
+  {
+    "term": "カーテンを下げる",
+    "reading": "カーテンをさげる",
+    "meaning": "Treo rèm",
+    "part": 35
+  },
+  {
+    "term": "一字下げて書く",
+    "reading": "いちじさげてかく",
+    "meaning": "Viết cách một ký tự",
+    "part": 35
+  },
+  {
+    "term": "テレビの音を下げる",
+    "reading": "テレビのおとをさげる",
+    "meaning": "Cho nhỏ tiếng tivi",
+    "part": 35
+  },
+  {
+    "term": "泥がつく",
+    "reading": "どろがつく",
+    "meaning": "Dính bùn",
+    "part": 35
+  },
+  {
+    "term": "傷がつく",
+    "reading": "きずがつく",
+    "meaning": "Bị tổn thương",
+    "part": 35
+  },
+  {
+    "term": "傷をつける",
+    "reading": "きずをつける",
+    "meaning": "Gây tổn thương",
+    "part": 35
+  },
+  {
+    "term": "連絡がつく",
+    "reading": "れんらくがつく",
+    "meaning": "Liên lạc",
+    "part": 35
+  },
+  {
+    "term": "連絡をつける",
+    "reading": "れんらくをつける",
+    "meaning": "Giữ liên lạc",
+    "part": 35
+  },
+  {
+    "term": "おまけがつく",
+    "reading": "おまけがつく",
+    "meaning": "Được tặng thêm",
+    "part": 35
+  },
+  {
+    "term": "おまけをつける",
+    "reading": "おまけをつける",
+    "meaning": "Tặng thêm hàng khuyến mãi",
+    "part": 35
+  },
+  {
+    "term": "印をつける",
+    "reading": "しるしをつける",
+    "meaning": "Đánh dấu",
+    "part": 35
+  },
+  {
+    "term": "たばこに火をつける",
+    "reading": "たばこにひをつける",
+    "meaning": "Châm thuốc",
+    "part": 35
+  },
+  {
+    "term": "火がつく",
+    "reading": "ひがつく",
+    "meaning": "Bén lửa, bắt lửa",
+    "part": 35
+  },
+  {
+    "term": "日記をつける",
+    "reading": "にっきをつける",
+    "meaning": "Viết nhật ký",
+    "part": 35
+  }
+]
