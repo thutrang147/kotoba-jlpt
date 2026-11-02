@@ -12,6 +12,7 @@ __pycache__/
 *.dump
 *.backup
 source_books/
+*.pdf
 artifacts/
 *.py[cod]
 .pytest_cache/

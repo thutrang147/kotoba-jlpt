@@ -3,7 +3,7 @@
 from pathlib import Path
 import zipfile
 ROOT=Path(__file__).resolve().parent
-FILES='''server.py database.py online.py migrate_sqlite.py dictionary_enrichment.py
+FILES='''server.py config.py database.py online.py migrate_sqlite.py dictionary_enrichment.py
 soumatome_import.py soumatome_parts_import.py source_coverage.py
 requirements.txt render.yaml .env.example .gitignore
 package_deploy.py'''.split()

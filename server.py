@@ -23,6 +23,10 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import urlparse, parse_qs
 
+if __name__ == '__main__':
+    from config import load_environment
+    load_environment()
+
 ROOT = Path(__file__).resolve().parent
 DB = Path(os.environ.get('JLPT_DB', str(ROOT/'progress.sqlite3')))
 LOCK = threading.RLock()
@@ -492,12 +496,21 @@ def restore(data):
     with LOCK,connect() as c:
         online.backup(sys.modules[__name__],c,'before-restore')
         for table in ('cards','progress','events','settings'):c.execute('DELETE FROM '+table)
-        for card in data['cards']:c.execute('INSERT INTO cards VALUES (?,?)',(card['id'],json.dumps(card,ensure_ascii=False)))
-        for p in checked:
-            fields=['card_id','skill','stage','due','last_day','successes','errors','phase','streak','mastered','last_mode']
-            c.execute('INSERT INTO progress VALUES ('+','.join('?'*len(fields))+')',tuple(p.get(k) for k in fields))
-        for e in data.get('events',[]):c.execute('INSERT INTO events VALUES (?,?,?)',(e['id'],e['created'],e['body']))
-        for setting in data.get('settings',[]):c.execute('INSERT INTO settings VALUES (?,?)',(setting['key'],setting['value']))
+        # Keep the whole restore atomic while avoiding one network round trip per row.
+        def insert_rows(table, fields, rows):
+            for offset in range(0,len(rows),250):
+                batch=rows[offset:offset+250]
+                c.execute('INSERT INTO '+table+' ('+','.join(fields)+') VALUES '+
+                          ','.join('('+','.join('?' for _ in fields)+')' for _ in batch),
+                          tuple(value for row in batch for value in row))
+        insert_rows('cards',['id','body'],
+                    [(card['id'],json.dumps(card,ensure_ascii=False)) for card in data['cards']])
+        fields=['card_id','skill','stage','due','last_day','successes','errors','phase','streak','mastered','last_mode']
+        insert_rows('progress',fields,[tuple(p.get(k) for k in fields) for p in checked])
+        insert_rows('events',['id','created','body'],
+                    [(e['id'],e['created'],e['body']) for e in data.get('events',[])])
+        insert_rows('settings',['key','value'],
+                    [(s['key'],s['value']) for s in data.get('settings',[])])
         saved=online.get_session(sys.modules[__name__],c)
         online.save_session(c,saved['revision'],data.get('study',{}).get('snapshot'))
         seed_cards(c)

@@ -7,6 +7,9 @@
 **Chưa deploy public.** Cần tạo Neon/Render và cấu hình secrets theo [DEPLOY.md](DEPLOY.md).
 Không cần mua domain. Chính sách miễn phí có hạn mức và có thể thay đổi.
 
+SQLite đã được chuyển sang Neon ngày 02/11/2026; xem [NEON_MIGRATION.md](NEON_MIGRATION.md).
+`server.py` và `migrate_sqlite.py` tự đọc `.env`. Khi có `DATABASE_URL`, app dùng Neon.
+
 ## Chạy local
 
 Các lệnh bên dưới chạy từ thư mục gốc `jlpt-local`, nơi có `server.py`.

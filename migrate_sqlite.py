@@ -98,6 +98,8 @@ def migrate(source, backup_dir):
     return {'already_migrated':False,'backup':str(backup),'counts':{k:len(v) for k,v in data.items()}}
 
 if __name__=='__main__':
+    from config import load_environment
+    load_environment()
     parser=argparse.ArgumentParser()
     parser.add_argument('--source',default='progress.sqlite3')
     parser.add_argument('--backup-dir',default='backups')

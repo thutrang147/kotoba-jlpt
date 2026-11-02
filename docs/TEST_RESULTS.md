@@ -1,4 +1,19 @@
-# Kết quả kiểm thử — 01/11/2026
+# Kết quả kiểm thử
+
+## Cập nhật 02/11/2026 — migration Neon thật
+
+- Local: 54 tests, 53 đạt; 1 test migration PostgreSQL bỏ qua ở lượt SQLite.
+- Neon thật: 37/37 đạt, không bỏ qua (14 online/migration + 23 engine học).
+- Kết nối Neon qua TLS thành công, tạo 10 bảng trong database đích trống.
+- Migration: 5.258 thẻ, 55 progress, 94 events; đối chiếu từng trường thành công.
+- SHA-256 SQLite gốc trước/sau không thay đổi; đã tạo backup mới.
+- App khởi động với Neon: `/healthz` trả 200, `/api/state` chưa đăng nhập trả 401.
+- Restore backup ghi tối đa 250 dòng/lô trong cùng transaction, giảm số lượt gọi Neon.
+  Bộ test local kiểm tra restore thành công và rollback khi dữ liệu bị trùng/lỗi.
+- Git bỏ qua `.env`, SQLite, backup, PDF; rà soát các file tracked không phát hiện secrets thật.
+- Chi tiết và hướng dẫn deploy: [NEON_MIGRATION.md](NEON_MIGRATION.md).
+
+## Lịch sử kiểm thử 01/11/2026
 
 ## Đã thực hiện
 

@@ -49,7 +49,7 @@ Migration sẽ tạo thêm backup mới bao gồm dữ liệu mới nhất, bằ
 
    Mật khẩu được nhập kín. Sao chép dòng hash Argon2, không đưa mật khẩu gốc vào source.
 5. Tạo file `.env` trên Mac bằng editor, dựa vào `.env.example`. File này đã bị Git bỏ qua.
-   **Đặt giá trị URL và hash trong dấu nháy đơn** để shell không mở rộng ký tự `$`:
+   Đặt URL và hash trong dấu nháy đơn để giữ nguyên các ký tự đặc biệt:
 
    ```dotenv
    DATABASE_URL='postgresql://YOUR_NEON_CONNECTION_STRING'
@@ -61,18 +61,17 @@ Migration sẽ tạo thêm backup mới bao gồm dữ liệu mới nhất, bằ
    JLPT_NO_BROWSER=1
    ```
 
-   Đây là ví dụ, phải thay URL và hash thật. Ứng dụng không tự đọc `.env`; nạp vào
-   shell khi chạy các lệnh migration:
-
-   ```bash
-   set -a
-   source .env
-   set +a
-   ```
+   Đây là ví dụ, phải thay URL và hash thật. `server.py` và `migrate_sqlite.py`
+   tự đọc `.env` ở thư mục gốc. Biến môi trường đã có từ Render hoặc process
+   được ưu tiên; không cần `source .env`. Giá trị mật khẩu/hash không được nội suy.
+   Import module trong unit tests không tự nạp `.env`, tránh chạm dữ liệu thật.
 
    Không dán `.env`, URL hoặc hash vào chat, issue, ảnh chụp công khai hoặc GitHub.
 
 ## 4. Chuyển dữ liệu SQLite lên Neon một lần
+
+Migration thực tế ngày 02/11/2026 đã hoàn tất; xem [NEON_MIGRATION.md](NEON_MIGRATION.md).
+Không cần nhập lại dữ liệu cho lần deploy đầu tiên.
 
 Thực hiện **trước khi bắt đầu học trên bản online**:
 
