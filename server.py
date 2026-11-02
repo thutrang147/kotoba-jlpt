@@ -522,13 +522,17 @@ class Handler(BaseHTTPRequestHandler):
     def log_message(self,*args):pass
     def send(self,data,status=200,mime='application/json; charset=utf-8'):
         raw=json.dumps(data,ensure_ascii=False).encode() if mime.startswith('application/json') else data
-        self.send_response(status);self.send_header('Content-Type',mime);self.send_header('Content-Length',str(len(raw)));
-        self.send_header('Cache-Control','no-store');self.send_header('X-Content-Type-Options','nosniff')
-        self.send_header('X-Frame-Options','DENY')
-        self.send_header('Referrer-Policy','same-origin')
-        self.send_header('Content-Security-Policy',"default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' blob: data:; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'")
-        if getattr(self,'response_cookie',None):self.send_header('Set-Cookie',self.response_cookie)
-        self.end_headers();self.wfile.write(raw)
+        try:
+            self.send_response(status);self.send_header('Content-Type',mime);self.send_header('Content-Length',str(len(raw)));
+            self.send_header('Cache-Control','no-store');self.send_header('X-Content-Type-Options','nosniff')
+            self.send_header('X-Frame-Options','DENY')
+            self.send_header('Referrer-Policy','same-origin')
+            self.send_header('Content-Security-Policy',"default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' blob: data:; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'")
+            if getattr(self,'response_cookie',None):self.send_header('Set-Cookie',self.response_cookie)
+            self.end_headers();self.wfile.write(raw)
+        except (BrokenPipeError,ConnectionResetError):
+            # The client/proxy disconnected; a second response cannot reach it.
+            self.close_connection=True
     def send_book_pdf(self,book):
         """Serve a user-supplied source PDF with HTTP byte ranges for Chrome's viewer."""
         filename=BOOK_PDFS.get(book)

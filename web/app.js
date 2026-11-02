@@ -14,7 +14,15 @@ async function api(path,body){
   if(r.status===409){study=await api('/api/session');applyStudy(study);if(active)showQuestion();throw Error(x.error);}
   if(!r.ok)throw Error(x.error||'Máy chủ gặp lỗi');return x;
 }
-function loginView(){active=false;state=null;$('#logout').hidden=true;$('#content').innerHTML=`<div class="study panel"><h1>Kotoba JLPT N3</h1><p>Đăng nhập để tiếp tục học trên mọi thiết bị.</p><form id="loginForm"><label for="password">Mật khẩu cá nhân</label><input id="password" type="password" autocomplete="current-password" required><button class="full" type="submit">Đăng nhập →</button></form></div>`;$('#loginForm').addEventListener('submit',e=>{e.preventDefault();handle(async()=>{await api('/api/login',{password:$('#password').value});await load();say('');})()});}
+function loginView(){active=false;state=null;$('#logout').hidden=true;$('#content').innerHTML=`<div class="study panel"><h1>Kotoba JLPT N3</h1><p>Đăng nhập để tiếp tục học trên mọi thiết bị.</p><form id="loginForm"><label for="password">Mật khẩu cá nhân</label><input id="password" type="password" autocomplete="current-password" required><button class="full" type="submit">Đăng nhập →</button></form></div>`;$('#loginForm').addEventListener('submit',async e=>{
+  e.preventDefault();const form=e.currentTarget,button=form.querySelector('button');
+  if(button.disabled)return;
+  const password=form.querySelector('#password').value;
+  button.disabled=true;button.textContent='Đang đăng nhập…';say('');
+  try{await api('/api/login',{password});await load();say('');}
+  catch(error){say(error.message);}
+  finally{button.disabled=false;button.textContent='Đăng nhập →';}
+});}
 function applyStudy(x){study=x;const s=x.snapshot;if(!s){queue=[];current=null;return;}({queue,total,done,correct,current}=s);groupResults=s.groupResults||[];completedCards=s.completedCards||0;sessionSeen=s.sessionSeen||[];}
 
 function say(s){const n=$('#notice');n.hidden=!s;n.textContent=s||'';if(s)scrollTo({top:0,behavior:'smooth'});}

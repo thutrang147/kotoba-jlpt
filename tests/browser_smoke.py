@@ -18,7 +18,8 @@ with tempfile.TemporaryDirectory() as directory:
         sock.bind(('127.0.0.1',0));port=sock.getsockname()[1]
     env={**os.environ,'JLPT_DB':directory+'/test.sqlite3','JLPT_NO_BROWSER':'1','COOKIE_SECURE':'0',
          'APP_ENV':'development','APP_PASSWORD_HASH':PasswordHasher().hash('test-browser-password')}
-    env.pop('DATABASE_URL',None)
+    # An explicit empty value prevents CLI dotenv loading the personal Neon URL.
+    env['DATABASE_URL']=''
     process=subprocess.Popen([sys.executable,'server.py','--port',str(port)],cwd=ROOT,env=env,stdout=subprocess.DEVNULL)
     try:
         with sync_playwright() as p:
