@@ -24,6 +24,7 @@ class OnlineTests(unittest.TestCase):
         os.environ.pop('DATABASE_URL',None)
         os.environ.pop('APP_PASSWORD_HASH',None)
         os.environ['APP_ENV']='development';os.environ['COOKIE_SECURE']='0'
+        os.environ['APP_AUTH_REQUIRED']='1'
         self.tmp=tempfile.TemporaryDirectory();self.old_db=server.DB
         server.DB=Path(self.tmp.name)/'test.sqlite3'
         self.url=os.environ.get('TEST_DATABASE_URL')

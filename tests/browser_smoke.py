@@ -13,11 +13,13 @@ from argon2 import PasswordHasher
 from playwright.sync_api import sync_playwright
 
 ROOT=Path(__file__).resolve().parents[1]
+NO_AUTH=os.environ.get('SMOKE_NO_AUTH')=='1'
 with tempfile.TemporaryDirectory() as directory:
     with socket.socket() as sock:
         sock.bind(('127.0.0.1',0));port=sock.getsockname()[1]
     env={**os.environ,'JLPT_DB':directory+'/test.sqlite3','JLPT_NO_BROWSER':'1','COOKIE_SECURE':'0',
          'APP_ENV':'development','APP_PASSWORD_HASH':PasswordHasher().hash('test-browser-password')}
+    env['APP_AUTH_REQUIRED']='0' if NO_AUTH else '1'
     # An explicit empty value prevents CLI dotenv loading the personal Neon URL.
     env['DATABASE_URL']=''
     process=subprocess.Popen([sys.executable,'server.py','--port',str(port)],cwd=ROOT,env=env,stdout=subprocess.DEVNULL)
@@ -36,8 +38,11 @@ with tempfile.TemporaryDirectory() as directory:
                     urllib.request.urlopen(url+'/healthz');break
                 except Exception:time.sleep(.1)
             def login(pg):
-                pg.goto(url);pg.locator('#password').fill('test-browser-password')
-                pg.locator('#loginForm button').click();pg.locator('#start').wait_for()
+                pg.goto(url)
+                if not NO_AUTH:
+                    pg.locator('#password').fill('test-browser-password')
+                    pg.locator('#loginForm button').click()
+                pg.locator('#start').wait_for()
             login(page);login(other)
             page.locator('#start').click();page.locator('#answerArea').wait_for()
             for width in (320,390,430,1280):
@@ -99,8 +104,12 @@ with tempfile.TemporaryDirectory() as directory:
             assert page.locator('.skill-result.is-correct').count()==1
             assert page.locator('.skill-result.is-wrong').count()==1
             page.screenshot(path=str(ROOT/'artifacts/mobile-feedback.png'),full_page=True)
-            page.locator('#logout').click();page.locator('#password').wait_for()
-            assert page.evaluate("fetch('/api/export').then(r=>r.status)")==401
+            if NO_AUTH:
+                assert not page.locator('#logout').is_visible()
+                assert page.evaluate("fetch('/api/export').then(r=>r.status)")==200
+            else:
+                page.locator('#logout').click();page.locator('#password').wait_for()
+                assert page.evaluate("fetch('/api/export').then(r=>r.status)")==401
             browser.close()
             print(json.dumps({'browser':'Chrome','widths':[320,390,430,1280],'batch_cards':10,'resume':True,
                               'two_contexts':True,'offline_no_answer_saved':True,'installability_errors':diagnostics['installabilityErrors'],

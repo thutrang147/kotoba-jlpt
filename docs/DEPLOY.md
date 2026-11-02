@@ -36,6 +36,10 @@ Migration sẽ tạo thêm backup mới bao gồm dữ liệu mới nhất, bằ
 
 ## 3. Tạo Neon và môi trường cục bộ
 
+**Cấu hình hiện tại:** không cần đăng nhập (`APP_AUTH_REQUIRED=0`, cũng là mặc định).
+Ai có URL cũng có thể xem và sửa tiến trình. Không cần `APP_PASSWORD_HASH`;
+bước tạo hash dưới đây chỉ dùng nếu muốn bật lại đăng nhập bằng `APP_AUTH_REQUIRED=1`.
+
 1. Đăng ký tại [Neon Console](https://console.neon.tech/), chọn **Free**.
 2. Tạo project `kotoba-jlpt-n3`, chọn region gần bạn, ưu tiên gần region Render.
 3. Trong **Connect**, chọn database/role, sao chép connection string đầy đủ.
@@ -55,6 +59,7 @@ Migration sẽ tạo thêm backup mới bao gồm dữ liệu mới nhất, bằ
    DATABASE_URL='postgresql://YOUR_NEON_CONNECTION_STRING'
    APP_PASSWORD_HASH='$argon2id$YOUR_GENERATED_HASH'
    APP_ENV=production
+   APP_AUTH_REQUIRED=0
    COOKIE_SECURE=1
    APP_TIMEZONE=Asia/Ho_Chi_Minh
    HOST=0.0.0.0
@@ -117,7 +122,8 @@ Không có Git repository được tạo hoặc đẩy tự động trong lần 
    - Start: `python server.py`
    - Health check: `/healthz`
    - Không tạo Render Postgres, không gắn disk trả phí.
-3. Nhập hai secrets `DATABASE_URL` và `APP_PASSWORD_HASH` vào Environment.
+3. Nhập secret `DATABASE_URL` vào Environment; đặt `APP_AUTH_REQUIRED=0`.
+   Chỉ cần `APP_PASSWORD_HASH` nếu chủ động bật lại đăng nhập.
    Trong UI Render dán **giá trị thô, không bọc dấu nháy**.
 4. Các biến còn lại đã có trong YAML:
 

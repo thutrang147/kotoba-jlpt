@@ -43,9 +43,8 @@ function showTab(next){if(active)store();active=false;tab=next;say('');document.
 document.querySelectorAll('.tab').forEach(b=>b.addEventListener('click',()=>showTab(b.dataset.tab)));
 function render(){if(!state)return;if(tab==='home')home();if(tab==='progress')progressView();if(tab==='library')library();if(tab==='data')dataView();}
 async function load(){
-  const auth=await api('/api/auth');if(!auth.authenticated){loginView();return;}
-  $('#logout').hidden=!auth.enabled;
   state=await api('/api/state');applyStudy(state.study);
+  $('#logout').hidden=!state.config.auth_enabled;
   const legacy=localStorage.getItem(cacheKey);
   if(legacy&&!study.revision){applyStudy(await api('/api/adopt-session',{snapshot:JSON.parse(legacy)}));localStorage.removeItem(cacheKey);}
   render();

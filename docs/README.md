@@ -2,7 +2,7 @@
 
 Ứng dụng học cá nhân Python + HTML/CSS/JavaScript, giữ logic Reading/Meaning,
 10 thẻ/lượt và spaced repetition. Bản online dùng Render Free + Neon PostgreSQL,
-đăng nhập cá nhân, tiếp tục lượt học giữa thiết bị và PWA.
+tiếp tục lượt học giữa thiết bị và PWA. Mặc định mở thẳng vào học, không đăng nhập.
 
 **Chưa deploy public.** Cần tạo Neon/Render và cấu hình secrets theo [DEPLOY.md](DEPLOY.md).
 Không cần mua domain. Chính sách miễn phí có hạn mức và có thể thay đổi.
@@ -24,7 +24,9 @@ python3.12 -m venv .venv
 
 Mở **http://localhost:8765**. Không đặt `DATABASE_URL` thì tiếp tục dùng SQLite cũ.
 Chế độ local mặc định chỉ bind `127.0.0.1`; chưa cấu hình hash thì không hỏi mật khẩu.
-Production bắt buộc PostgreSQL + mật khẩu hash + cookie Secure, thiếu sẽ không khởi động.
+Production bắt buộc PostgreSQL. `APP_AUTH_REQUIRED=0` (mặc định) bỏ đăng nhập;
+ai có URL cũng có thể xem/thay đổi tiến trình. Muốn bật lại, đặt `APP_AUTH_REQUIRED=1`
+và cấu hình `APP_PASSWORD_HASH` hợp lệ cùng cookie Secure.
 
 Lượt học v2 trong localStorage tại đúng origin cũ được tự chuyển lên server một lần.
 Sau migration sang Neon, dùng bản online làm nguồn tiến trình duy nhất.

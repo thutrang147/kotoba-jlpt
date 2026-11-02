@@ -34,9 +34,8 @@ Không nhập đè SQLite cũ lên tiến trình mới.
 
 ## GitHub Private và Render Free
 
-1. Tạo mật khẩu đăng nhập ứng dụng bằng `.venv/bin/python online.py`.
-   Nhập mật khẩu kín; giữ hash Argon2 trong `.env` và cấu hình Render.
-   Không dùng mật khẩu Neon làm mật khẩu ứng dụng.
+1. App mặc định không đăng nhập (`APP_AUTH_REQUIRED=0`). Ai có URL đều có thể
+   xem và thay đổi tiến trình. Không cần tạo hash mật khẩu ứng dụng.
 2. Commit thay đổi triển khai, xem lại danh sách file trước khi push:
 
    ```bash
@@ -59,14 +58,15 @@ Không nhập đè SQLite cũ lên tiến trình mới.
 4. Render → New → Blueprint → cấp quyền vào đúng repository private.
    Chọn repo và nhánh `main`; `render.yaml` đã đặt `plan: free`.
    Không tạo thêm Render Postgres; dữ liệu nằm trên Neon.
-5. Nhập `DATABASE_URL` từ `.env` và `APP_PASSWORD_HASH` vừa tạo vào các trường secrets.
+5. Nhập `DATABASE_URL` từ `.env` vào secrets, đặt `APP_AUTH_REQUIRED=0`.
+   `APP_PASSWORD_HASH` cũ có thể giữ nguyên hoặc xóa; không dùng khi tắt đăng nhập.
    Có thể dùng giá trị `DATABASE_URL_POOLED` làm `DATABASE_URL` trên Render;
    app chỉ đọc tên biến `DATABASE_URL`. Giữ nguyên tham số TLS.
    Khi nhập trên Render, không thêm dấu nháy bao ngoài.
    Blueprint đã cấu hình production, cookie Secure, Python, timezone và HOST.
 6. Kiểm tra dịch vụ là **Free** trước khi chọn deploy. Build:
    `pip install -r requirements.txt`; start: `python server.py`; health: `/healthz`.
-7. Mở URL HTTPS Render, đăng nhập và kiểm tra số thẻ/tiến trình, học thử rồi reload.
+7. Mở URL HTTPS Render và kiểm tra số thẻ/tiến trình, học thử rồi reload.
    Không chạy migration lại trên Render, không đưa SQLite lên máy chủ.
 
 Render Free tự ngủ sau 15 phút không có truy cập; lần mở lại có thể chậm.

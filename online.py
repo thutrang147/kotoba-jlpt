@@ -19,15 +19,17 @@ CREATE TABLE IF NOT EXISTS import_log(id TEXT PRIMARY KEY, created TEXT NOT NULL
 CREATE TABLE IF NOT EXISTS migrations(id TEXT PRIMARY KEY, created TEXT NOT NULL);
 '''
 
+def auth_required(): return os.environ.get('APP_AUTH_REQUIRED', '0') != '0'
+
 def validate_config():
     production = os.environ.get('APP_ENV') == 'production' or os.environ.get('RENDER') == 'true'
     password_hash = os.environ.get('APP_PASSWORD_HASH', '')
-    if production and (not os.environ.get('DATABASE_URL') or not password_hash or os.environ.get('COOKIE_SECURE', '1') != '1'):
+    if production and (not os.environ.get('DATABASE_URL') or (auth_required() and (not password_hash or os.environ.get('COOKIE_SECURE', '1') != '1'))):
         raise RuntimeError('Production requires DATABASE_URL, APP_PASSWORD_HASH and secure cookies')
-    if password_hash:
+    if auth_required() and password_hash:
         PasswordHasher().check_needs_rehash(password_hash)  # validate format; never log it
 
-def auth_enabled(): return bool(os.environ.get('APP_PASSWORD_HASH'))
+def auth_enabled(): return auth_required() and bool(os.environ.get('APP_PASSWORD_HASH'))
 def cookie_name(): return '__Host-kotoba' if os.environ.get('COOKIE_SECURE', '1') == '1' else 'kotoba_local'
 def token_from(headers):
     try:
@@ -37,6 +39,7 @@ def token_from(headers):
     except Exception: return ''
 
 def authenticated(app, headers):
+    if not auth_required(): return True
     if not auth_enabled(): return os.environ.get('APP_ENV') != 'production' and os.environ.get('RENDER') != 'true'
     with app.connect() as c:
         return c.execute('SELECT token FROM auth_sessions WHERE token=? AND expires>?',

@@ -163,7 +163,7 @@ def get_state():
     return {'cards':records,'progress':ps,'progress_stats':progress_stats(records,ps,event_card_ids),
             'today_answers':n,'sources':manifest,
             'study':study_state(),
-            'config':{'choice_goal':CHOICE_GOAL,'write_goal':WRITE_GOAL}}
+            'config':{'choice_goal':CHOICE_GOAL,'write_goal':WRITE_GOAL,'auth_enabled':online.auth_enabled()}}
 
 def study_state():
     with connect() as c:return online.get_session(sys.modules[__name__],c)
